@@ -1,0 +1,75 @@
+fact,value,how_computed
+sample_first_month,2006-01,First month loaded for notebook 04
+sample_last_month,2025-12,Last month with Pink Sheet world prices
+corr_rice_pearson,0.055,"Pearson r, monthly % change, Rice (coarse) vs World rice (Thai 5%), n=232"
+corr_rice_ci,-0.07 to 0.18,Fisher-z 95% CI of that r
+corr_rice_spearman,0.007,"Spearman rho, same pair"
+corr_wheat_pearson,0.099,"Pearson r, monthly % change, Wheat flour (atta) vs World wheat (US HRW), n=232"
+corr_wheat_ci,-0.03 to 0.23,Fisher-z 95% CI of that r
+corr_wheat_spearman,0.113,"Spearman rho, same pair"
+corr_palm_pearson,0.425,"Pearson r, monthly % change, Palm oil (L) vs World palm oil, n=217"
+corr_palm_ci,0.31 to 0.53,Fisher-z 95% CI of that r
+corr_palm_spearman,0.418,"Spearman rho, same pair"
+spurious_rw_share_significant,0.848,Share of 2000 pairs of independent 240-month random walks with |r| > 2/sqrt(T) in levels
+spurious_diff_share_significant,0.039,Same share for their changes (should be about 0.05)
+spurious_rice_vs_wheat_levels_r,0.323,"Correlation of log levels, domestic rice vs world wheat (USD)"
+spurious_rice_vs_wheat_changes_r,0.033,"Correlation of monthly changes, same pair"
+simple_rice_levels_slope,0.71,"OLS slope, levels, log domestic rice on log Thai rice in BDT"
+simple_rice_levels_ci,0.52 to 0.90,"95% CI, Newey-West SE"
+simple_rice_levels_r2,0.452,R squared
+simple_rice_levels_dw,0.06,Durbin-Watson of residuals
+simple_rice_changes_slope,0.033,"OLS slope, changes, log domestic rice on log Thai rice in BDT"
+simple_rice_changes_ci,-0.05 to 0.12,"95% CI, Newey-West SE"
+simple_rice_changes_r2,0.003,R squared
+simple_rice_changes_dw,1.37,Durbin-Watson of residuals
+lr_passthrough_rice_coarse,0.156,"Sum of lag 0-3 coefficients on taka world price, rice_coarse, HAC"
+lr_passthrough_rice_coarse_ci,0.02 to 0.30,95% CI of that sum (Newey-West)
+lr_passthrough_rice_coarse_p_zero,0.0286,"Wald test p-value, H0: sum = 0"
+lr_passthrough_rice_coarse_p_full,0.0,"Wald test p-value, H0: sum = 1 (full pass-through)"
+lr_passthrough_atta,0.364,"Sum of lag 0-3 coefficients on taka world price, atta, HAC"
+lr_passthrough_atta_ci,0.19 to 0.54,95% CI of that sum (Newey-West)
+lr_passthrough_atta_p_zero,0.0,"Wald test p-value, H0: sum = 0"
+lr_passthrough_atta_p_full,0.0,"Wald test p-value, H0: sum = 1 (full pass-through)"
+lr_passthrough_lentil_masur,-0.28,"Sum of lag 0-3 coefficients on BDT per USD, lentil_masur, HAC"
+lr_passthrough_lentil_masur_ci,-0.91 to 0.35,95% CI of that sum (Newey-West)
+lr_passthrough_lentil_masur_p_zero,0.3832,"Wald test p-value, H0: sum = 0"
+lr_passthrough_lentil_masur_p_full,0.0001,"Wald test p-value, H0: sum = 1 (full pass-through)"
+lr_passthrough_palm_oil,0.664,"Sum of lag 0-3 coefficients on taka world price, palm_oil, HAC"
+lr_passthrough_palm_oil_ci,0.53 to 0.80,95% CI of that sum (Newey-West)
+lr_passthrough_palm_oil_p_zero,0.0,"Wald test p-value, H0: sum = 0"
+lr_passthrough_palm_oil_p_full,0.0,"Wald test p-value, H0: sum = 1 (full pass-through)"
+adj_r2_rice_coarse,0.059,"Adjusted R squared, main model"
+adj_r2_atta,0.218,"Adjusted R squared, main model"
+adj_r2_lentil_masur,-0.022,"Adjusted R squared, main model"
+adj_r2_palm_oil,0.457,"Adjusted R squared, main model"
+palm_oil_10pct_shock_effect_pct,6.6,"10 x long-run pass-through, palm oil"
+fx_passthrough_rice_coarse,-0.673,"Sum of lag 0-3 coefficients on BDT per USD, dollar world price entered separately"
+fx_passthrough_rice_coarse_ci,-1.38 to 0.04,95% CI (Newey-West)
+fx_passthrough_atta,0.616,"Sum of lag 0-3 coefficients on BDT per USD, dollar world price entered separately"
+fx_passthrough_atta_ci,-0.80 to 2.03,95% CI (Newey-West)
+fx_passthrough_palm_oil,0.806,"Sum of lag 0-3 coefficients on BDT per USD, dollar world price entered separately"
+fx_passthrough_palm_oil_ci,0.34 to 1.28,95% CI (Newey-West)
+max_vif_all_main_models,1.61,Largest VIF over the non-dummy regressors of the four main models
+bg_reject_count,4,Main models (of 4) where Breusch-Godfrey(12) rejects no autocorrelation at 5%
+bp_reject_count,1,Main models (of 4) where Breusch-Pagan rejects homoskedasticity at 5%
+jb_reject_count,4,Main models (of 4) where Jarque-Bera rejects normal residuals at 5%
+oos_rmse_ratio_rice_coarse,1.111,"Test RMSE (2020-2025) of model fitted to 2006-2019, over RMSE of training-mean forecast"
+oos_rmse_ratio_atta,1.025,"Test RMSE (2020-2025) of model fitted to 2006-2019, over RMSE of training-mean forecast"
+oos_rmse_ratio_lentil_masur,1.158,"Test RMSE (2020-2025) of model fitted to 2006-2019, over RMSE of training-mean forecast"
+oos_rmse_ratio_palm_oil,0.692,"Test RMSE (2020-2025) of model fitted to 2006-2019, over RMSE of training-mean forecast"
+fx_change_post2022_rice_coarse,1.102,Sum of fx x post-May-2022 interaction coefficients (HAC)
+fx_change_post2022_rice_coarse_p,0.165,"Wald p-value, H0: no change"
+chow_2022_rice_coarse_p,0.988,"Chow F-test p-value, break at May 2022"
+fx_change_post2022_atta,0.522,Sum of fx x post-May-2022 interaction coefficients (HAC)
+fx_change_post2022_atta_p,0.742,"Wald p-value, H0: no change"
+chow_2022_atta_p,0.991,"Chow F-test p-value, break at May 2022"
+fx_change_post2022_lentil_masur,0.776,Sum of fx x post-May-2022 interaction coefficients (HAC)
+fx_change_post2022_lentil_masur_p,0.332,"Wald p-value, H0: no change"
+chow_2022_lentil_masur_p,0.992,"Chow F-test p-value, break at May 2022"
+fx_change_post2022_palm_oil,-0.87,Sum of fx x post-May-2022 interaction coefficients (HAC)
+fx_change_post2022_palm_oil_p,0.12,"Wald p-value, H0: no change"
+chow_2022_palm_oil_p,0.998,"Chow F-test p-value, break at May 2022"
+panel_palm_oil_lr,0.661,"Long-run pass-through, palm oil, division panel with fixed effects, SE clustered by month"
+panel_palm_oil_lr_ci,0.45 to 0.88,95% CI of that sum
+panel_palm_oil_n,1263,Division-months in the panel
+panel_division_fe_p,0.9903,Wald test p-value that the division intercepts are equal

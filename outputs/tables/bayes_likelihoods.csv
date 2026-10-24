@@ -1,0 +1,4 @@
+signal,label,n_signal_on,p_sig_given_spike,p_sig_given_none,likelihood_ratio,fisher_p
+sig_world,World palm oil in BDT up > 5% this month,29,0.6666666666666666,0.13970588235294118,4.771929824561403,2.48009819326032e-05
+sig_flood,Flood this month,5,0.0,0.03676470588235294,0.0,1.0
+sig_any,Either signal,34,0.6666666666666666,0.17647058823529413,3.7777777777777772,0.00013444378697833825

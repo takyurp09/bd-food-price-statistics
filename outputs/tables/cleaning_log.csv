@@ -1,0 +1,11 @@
+step,rows_before,rows_after,note
+load,34467,34467,"WFP HDX csv, retail and wholesale, BDT"
+standardise_units,34467,34467,"100 KG, 12 KG -> per kg; 500 G -> per kg; 10 pcs -> per piece"
+deduplicate,34467,34467,mean of rows sharing month x market x commodity x pricetype x unit
+drop_nonpositive,34467,34467,price <= 0
+flag_outliers,34467,34467,"342 rows flagged (|robust z| > 5.0); kept, not dropped"
+core_basket_retail,34467,23812,"11 core items, retail, outliers removed"
+division_panel,23812,6436,median across markets in each legacy division (6 divisions)
+cross_section_outliers,6436,6407,"rule cross_section: dropped 22 division-months more than 0.4 log points from the cross-division median, plus 7 rows in item-months where half or more divisions were that far (no consensus); all listed in outliers_cross_section.csv"
+national_panel,6407,1098,"matched-sample chain over divisions reporting in both months, level set to the plain mean in the latest 12 full-coverage months; months with >= 3 divisions"
+covariates,0,324,"FAOSTAT CPI, IMF FX, WFP-implied FX, Pink Sheet, NASA rain, floods, Ramadan"

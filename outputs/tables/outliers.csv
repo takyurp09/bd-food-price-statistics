@@ -1,0 +1,343 @@
+date,market,commodity,pricetype,unit_std,division,district,market_id,lat,lon,category,unit_raw,priceflag,price_bdt,usdprice,fx_implied,market_level,division_legacy,item,robust_z,outlier
+2026-01-01,Cox`s Bazar Sadar,Apples (royal gala),Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,vegetables and fruits,KG,actual,12.0,0.098,122.44897959183673,market,Chattogram,,-64.37751649736401,True
+2025-11-01,Bhashan Char,Bananas (green),Retail,piece,Chattogram,Chittagong,6424,22.33,91.16,vegetables and fruits,1 piece,actual,80.0,0.65,123.07692307692307,market,Chattogram,,17.266562047733,True
+2026-02-01,Bhashan Char,Bananas (ripe),Retail,piece,Chattogram,Chittagong,6424,22.33,91.16,vegetables and fruits,1 piece,actual,13.0,0.11,118.18181818181819,market,Chattogram,,5.247285289349817,True
+2026-01-01,Cox`s Bazar Sadar,Bananas (ripe),Retail,piece,Chattogram,Cox'S Bazar,4054,21.47,91.98,vegetables and fruits,1 piece,actual,315.0,2.58,122.09302325581395,market,Chattogram,,68.99975091663174,True
+2024-10-01,Feni Sadar,Bananas (ripe),Retail,piece,Chattogram,Feni,4055,23.01,91.4,vegetables and fruits,1 piece,actual,5.5,0.046,119.56521739130434,market,Chattogram,,-10.9308741273614,True
+2024-09-01,Jessore Sadar,Bananas (ripe),Retail,piece,Khulna,Jessore,4022,23.16,89.23,vegetables and fruits,1 piece,actual,3.5,0.029,120.6896551724138,market,Khulna,,-6.647645027393754,True
+2024-10-01,Khulna Sadar,Bananas (ripe),Retail,piece,Khulna,Khulna,4081,22.81,89.55,vegetables and fruits,1 piece,actual,4.5,0.038,118.42105263157895,market,Khulna,,-8.109302162163287,True
+2024-11-01,Kishoregonj Sadar,Bananas (ripe),Retail,piece,Dhaka,Kishoreganj,4037,24.46,90.78,vegetables and fruits,1 piece,actual,3.4,0.028,121.42857142857142,market,Dhaka,,-7.694351771055019,True
+2024-10-01,Noakhali Sadar,Bananas (ripe),Retail,piece,Chattogram,Noakhali,4058,22.89,91.11,vegetables and fruits,1 piece,actual,6.25,0.052,120.1923076923077,market,Chattogram,,-6.729444732424259,True
+2024-11-01,Noakhali Sadar,Bananas (ripe),Retail,piece,Chattogram,Noakhali,4058,22.89,91.11,vegetables and fruits,1 piece,actual,11.9,0.1,119.0,market,Chattogram,,6.149693994959211,True
+2025-04-01,Patuakhali Sadar,Bananas (ripe),Retail,piece,Barishal,Jhalokati,4032,22.72,90.25,vegetables and fruits,1 piece,actual,4.28,0.035,122.28571428571428,market,Barishal,,-5.015901652894397,True
+2025-11-01,Ukhia Market,Bananas (ripe),Retail,piece,Chattogram,Cox'S Bazar,3162,21.24,92.14,vegetables and fruits,1 piece,actual,7.0,0.057,122.80701754385964,market,Chattogram,,-5.026288565618127,True
+2026-01-01,Ukhia Market,Bananas (ripe),Retail,piece,Chattogram,Cox'S Bazar,3162,21.24,92.14,vegetables and fruits,1 piece,actual,7.0,0.057,122.80701754385964,market,Chattogram,,-7.133498878774653,True
+2024-02-01,Bhashan Char,Bathing soap,Retail,piece,Chattogram,Chittagong,6424,22.33,91.16,non-food,1 piece,actual,60.0,0.55,109.09090909090908,market,Chattogram,,6.931471805599454,True
+2024-11-01,Bhashan Char,Bathing soap,Retail,piece,Chattogram,Chittagong,6424,22.33,91.16,non-food,1 piece,actual,25.0,0.21,119.04761904761905,market,Chattogram,,-15.769147207285412,True
+2024-12-01,Bhashan Char,Bathing soap,Retail,piece,Chattogram,Chittagong,6424,22.33,91.16,non-food,1 piece,actual,30.0,0.25,120.0,market,Chattogram,,-12.992829841302607,True
+2025-07-01,Bhashan Char,Bathing soap,Retail,piece,Chattogram,Chittagong,6424,22.33,91.16,non-food,1 piece,actual,28.5,0.23,123.91304347826086,market,Chattogram,,-13.148581959157326,True
+2025-10-01,Bhashan Char,Bathing soap,Retail,piece,Chattogram,Chittagong,6424,22.33,91.16,non-food,1 piece,actual,30.0,0.25,120.0,market,Chattogram,,-13.862943611198899,True
+2025-11-01,Bhashan Char,Bathing soap,Retail,piece,Chattogram,Chittagong,6424,22.33,91.16,non-food,1 piece,actual,30.0,0.25,120.0,market,Chattogram,,-13.184912577685273,True
+2026-04-01,Bhashan Char,Bathing soap,Retail,piece,Chattogram,Chittagong,6424,22.33,91.16,non-food,1 piece,actual,40.0,0.33,121.2121212121212,market,Chattogram,,-7.431271128649657,True
+2024-11-01,Bhashan Char,"Beans (mung, large grain)",Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,pulses and nuts,KG,actual,60.0,0.5,120.0,market,Chattogram,,-16.701613528972246,True
+2024-10-01,Bhashan Char,Chickpeas,Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,pulses and nuts,KG,actual,60.0,0.5,120.0,market,Chattogram,,-5.438674309672837,True
+2024-11-01,Bhashan Char,Chickpeas,Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,pulses and nuts,KG,actual,170.0,1.42,119.71830985915494,market,Chattogram,,12.437680769705821,True
+2024-12-01,Bhashan Char,Chickpeas,Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,pulses and nuts,KG,actual,50.0,0.42,119.04761904761905,market,Chattogram,,-14.512287413948934,True
+2026-04-01,Cox`s Bazar Sadar,Chickpeas,Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,pulses and nuts,KG,actual,170.0,1.38,123.18840579710145,market,Chattogram,,12.719775334399941,True
+2024-02-01,Bhashan Char,Chili (green),Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,vegetables and fruits,KG,actual,41.0,0.37,110.8108108108108,market,Chattogram,chili_green,-5.53944190984698,True
+2024-02-01,Cox`s Bazar Sadar,Chili (green),Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,vegetables and fruits,KG,actual,30.0,0.27,111.1111111111111,market,Chattogram,chili_green,-5.664697902742947,True
+2024-10-01,Cox`s Bazar Sadar,Chili (green),Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,vegetables and fruits,KG,actual,282.5,2.36,119.70338983050848,market,Chattogram,chili_green,5.075539377665408,True
+2025-07-01,Narsingdi Sadar,Chili (green),Retail,kg,Dhaka,Narsingdi,4042,23.94,90.73,vegetables and fruits,KG,actual,282.17,2.32,121.62500000000001,market,Dhaka,chili_green,5.02576378769565,True
+2025-03-01,Patuakhali Sadar,Chili (green),Retail,kg,Barishal,Jhalokati,4032,22.72,90.25,vegetables and fruits,KG,actual,9.08,0.075,121.06666666666668,market,Barishal,chili_green,-7.022245222977741,True
+2025-08-01,Sirajgonj Sadar,Chili (green),Retail,kg,Rajshahi,Sirajganj,4075,24.46,89.7,vegetables and fruits,KG,actual,200.0,1.65,121.21212121212122,market,Rajshahi,chili_green,5.5970996628170075,True
+2024-10-01,Teknaf Market,Chili (green),Retail,kg,Chattogram,Cox'S Bazar,3159,20.87,92.3,vegetables and fruits,KG,actual,390.0,3.26,119.63190184049081,market,Chattogram,chili_green,7.35000760074592,True
+2024-10-01,Ukhia Market,Chili (green),Retail,kg,Chattogram,Cox'S Bazar,3162,21.24,92.14,vegetables and fruits,KG,actual,360.0,3.01,119.60132890365449,market,Chattogram,chili_green,7.04966533048948,True
+2024-02-01,Bhashan Char,"Chili (whole, dry, Indian Teja)",Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,miscellaneous food,KG,actual,262.5,2.4,109.375,market,Chattogram,,11.377350474354042,True
+2024-11-01,Bhashan Char,"Chili (whole, dry, Indian Teja)",Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,miscellaneous food,KG,actual,142.5,1.19,119.74789915966387,market,Chattogram,,-6.949921995335142,True
+2024-12-01,Bhashan Char,"Chili (whole, dry, Indian Teja)",Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,miscellaneous food,KG,actual,155.0,1.3,119.23076923076923,market,Chattogram,,-10.536519302248628,True
+2025-04-01,Bhashan Char,"Chili (whole, dry, Indian Teja)",Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,miscellaneous food,KG,actual,360.8,2.98,121.0738255033557,market,Chattogram,,5.555073905088932,True
+2025-04-01,Feni Sadar,Eggs (brown),Retail,piece,Chattogram,Feni,4055,23.01,91.4,"meat, fish and eggs",1 piece,actual,19.38,0.16,121.12499999999999,market,Chattogram,egg,11.144703050862365,True
+2025-05-01,Feni Sadar,Eggs (brown),Retail,piece,Chattogram,Feni,4055,23.01,91.4,"meat, fish and eggs",1 piece,actual,18.62,0.15,124.13333333333334,market,Chattogram,egg,10.362499674045019,True
+2025-05-01,Jamalpur Sadar,Eggs (brown),Retail,piece,Mymensingh,Jamalpur,4046,24.93,89.95,"meat, fish and eggs",1 piece,actual,374.62,3.08,121.62987012987013,market,Dhaka,egg,69.35835233768303,True
+2024-10-01,Teknaf Market,Eggs (white),Retail,piece,Chattogram,Cox'S Bazar,3159,20.87,92.3,"meat, fish and eggs",1 piece,actual,725.0,6.07,119.43986820428336,market,Chattogram,,56.69719287018384,True
+2025-07-01,Bhashan Char,Firewood,Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,non-food,KG,actual,8.0,0.066,121.2121212121212,market,Chattogram,,-5.0142652682229505,True
+2025-11-01,Teknaf Market,Firewood,Retail,kg,Chattogram,Cox'S Bazar,3159,20.87,92.3,non-food,KG,actual,45.0,0.37,121.62162162162163,market,Chattogram,,14.850607069889685,True
+2025-10-01,Ukhia Market,Firewood,Retail,kg,Chattogram,Cox'S Bazar,3162,21.24,92.14,non-food,KG,actual,21.0,0.17,123.52941176470587,market,Chattogram,,8.336047887029313,True
+2024-12-01,Bhashan Char,"Fish (dry, belt 10-12"")",Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,"meat, fish and eggs",KG,actual,300.0,2.51,119.52191235059762,market,Chattogram,,-8.370770972108533,True
+2025-10-01,Bhashan Char,"Fish (dry, belt 10-12"")",Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,"meat, fish and eggs",KG,actual,320.0,2.63,121.67300380228137,market,Chattogram,,-8.762180701635229,True
+2024-12-01,Dhaka Sadar,"Fish (live, pangasius)",Retail,kg,Dhaka,Dhaka,4083,23.73,90.38,"meat, fish and eggs",KG,actual,210.0,1.76,119.31818181818181,market,Dhaka,,8.109302162163292,True
+2024-11-01,Nawabgonj Sadar,"Fish (live, pangasius)",Retail,kg,Rajshahi,Nawabganj,4072,24.6,88.28,"meat, fish and eggs",KG,actual,93.5,0.78,119.87179487179486,market,Rajshahi,,-13.375774734558092,True
+2024-11-01,Sunamgonj Sadar,"Fish (live, pangasius)",Retail,kg,Sylhet,Sunamganj,4078,25.07,91.4,"meat, fish and eggs",KG,actual,152.5,1.28,119.140625,market,Sylhet,,-8.138734753092898,True
+2024-11-01,Bandarban Sadar,"Garlic (imported, China)",Retail,kg,Chattogram,Bandarban,4049,22.22,92.22,vegetables and fruits,KG,actual,360.0,3.01,119.60132890365449,market,Chattogram,,10.489737190642714,True
+2026-03-01,Bandarban Sadar,"Garlic (imported, China)",Retail,kg,Chattogram,Bandarban,4049,22.22,92.22,vegetables and fruits,KG,actual,208.53,1.7,122.66470588235295,market,Chattogram,,6.6557304589952615,True
+2026-03-01,Barguna Sadar,"Garlic (imported, China)",Retail,kg,Barishal,Barguna,4029,22.16,90.12,vegetables and fruits,KG,actual,213.53,1.74,122.7183908045977,market,Barishal,,5.813363053364249,True
+2024-11-01,Barisal Sadar,"Garlic (imported, China)",Retail,kg,Barishal,Barisal,4082,22.71,90.36,vegetables and fruits,KG,actual,300.0,2.51,119.52191235059762,market,Barishal,,6.465331454056322,True
+2025-02-01,Bhashan Char,"Garlic (imported, China)",Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,vegetables and fruits,KG,actual,228.3,1.89,120.79365079365081,market,Chattogram,,5.317491592244714,True
+2025-04-01,Bhashan Char,"Garlic (imported, China)",Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,vegetables and fruits,KG,actual,230.8,1.91,120.83769633507855,market,Chattogram,,5.535311214208605,True
+2025-08-01,Bhashan Char,"Garlic (imported, China)",Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,vegetables and fruits,KG,actual,123.3,1.01,122.07920792079207,market,Chattogram,,-5.619371796122419,True
+2025-09-01,Bhashan Char,"Garlic (imported, China)",Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,vegetables and fruits,KG,actual,123.3,1.01,122.07920792079207,market,Chattogram,,-5.123376134914093,True
+2024-11-01,Bhola Sadar,"Garlic (imported, China)",Retail,kg,Barishal,Bhola,4030,22.69,90.64,vegetables and fruits,KG,actual,295.0,2.47,119.4331983805668,market,Barishal,,6.608846904583423,True
+2026-03-01,Bhola Sadar,"Garlic (imported, China)",Retail,kg,Barishal,Bhola,4030,22.69,90.64,vegetables and fruits,KG,actual,202.5,1.65,122.72727272727273,market,Barishal,,5.326949913044103,True
+2026-07-01,Bogra Sadar,"Garlic (imported, China)",Retail,kg,Rajshahi,Bogra,4068,24.85,89.37,vegetables and fruits,KG,actual,135.0,1.1,122.72727272727272,market,Rajshahi,,-6.834985874441131,True
+2026-03-01,Brahmonbaria Sadar,"Garlic (imported, China)",Retail,kg,Chattogram,Brahamanbaria,4050,23.98,91.11,vegetables and fruits,KG,actual,189.85,1.55,122.48387096774192,market,Chattogram,,5.503435354027584,True
+2026-03-01,Chandpur Sadar,"Garlic (imported, China)",Retail,kg,Chattogram,Chandpur,4051,23.24,90.66,vegetables and fruits,KG,actual,188.59,1.54,122.46103896103897,market,Chattogram,,5.604666936311364,True
+2024-11-01,Comilla Sadar,"Garlic (imported, China)",Retail,kg,Chattogram,Comilla,4053,23.49,91.18,vegetables and fruits,KG,actual,335.0,2.8,119.64285714285715,market,Chattogram,,10.442051127609204,True
+2026-03-01,Cox`s Bazar Sadar,"Garlic (imported, China)",Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,vegetables and fruits,KG,actual,202.29,1.65,122.60000000000001,market,Chattogram,,5.263704108611567,True
+2024-11-01,Feni Sadar,"Garlic (imported, China)",Retail,kg,Chattogram,Feni,4055,23.01,91.4,vegetables and fruits,KG,actual,315.0,2.63,119.77186311787072,market,Chattogram,,7.904439379977255,True
+2026-03-01,Feni Sadar,"Garlic (imported, China)",Retail,kg,Chattogram,Feni,4055,23.01,91.4,vegetables and fruits,KG,actual,197.21,1.61,122.49068322981367,market,Chattogram,,5.921679711266261,True
+2026-03-01,Gazipur Sadar,"Garlic (imported, China)",Retail,kg,Dhaka,Gazipur,4035,24.0,90.42,vegetables and fruits,KG,actual,226.03,1.84,122.84239130434783,market,Dhaka,,5.5508651336632475,True
+2026-05-01,Godagari Sadar,"Garlic (imported, China)",Retail,kg,Rajshahi,Rajshahi,11806,24.48,88.32,vegetables and fruits,KG,actual,179.33,1.46,122.82876712328768,market,Rajshahi,,5.239479976062551,True
+2026-03-01,Jamalpur Sadar,"Garlic (imported, China)",Retail,kg,Mymensingh,Jamalpur,4046,24.93,89.95,vegetables and fruits,KG,actual,218.83,1.78,122.93820224719101,market,Dhaka,,5.970813482348287,True
+2024-11-01,Khagrachari Sadar,"Garlic (imported, China)",Retail,kg,Chattogram,Khagrachhari,4056,23.11,91.98,vegetables and fruits,KG,actual,390.0,3.26,119.63190184049081,market,Chattogram,,11.993606209608085,True
+2024-11-01,Laxmipur Sadar,"Garlic (imported, China)",Retail,kg,Chattogram,Lakshmipur,4057,22.94,90.83,vegetables and fruits,KG,actual,310.0,2.59,119.6911196911197,market,Chattogram,,8.28084392757468,True
+2026-03-01,Manikganj Sadar,"Garlic (imported, China)",Retail,kg,Dhaka,Manikganj,4039,23.87,90.03,vegetables and fruits,KG,actual,217.79,1.77,123.04519774011298,market,Dhaka,,5.9495872476301415,True
+2026-03-01,Maulavibazar Sadar,"Garlic (imported, China)",Retail,kg,Sylhet,Maulvibazar,4077,24.49,91.76,vegetables and fruits,KG,actual,200.44,1.63,122.96932515337424,market,Sylhet,,6.005334977635108,True
+2026-03-01,Nawabgonj Sadar,"Garlic (imported, China)",Retail,kg,Rajshahi,Nawabganj,4072,24.6,88.28,vegetables and fruits,KG,actual,210.0,1.71,122.80701754385966,market,Rajshahi,,5.113826798755543,True
+2024-11-01,Patuakhali Sadar,"Garlic (imported, China)",Retail,kg,Barishal,Jhalokati,4032,22.72,90.25,vegetables and fruits,KG,actual,400.0,3.35,119.40298507462687,market,Barishal,,11.696201911993231,True
+2025-03-01,Patuakhali Sadar,"Garlic (imported, China)",Retail,kg,Barishal,Jhalokati,4032,22.72,90.25,vegetables and fruits,KG,actual,34.23,0.28,122.24999999999997,market,Barishal,,-37.43649298128401,True
+2025-05-01,Patuakhali Sadar,"Garlic (imported, China)",Retail,kg,Barishal,Jhalokati,4032,22.72,90.25,vegetables and fruits,KG,actual,252.5,2.08,121.39423076923076,market,Barishal,,5.026981038713156,True
+2024-11-01,Pirojpur Sadar,"Garlic (imported, China)",Retail,kg,Barishal,Pirojpur,4033,22.58,89.97,vegetables and fruits,KG,actual,350.0,2.93,119.45392491467577,market,Barishal,,8.762077179246308,True
+2026-03-01,Pirojpur Sadar,"Garlic (imported, China)",Retail,kg,Barishal,Pirojpur,4033,22.58,89.97,vegetables and fruits,KG,actual,223.82,1.82,122.97802197802197,market,Barishal,,5.60349014807862,True
+2024-11-01,Rangamati Sadar,"Garlic (imported, China)",Retail,kg,Chattogram,Rangamati,4059,22.67,92.19,vegetables and fruits,KG,actual,355.0,2.97,119.52861952861952,market,Chattogram,,9.242423176497354,True
+2025-03-01,Rangpur Municipality Market,"Garlic (imported, China)",Retail,kg,Rangpur,Rangpur,4066,25.75,89.25,vegetables and fruits,KG,actual,125.0,1.03,121.35922330097087,market,Rajshahi,,-9.660371326464592,True
+2025-04-01,Rangpur Municipality Market,"Garlic (imported, China)",Retail,kg,Rangpur,Rangpur,4066,25.75,89.25,vegetables and fruits,KG,actual,95.56,0.79,120.9620253164557,market,Rajshahi,,-15.031559623358444,True
+2026-03-01,Sylhet Sadar,"Garlic (imported, China)",Retail,kg,Sylhet,Sylhet,4079,24.89,91.87,vegetables and fruits,KG,actual,205.74,1.68,122.46428571428572,market,Sylhet,,5.6019225943772355,True
+2024-10-01,Bhashan Char,Ginger (imported),Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,vegetables and fruits,KG,actual,400.0,3.35,119.40298507462687,market,Chattogram,,6.247982221707964,True
+2025-02-01,Bhashan Char,Gourd (bitter),Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,vegetables and fruits,KG,actual,40.0,0.33,121.2121212121212,market,Chattogram,,-5.774074116895494,True
+2024-02-01,Bhashan Char,Gourd (bottle),Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,vegetables and fruits,KG,actual,12.0,0.11,109.0909090909091,market,Chattogram,,-8.006236924112963,True
+2024-11-01,Bhashan Char,Gourd (bottle),Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,vegetables and fruits,KG,actual,47.5,0.4,118.75,market,Chattogram,,5.620927497772036,True
+2025-04-01,Bhashan Char,Gourd (bottle),Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,vegetables and fruits,KG,actual,7.0,0.058,120.6896551724138,market,Chattogram,,-10.656322774897635,True
+2025-11-01,Bhashan Char,Gourd (bottle),Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,vegetables and fruits,KG,actual,70.0,0.57,122.80701754385966,market,Chattogram,,6.204328110947895,True
+2025-12-01,Bhashan Char,Gourd (bottle),Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,vegetables and fruits,KG,actual,12.0,0.098,122.44897959183673,market,Chattogram,,-6.204328110947891,True
+2025-08-01,Bhola Sadar,Gourd (bottle),Retail,kg,Barishal,Bhola,4030,22.69,90.64,vegetables and fruits,KG,actual,81.78,0.67,122.05970149253731,market,Barishal,,9.954997202732253,True
+2024-11-01,Chuadanga Sadar,Gourd (bottle),Retail,kg,Khulna,Chuadanga,4021,23.59,88.94,vegetables and fruits,KG,actual,87.5,0.73,119.86301369863014,market,Khulna,,5.964225038575313,True
+2024-02-01,Cox`s Bazar Sadar,Gourd (bottle),Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,vegetables and fruits,KG,actual,12.0,0.11,109.0909090909091,market,Chattogram,,-11.774012476474757,True
+2024-11-01,Cox`s Bazar Sadar,Gourd (bottle),Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,vegetables and fruits,KG,actual,56.3,0.47,119.7872340425532,market,Chattogram,,6.555093273699843,True
+2024-11-01,Jaipurhat Sadar,Gourd (bottle),Retail,kg,Rajshahi,Joypurhat,4069,25.1,89.03,vegetables and fruits,KG,actual,85.0,0.71,119.71830985915494,market,Rajshahi,,6.244666954840734,True
+2025-04-01,Maulavibazar Sadar,Gourd (bottle),Retail,kg,Sylhet,Maulvibazar,4077,24.49,91.76,vegetables and fruits,KG,actual,37.33,0.31,120.41935483870968,market,Sylhet,,5.363097583488781,True
+2024-11-01,Naogaon Sadar,Gourd (bottle),Retail,kg,Rajshahi,Naogaon,4070,24.81,88.94,vegetables and fruits,KG,actual,75.0,0.63,119.04761904761905,market,Rajshahi,,5.29069523402937,True
+2024-10-01,Narail Sadar,Gourd (bottle),Retail,kg,Khulna,Narail,4027,23.16,89.51,vegetables and fruits,KG,actual,55.0,0.46,119.56521739130434,market,Khulna,,6.36177809030194,True
+2024-11-01,Natore Sadar,Gourd (bottle),Retail,kg,Rajshahi,Natore,4071,24.41,88.98,vegetables and fruits,KG,actual,85.0,0.71,119.71830985915494,market,Rajshahi,,7.60959448918658,True
+2024-11-01,Pabna Sadar,Gourd (bottle),Retail,kg,Rajshahi,Pabna,4073,24.01,89.24,vegetables and fruits,KG,actual,88.8,0.74,120.0,market,Rajshahi,,5.408504174028558,True
+2024-11-01,Rajshahi Sadar,Gourd (bottle),Retail,kg,Rajshahi,Rajshahi,4074,24.37,88.6,vegetables and fruits,KG,actual,93.8,0.78,120.25641025641025,market,Rajshahi,,5.2780701741713285,True
+2024-11-01,Sirajgonj Sadar,Gourd (bottle),Retail,kg,Rajshahi,Sirajganj,4075,24.46,89.7,vegetables and fruits,KG,actual,80.0,0.67,119.40298507462686,market,Rajshahi,,5.8007439108483805,True
+2024-02-01,Ukhia Market,Gourd (bottle),Retail,kg,Chattogram,Cox'S Bazar,3162,21.24,92.14,vegetables and fruits,KG,actual,10.0,0.091,109.8901098901099,market,Chattogram,,-5.2367182127882375,True
+2026-03-01,Bhashan Char,Handwash soap,Retail,piece,Chattogram,Chittagong,6424,22.33,91.16,non-food,1 piece,actual,60.0,0.49,122.44897959183673,market,Chattogram,,-10.512100497735268,True
+2025-10-01,Cox`s Bazar Sadar,Handwash soap,Retail,piece,Chattogram,Cox'S Bazar,4054,21.47,91.98,non-food,1 piece,actual,75.0,0.62,120.96774193548387,market,Chattogram,,-6.247493700843059,True
+2025-10-01,Teknaf Market,Handwash soap,Retail,piece,Chattogram,Cox'S Bazar,3159,20.87,92.3,non-food,1 piece,actual,77.5,0.64,121.09375,market,Chattogram,,-5.0978449925758085,True
+2026-03-01,Teknaf Market,Handwash soap,Retail,piece,Chattogram,Cox'S Bazar,3159,20.87,92.3,non-food,1 piece,actual,60.0,0.49,122.44897959183673,market,Chattogram,,-10.216512475319828,True
+2026-03-01,Ukhia Market,Handwash soap,Retail,piece,Chattogram,Cox'S Bazar,3162,21.24,92.14,non-food,1 piece,actual,59.0,0.48,122.91666666666667,market,Chattogram,,-10.552654841647442,True
+2024-05-01,Bandarban Sadar,Lentils (masur),Retail,kg,Chattogram,Bandarban,4049,22.22,92.22,pulses and nuts,KG,aggregate,11.0,0.094,117.02127659574468,market,Chattogram,lentil_masur,-46.94073711129759,True
+2024-11-01,Bhashan Char,Lentils (masur),Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,pulses and nuts,KG,actual,45.0,0.38,118.42105263157895,market,Chattogram,lentil_masur,-8.712933659434192,True
+2024-05-01,Brahmonbaria Sadar,Lentils (masur),Retail,kg,Chattogram,Brahamanbaria,4050,23.98,91.11,pulses and nuts,KG,aggregate,70.3,0.6,117.16666666666667,market,Chattogram,lentil_masur,-12.109780297072685,True
+2009-10-01,Chittagong Division,Lentils (masur),Retail,kg,Chattogram,Chittagong,114,22.33,91.84,pulses and nuts,KG,actual,59.25,0.86,68.8953488372093,division,Chattogram,lentil_masur,-9.016674262760311,True
+2025-04-01,Chittagong Sadar,Lentils (masur),Retail,kg,Chattogram,Chittagong,4052,22.57,91.81,pulses and nuts,KG,actual,291.56,2.41,120.97925311203319,market,Chattogram,lentil_masur,19.495309014431914,True
+2025-05-01,Chittagong Sadar,Lentils (masur),Retail,kg,Chattogram,Chittagong,4052,22.57,91.81,pulses and nuts,KG,actual,151.33,1.25,121.06400000000001,market,Chattogram,lentil_masur,6.3796503381303715,True
+2024-05-01,Gaibandha Sadar,Lentils (masur),Retail,kg,Rangpur,Gaibandha,4061,25.33,89.55,pulses and nuts,KG,aggregate,74.0,0.63,117.46031746031746,market,Rajshahi,lentil_masur,-11.650351044442129,True
+2023-10-01,Madaripur Sadar,Lentils (masur),Retail,kg,Dhaka,Madaripur,4038,23.17,90.14,pulses and nuts,KG,aggregate,76.25,0.69,110.50724637681161,market,Dhaka,lentil_masur,-5.78082832376662,True
+2024-06-01,Magura Sadar,Lentils (masur),Retail,kg,Khulna,Magura,4025,23.49,89.42,pulses and nuts,KG,aggregate,138.5,1.18,117.37288135593221,market,Khulna,lentil_masur,5.067589561193522,True
+2021-01-01,Narail Sadar,Lentils (masur),Retail,kg,Khulna,Narail,4027,23.16,89.51,pulses and nuts,KG,aggregate,67.5,0.8,84.375,market,Khulna,lentil_masur,-7.3544956025063435,True
+2024-06-01,Narayanganj Sadar,Lentils (masur),Retail,kg,Dhaka,Narayanganj,4041,23.62,90.5,pulses and nuts,KG,aggregate,102.5,0.87,117.816091954023,market,Dhaka,lentil_masur,-6.092222691044569,True
+2025-02-01,Netrakona Sadar,Lentils (masur),Retail,kg,Mymensingh,Netrakona,4047,24.88,90.73,pulses and nuts,KG,actual,155.0,1.28,121.09375,market,Dhaka,lentil_masur,6.198993415564633,True
+2024-05-01,Panchagarh Sadar,Lentils (masur),Retail,kg,Rangpur,Panchagarh,4065,26.33,88.56,pulses and nuts,KG,aggregate,60.3,0.51,118.23529411764706,market,Rajshahi,lentil_masur,-11.840315569920072,True
+2025-03-01,Patuakhali Sadar,Lentils (masur),Retail,kg,Barishal,Jhalokati,4032,22.72,90.25,pulses and nuts,KG,actual,17.31,0.14,123.64285714285712,market,Barishal,lentil_masur,-37.181338505494246,True
+2020-09-01,Rangpur Municipality Market,Lentils (masur),Retail,kg,Rangpur,Rangpur,4066,25.75,89.25,pulses and nuts,KG,aggregate,69.55,0.82,84.8170731707317,market,Rajshahi,lentil_masur,-6.756129192686995,True
+2024-06-01,Tangail sadar Market,Lentils (masur),Retail,kg,Dhaka,Tangail,4045,24.25,89.91,pulses and nuts,KG,aggregate,112.5,0.96,117.1875,market,Dhaka,lentil_masur,-5.417499082708002,True
+2024-10-01,Teknaf Market,Meat (beef),Retail,kg,Chattogram,Cox'S Bazar,3159,20.87,92.3,"meat, fish and eggs",KG,actual,14.0,0.12,116.66666666666667,market,Chattogram,,-79.62031753830195,True
+2026-03-01,Ukhia Market,Meat (beef),Retail,kg,Chattogram,Cox'S Bazar,3162,21.24,92.14,"meat, fish and eggs",KG,actual,95.0,0.77,123.37662337662337,market,Chattogram,,-41.65182452682622,True
+2025-06-01,Bhashan Char,"Meat (chicken, broiler)",Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,"meat, fish and eggs",KG,actual,155.0,1.27,122.04724409448819,market,Chattogram,chicken_broiler,-6.073648275964434,True
+2026-03-01,Cox`s Bazar Sadar,"Meat (chicken, broiler)",Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,"meat, fish and eggs",KG,actual,225.0,1.83,122.95081967213115,market,Chattogram,chicken_broiler,5.1293484248948396,True
+2024-10-01,Gaibandha Sadar,"Meat (chicken, broiler)",Retail,kg,Rangpur,Gaibandha,4061,25.33,89.55,"meat, fish and eggs",KG,actual,40.0,0.33,121.2121212121212,market,Rajshahi,chicken_broiler,-28.498278641698914,True
+2025-01-01,Laxmipur Sadar,"Meat (chicken, broiler)",Retail,kg,Chattogram,Lakshmipur,4057,22.94,90.83,"meat, fish and eggs",KG,actual,376.31,3.1,121.39032258064516,market,Chattogram,chicken_broiler,13.148274264482733,True
+2025-05-01,Narail Sadar,"Meat (chicken, broiler)",Retail,kg,Khulna,Narail,4027,23.16,89.51,"meat, fish and eggs",KG,actual,3472.74,28.58,121.50944716585025,market,Khulna,chicken_broiler,60.567562564219486,True
+2026-03-01,Teknaf Market,"Meat (chicken, broiler)",Retail,kg,Chattogram,Cox'S Bazar,3159,20.87,92.3,"meat, fish and eggs",KG,actual,245.0,2.0,122.5,market,Chattogram,chicken_broiler,6.447735962757299,True
+2026-03-01,Ukhia Market,"Meat (chicken, broiler)",Retail,kg,Chattogram,Cox'S Bazar,3162,21.24,92.14,"meat, fish and eggs",KG,actual,232.5,1.89,123.01587301587303,market,Chattogram,chicken_broiler,5.400376252410979,True
+2025-06-01,Bhashan Char,"Meat (chicken, sonali)",Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,"meat, fish and eggs",KG,actual,255.0,2.09,122.00956937799045,market,Chattogram,,-5.141420594542572,True
+2026-02-01,Bhashan Char,"Meat (chicken, sonali)",Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,"meat, fish and eggs",KG,actual,220.0,1.8,122.22222222222221,market,Chattogram,,-5.690757747469007,True
+2026-02-01,Cox`s Bazar Sadar,"Meat (chicken, sonali)",Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,"meat, fish and eggs",KG,actual,190.0,1.55,122.58064516129032,market,Chattogram,,-6.2801422308645245,True
+2026-05-01,Bhashan Char,Milk,Retail,L,Chattogram,Chittagong,6424,22.33,91.16,milk and dairy,L,actual,450.0,3.67,122.6158038147139,market,Chattogram,,25.947215157952073,True
+2026-01-01,Cox`s Bazar Sadar,Milk,Retail,L,Chattogram,Cox'S Bazar,4054,21.47,91.98,milk and dairy,L,actual,250.0,2.04,122.54901960784314,market,Chattogram,,14.679383501604004,True
+2025-06-01,Bhashan Char,Oil (mustard),Retail,L,Chattogram,Chittagong,6424,22.33,91.16,oil and fats,L,actual,156.25,1.28,122.0703125,market,Chattogram,,-7.292862271758178,True
+2025-06-01,Cox`s Bazar Sadar,Oil (mustard),Retail,L,Chattogram,Cox'S Bazar,4054,21.47,91.98,oil and fats,L,actual,155.0,1.27,122.04724409448819,market,Chattogram,,-7.004048588662304,True
+2025-07-01,Cox`s Bazar Sadar,Oil (mustard),Retail,L,Chattogram,Cox'S Bazar,4054,21.47,91.98,oil and fats,L,actual,155.0,1.28,121.09375,market,Chattogram,,-7.004048588662304,True
+2025-06-01,Teknaf Market,Oil (mustard),Retail,L,Chattogram,Cox'S Bazar,3159,20.87,92.3,oil and fats,L,actual,160.0,1.31,122.13740458015266,market,Chattogram,,-6.8185317394118705,True
+2025-07-01,Teknaf Market,Oil (mustard),Retail,L,Chattogram,Cox'S Bazar,3159,20.87,92.3,oil and fats,L,actual,160.0,1.32,121.2121212121212,market,Chattogram,,-7.039528463143565,True
+2025-06-01,Ukhia Market,Oil (mustard),Retail,L,Chattogram,Cox'S Bazar,3162,21.24,92.14,oil and fats,L,actual,152.5,1.25,122.0,market,Chattogram,,-7.32925900609791,True
+2025-07-01,Ukhia Market,Oil (mustard),Retail,L,Chattogram,Cox'S Bazar,3162,21.24,92.14,oil and fats,L,actual,155.0,1.28,121.09375,market,Chattogram,,-7.004048588662304,True
+2006-09-01,Barisal Division,Oil (palm),Retail,L,Barishal,Barisal,112,22.7,90.37,oil and fats,L,actual,45.0,0.66,68.18181818181817,division,Barishal,palm_oil,-7.044411871787037,True
+2024-11-01,Bhashan Char,Oil (palm),Retail,L,Chattogram,Chittagong,6424,22.33,91.16,oil and fats,L,actual,120.0,1.0,120.0,market,Chattogram,palm_oil,-12.44062030436984,True
+2025-07-01,Bhashan Char,Oil (palm),Retail,L,Chattogram,Chittagong,6424,22.33,91.16,oil and fats,L,actual,243.3,2.0,121.65,market,Chattogram,palm_oil,8.010900979654298,True
+2023-12-01,Dinajpur Sadar,Oil (palm),Retail,L,Rangpur,Dinajpur,4060,25.62,88.64,oil and fats,L,aggregate,190.0,1.73,109.82658959537572,market,Rajshahi,palm_oil,8.374206697163693,True
+2023-12-01,Lalmonirhat Sadar,Oil (palm),Retail,L,Rangpur,Lalmonirhat,4063,25.91,89.45,oil and fats,L,aggregate,195.0,1.78,109.5505617977528,market,Rajshahi,palm_oil,9.135168049914295,True
+2024-04-01,Munshiganj Sadar,Oil (palm),Retail,L,Dhaka,Munshiganj,4040,23.55,90.53,oil and fats,L,aggregate,152.5,1.39,109.71223021582735,market,Dhaka,palm_oil,7.108456903585001,True
+2020-08-01,Shariatpur Sadar,Oil (palm),Retail,L,Dhaka,Shariatpur,4044,23.22,90.35,oil and fats,L,aggregate,71.0,0.84,84.52380952380953,market,Dhaka,palm_oil,-5.928927408907381,True
+2024-07-01,Sirajgonj Sadar,Oil (palm),Retail,L,Rajshahi,Sirajganj,4075,24.46,89.7,oil and fats,L,aggregate,680.0,5.79,117.44386873920553,market,Rajshahi,palm_oil,33.091166954291396,True
+2007-04-01,Sylhet Division,Oil (palm),Retail,L,Sylhet,Sylhet,122,24.9,91.87,oil and fats,L,actual,57.0,0.83,68.67469879518073,division,Sylhet,palm_oil,-5.669318786585489,True
+2025-06-01,Teknaf Market,Oil (palm),Retail,L,Chattogram,Cox'S Bazar,3159,20.87,92.3,oil and fats,L,actual,220.0,1.8,122.22222222222221,market,Chattogram,palm_oil,6.369074622370707,True
+2025-07-01,Teknaf Market,Oil (palm),Retail,L,Chattogram,Cox'S Bazar,3159,20.87,92.3,oil and fats,L,actual,230.0,1.89,121.6931216931217,market,Chattogram,palm_oil,6.04561743745867,True
+2025-06-01,Ukhia Market,Oil (palm),Retail,L,Chattogram,Cox'S Bazar,3162,21.24,92.14,oil and fats,L,actual,227.5,1.86,122.31182795698925,market,Chattogram,palm_oil,7.674502429435162,True
+2025-07-01,Ukhia Market,Oil (palm),Retail,L,Chattogram,Cox'S Bazar,3162,21.24,92.14,oil and fats,L,actual,225.0,1.85,121.62162162162161,market,Chattogram,palm_oil,7.453505705703467,True
+2024-11-01,Bhashan Char,"Oil (soybean, fortified)",Retail,L,Chattogram,Chittagong,6424,22.33,91.16,oil and fats,L,actual,60.0,0.5,120.0,market,Chattogram,soybean_oil,-16.555790684319565,True
+2025-03-01,Patuakhali Sadar,"Oil (soybean, fortified)",Retail,L,Barishal,Jhalokati,4032,22.72,90.25,oil and fats,L,actual,27.31,0.23,118.7391304347826,market,Barishal,soybean_oil,-36.396272855089556,True
+2025-04-01,Patuakhali Sadar,"Oil (soybean, fortified)",Retail,L,Barishal,Jhalokati,4032,22.72,90.25,oil and fats,L,actual,132.39,1.09,121.45871559633025,market,Barishal,soybean_oil,-5.1182288910619,True
+2025-12-01,Barguna Sadar,"Onions (imported, China)",Retail,kg,Barishal,Barguna,4029,22.16,90.12,vegetables and fruits,KG,actual,83.42,0.68,122.67647058823529,market,Barishal,onion,6.71308938249078,True
+2025-03-01,Bhola Sadar,"Onions (imported, China)",Retail,kg,Barishal,Bhola,4030,22.69,90.64,vegetables and fruits,KG,actual,27.41,0.23,119.17391304347825,market,Barishal,onion,-8.52286049800524,True
+2025-04-01,Bhola Sadar,"Onions (imported, China)",Retail,kg,Barishal,Bhola,4030,22.69,90.64,vegetables and fruits,KG,actual,26.5,0.22,120.45454545454545,market,Barishal,onion,-8.149620967078691,True
+2025-01-01,Chuadanga Sadar,"Onions (imported, China)",Retail,kg,Khulna,Chuadanga,4021,23.59,88.94,vegetables and fruits,KG,actual,38.61,0.32,120.65625,market,Khulna,onion,-8.78487027580491,True
+2025-12-01,Comilla Sadar,"Onions (imported, China)",Retail,kg,Chattogram,Comilla,4053,23.49,91.18,vegetables and fruits,KG,actual,107.18,0.88,121.79545454545455,market,Chattogram,onion,5.174021545282085,True
+2025-01-01,Dinajpur Sadar,"Onions (imported, China)",Retail,kg,Rangpur,Dinajpur,4060,25.62,88.64,vegetables and fruits,KG,actual,47.9,0.39,122.82051282051282,market,Rajshahi,onion,-6.789750207449373,True
+2024-12-01,Meherpur Sadar,"Onions (imported, China)",Retail,kg,Khulna,Meherpur,4026,23.77,88.63,vegetables and fruits,KG,actual,159.63,1.34,119.12686567164178,market,Khulna,onion,5.87684604458037,True
+2025-01-01,Mymensing Sadar,"Onions (imported, China)",Retail,kg,Mymensingh,Mymensingh,3032,24.75,90.41,vegetables and fruits,KG,actual,47.0,0.39,120.51282051282051,market,Dhaka,onion,-6.636522491095922,True
+2025-01-01,Nilphamari Sadar,"Onions (imported, China)",Retail,kg,Rangpur,Nilphamari,4064,25.85,88.87,vegetables and fruits,KG,actual,42.69,0.35,121.97142857142858,market,Rajshahi,onion,-7.224637163033178,True
+2025-02-01,Nilphamari Sadar,"Onions (imported, China)",Retail,kg,Rangpur,Nilphamari,4064,25.85,88.87,vegetables and fruits,KG,actual,37.5,0.31,120.96774193548387,market,Rajshahi,onion,-5.157489484954707,True
+2024-12-01,Panchagarh Sadar,"Onions (imported, China)",Retail,kg,Rangpur,Panchagarh,4065,26.33,88.56,vegetables and fruits,KG,actual,396.29,3.32,119.36445783132531,market,Rajshahi,onion,17.025583485847754,True
+2026-02-01,Panchagarh Sadar,"Onions (imported, China)",Retail,kg,Rangpur,Panchagarh,4065,26.33,88.56,vegetables and fruits,KG,actual,25.5,0.21,121.42857142857143,market,Rajshahi,onion,-8.733105570832286,True
+2025-01-01,Shariatpur Sadar,"Onions (imported, China)",Retail,kg,Dhaka,Shariatpur,4044,23.22,90.35,vegetables and fruits,KG,actual,47.27,0.39,121.2051282051282,market,Dhaka,onion,-7.897726544653563,True
+2025-02-01,Shariatpur Sadar,"Onions (imported, China)",Retail,kg,Dhaka,Shariatpur,4044,23.22,90.35,vegetables and fruits,KG,actual,42.5,0.35,121.42857142857143,market,Dhaka,onion,-7.837193767281971,True
+2025-12-01,Shariatpur Sadar,"Onions (imported, China)",Retail,kg,Dhaka,Shariatpur,4044,23.22,90.35,vegetables and fruits,KG,actual,112.5,0.92,122.28260869565217,market,Dhaka,onion,7.051335861201619,True
+2025-01-01,Tangail sadar Market,"Onions (imported, China)",Retail,kg,Dhaka,Tangail,4045,24.25,89.91,vegetables and fruits,KG,actual,57.5,0.47,122.3404255319149,market,Dhaka,onion,-6.976128531528854,True
+2024-11-01,Thakurgaon Sadar,"Onions (imported, China)",Retail,kg,Rangpur,Thakurgaon,4067,26.02,88.47,vegetables and fruits,KG,actual,301.3,2.52,119.56349206349206,market,Rajshahi,onion,15.698115054535048,True
+2024-11-01,Cox`s Bazar Sadar,"Onions (imported, India)",Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,vegetables and fruits,KG,actual,170.0,1.42,119.71830985915494,market,Chattogram,,7.637804315581538,True
+2025-08-01,Cox`s Bazar Sadar,Oranges (malta),Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,vegetables and fruits,KG,actual,430.0,3.54,121.46892655367232,market,Chattogram,,6.978771352941937,True
+2026-01-01,Cox`s Bazar Sadar,Oranges (malta),Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,vegetables and fruits,KG,actual,8.0,0.065,123.07692307692307,market,Chattogram,,-68.92159102073751,True
+2025-08-01,Teknaf Market,Oranges (malta),Retail,kg,Chattogram,Cox'S Bazar,3159,20.87,92.3,vegetables and fruits,KG,actual,420.0,3.46,121.38728323699422,market,Chattogram,,5.27152447500785,True
+2025-08-01,Ukhia Market,Oranges (malta),Retail,kg,Chattogram,Cox'S Bazar,3162,21.24,92.14,vegetables and fruits,KG,actual,450.0,3.7,121.62162162162161,market,Chattogram,,7.860074420534551,True
+2024-11-01,Bandarban Sadar,Papaya (green),Retail,kg,Chattogram,Bandarban,4049,22.22,92.22,vegetables and fruits,KG,actual,62.5,0.52,120.1923076923077,market,Chattogram,,6.906038884070798,True
+2025-11-01,Bhashan Char,Papaya (green),Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,vegetables and fruits,KG,actual,25.0,0.2,125.0,market,Chattogram,,-5.487320117986958,True
+2026-05-01,Bhola Sadar,Papaya (green),Retail,kg,Barishal,Bhola,4030,22.69,90.64,vegetables and fruits,KG,actual,69.69,0.57,122.26315789473685,market,Barishal,,6.398094650993034,True
+2024-11-01,Brahmonbaria Sadar,Papaya (green),Retail,kg,Chattogram,Brahamanbaria,4050,23.98,91.11,vegetables and fruits,KG,actual,65.0,0.54,120.37037037037037,market,Chattogram,,5.508214908373502,True
+2026-05-01,Brahmonbaria Sadar,Papaya (green),Retail,kg,Chattogram,Brahamanbaria,4050,23.98,91.11,vegetables and fruits,KG,actual,69.56,0.57,122.03508771929826,market,Chattogram,,5.4351328476600465,True
+2026-05-01,Chandina,Papaya (green),Retail,kg,Chattogram,Comilla,11787,23.49,91.01,vegetables and fruits,KG,actual,77.21,0.63,122.55555555555554,market,Chattogram,,5.06181653551671,True
+2026-05-01,Dhaka Sadar,Papaya (green),Retail,kg,Dhaka,Dhaka,4083,23.73,90.38,vegetables and fruits,KG,actual,80.0,0.65,123.07692307692307,market,Dhaka,,6.024294342990899,True
+2024-11-01,Feni Sadar,Papaya (green),Retail,kg,Chattogram,Feni,4055,23.01,91.4,vegetables and fruits,KG,actual,62.5,0.52,120.1923076923077,market,Chattogram,,5.173500871677189,True
+2025-05-01,Gaibandha Sadar,Papaya (green),Retail,kg,Rangpur,Gaibandha,4061,25.33,89.55,vegetables and fruits,KG,actual,55.57,0.46,120.80434782608695,market,Rajshahi,,5.877770075663903,True
+2026-05-01,Gaibandha Sadar,Papaya (green),Retail,kg,Rangpur,Gaibandha,4061,25.33,89.55,vegetables and fruits,KG,actual,57.34,0.47,122.00000000000001,market,Rajshahi,,5.187518965050832,True
+2026-05-01,Gazipur Sadar,Papaya (green),Retail,kg,Dhaka,Gazipur,4035,24.0,90.42,vegetables and fruits,KG,actual,74.71,0.61,122.47540983606557,market,Dhaka,,5.250232036133944,True
+2026-05-01,Habigonj Sadar,Papaya (green),Retail,kg,Sylhet,Habiganj,4076,24.37,91.42,vegetables and fruits,KG,actual,72.65,0.59,123.135593220339,market,Sylhet,,5.5703025627458835,True
+2026-06-01,Kishoregonj Sadar,Papaya (green),Retail,kg,Dhaka,Kishoreganj,4037,24.46,90.78,vegetables and fruits,KG,actual,65.0,0.53,122.64150943396226,market,Dhaka,,5.987461026748918,True
+2026-05-01,Kushtia Sadar,Papaya (green),Retail,kg,Khulna,Kushtia,4024,23.89,89.09,vegetables and fruits,KG,actual,71.76,0.58,123.7241379310345,market,Khulna,,5.661416232349317,True
+2026-05-01,Mechua,Papaya (green),Retail,kg,Mymensingh,Mymensingh,11803,24.76,90.41,vegetables and fruits,KG,actual,62.65,0.51,122.84313725490196,market,Dhaka,,5.36707323129828,True
+2025-05-01,Nawabgonj Sadar,Papaya (green),Retail,kg,Rajshahi,Nawabganj,4072,24.6,88.28,vegetables and fruits,KG,actual,60.36,0.5,120.72,market,Rajshahi,,5.207718670782904,True
+2025-03-01,Patuakhali Sadar,Papaya (green),Retail,kg,Barishal,Jhalokati,4032,22.72,90.25,vegetables and fruits,KG,actual,4.46,0.037,120.54054054054055,market,Barishal,,-15.748388177737308,True
+2026-05-01,Rajbari Sadar,Papaya (green),Retail,kg,Dhaka,Rajbari,4043,23.77,89.65,vegetables and fruits,KG,actual,79.56,0.65,122.4,market,Dhaka,,5.697896960180454,True
+2026-05-01,Rajshahi Sadar,Papaya (green),Retail,kg,Rajshahi,Rajshahi,4074,24.37,88.6,vegetables and fruits,KG,actual,74.71,0.61,122.47540983606557,market,Rajshahi,,7.061430791432755,True
+2024-11-01,Rangamati Sadar,Papaya (green),Retail,kg,Chattogram,Rangamati,4059,22.67,92.19,vegetables and fruits,KG,actual,55.0,0.46,119.56521739130434,market,Chattogram,,5.464745046148131,True
+2026-02-01,Barguna Sadar,"Potatoes (Holland, white)",Retail,kg,Barishal,Barguna,4029,22.16,90.12,cereals and tubers,KG,actual,14.5,0.12,120.83333333333334,market,Barishal,potato,-11.803350508953155,True
+2025-02-01,Chandpur Sadar,"Potatoes (Holland, white)",Retail,kg,Chattogram,Chandpur,4051,23.24,90.66,cereals and tubers,KG,actual,19.0,0.16,118.75,market,Chattogram,potato,-8.06193492013283,True
+2024-02-01,Cox`s Bazar Sadar,"Potatoes (Holland, white)",Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,cereals and tubers,KG,actual,30.0,0.27,111.1111111111111,market,Chattogram,potato,-5.191571903261433,True
+2024-11-01,Manikganj Sadar,"Potatoes (Holland, white)",Retail,kg,Dhaka,Manikganj,4039,23.87,90.03,cereals and tubers,KG,actual,76.0,0.64,118.75,market,Dhaka,potato,6.11675142520593,True
+2024-12-01,Naogaon Sadar,"Potatoes (Holland, white)",Retail,kg,Rajshahi,Naogaon,4070,24.81,88.94,cereals and tubers,KG,actual,73.91,0.62,119.20967741935483,market,Rajshahi,potato,12.176414059145804,True
+2024-11-01,Narail Sadar,"Potatoes (Holland, white)",Retail,kg,Khulna,Narail,4027,23.16,89.51,cereals and tubers,KG,actual,274.0,2.29,119.65065502183405,market,Khulna,potato,14.263702476101821,True
+2025-12-01,Narsingdi Sadar,"Potatoes (Holland, white)",Retail,kg,Dhaka,Narsingdi,4042,23.94,90.73,cereals and tubers,KG,actual,24.1,0.2,120.5,market,Dhaka,potato,-5.11082618394212,True
+2025-05-01,Sunamgonj Sadar,"Potatoes (Holland, white)",Retail,kg,Sylhet,Sunamganj,4078,25.07,91.4,cereals and tubers,KG,actual,21.21,0.17,124.76470588235294,market,Sylhet,potato,-6.777153001353484,True
+2026-05-01,Sunamgonj Sadar,"Potatoes (Holland, white)",Retail,kg,Sylhet,Sunamganj,4078,25.07,91.4,cereals and tubers,KG,actual,14.0,0.11,127.27272727272727,market,Sylhet,potato,-7.199433142810156,True
+2026-07-01,Sunamgonj Sadar,"Potatoes (Holland, white)",Retail,kg,Sylhet,Sunamganj,4078,25.07,91.4,cereals and tubers,KG,actual,44.4,0.36,123.33333333333333,market,Sylhet,potato,8.682581322420189,True
+2025-12-01,Sylhet Sadar,"Potatoes (Holland, white)",Retail,kg,Sylhet,Sylhet,4079,24.89,91.87,cereals and tubers,KG,actual,63.92,0.52,122.92307692307692,market,Sylhet,potato,10.366728557551292,True
+2024-12-01,Teknaf Market,"Potatoes (Holland, white)",Retail,kg,Chattogram,Cox'S Bazar,3159,20.87,92.3,cereals and tubers,KG,actual,71.0,0.6,118.33333333333334,market,Chattogram,potato,5.263817730123657,True
+2026-03-01,Teknaf Market,"Potatoes (Holland, white)",Retail,kg,Chattogram,Cox'S Bazar,3159,20.87,92.3,cereals and tubers,KG,actual,140.0,1.14,122.80701754385966,market,Chattogram,potato,15.803978177273192,True
+2024-02-01,Ukhia Market,"Potatoes (Holland, white)",Retail,kg,Chattogram,Cox'S Bazar,3162,21.24,92.14,cereals and tubers,KG,actual,30.0,0.27,111.1111111111111,market,Chattogram,potato,-6.32669369176363,True
+2024-12-01,Ukhia Market,"Potatoes (Holland, white)",Retail,kg,Chattogram,Cox'S Bazar,3162,21.24,92.14,cereals and tubers,KG,actual,73.0,0.61,119.67213114754098,market,Chattogram,potato,8.157737792469954,True
+2025-11-01,Bhashan Char,Pumpkin,Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,vegetables and fruits,KG,actual,160.0,1.31,122.13740458015266,market,Chattogram,,6.660844396814726,True
+2026-02-01,Bhashan Char,Pumpkin,Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,vegetables and fruits,KG,actual,253.0,2.07,122.22222222222223,market,Chattogram,,9.284840593690564,True
+2025-12-01,Cox`s Bazar Sadar,Rice (BRRI-49),Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,cereals and tubers,KG,actual,65.0,0.53,122.64150943396226,market,Chattogram,,5.651339435700207,True
+2023-12-01,Bagerhat Sadar,Rice (coarse),Retail,kg,Khulna,Bagerhat,4020,22.67,89.79,cereals and tubers,KG,aggregate,30.0,0.27,111.1111111111111,market,Khulna,rice_coarse,-7.8858361502007845,True
+2024-02-01,Cox`s Bazar Sadar,Rice (coarse),Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,cereals and tubers,KG,aggregate,67.5,0.62,108.87096774193549,market,Chattogram,rice_coarse,7.027957736757777,True
+2017-09-01,Dhaka Division,Rice (coarse),Retail,kg,Dhaka,Dhaka,116,23.72,90.41,cereals and tubers,KG,actual,25.73,0.32,80.40625,division,Dhaka,rice_coarse,-9.376739897065134,True
+2017-10-01,Dhaka Division,Rice (coarse),Retail,kg,Dhaka,Dhaka,116,23.72,90.41,cereals and tubers,KG,actual,25.73,0.32,80.40625,division,Dhaka,rice_coarse,-9.166494714398912,True
+2017-11-01,Dhaka Division,Rice (coarse),Retail,kg,Dhaka,Dhaka,116,23.72,90.41,cereals and tubers,KG,actual,22.9,0.27,84.81481481481481,division,Dhaka,rice_coarse,-11.37364967184153,True
+2009-07-01,Khulna Division,Rice (coarse),Retail,kg,Khulna,Khulna,118,22.82,89.56,cereals and tubers,KG,actual,36.2,0.53,68.30188679245283,division,Khulna,rice_coarse,11.866536905554694,True
+2017-09-01,Khulna Division,Rice (coarse),Retail,kg,Khulna,Khulna,118,22.82,89.56,cereals and tubers,KG,actual,23.61,0.29,81.41379310344828,division,Khulna,rice_coarse,-10.124815931606372,True
+2017-10-01,Khulna Division,Rice (coarse),Retail,kg,Khulna,Khulna,118,22.82,89.56,cereals and tubers,KG,actual,23.61,0.29,81.41379310344828,division,Khulna,rice_coarse,-10.428850162443561,True
+2017-11-01,Khulna Division,Rice (coarse),Retail,kg,Khulna,Khulna,118,22.82,89.56,cereals and tubers,KG,actual,20.5,0.25,82.0,division,Khulna,rice_coarse,-13.253759461504737,True
+2020-04-01,Khulna Division,Rice (coarse),Retail,kg,Khulna,Khulna,118,22.82,89.56,cereals and tubers,KG,actual,22.5,0.27,83.33333333333333,division,Khulna,rice_coarse,-6.919019611515136,True
+2024-08-01,Kishoregonj Sadar,Rice (coarse),Retail,kg,Dhaka,Kishoreganj,4037,24.46,90.78,cereals and tubers,KG,aggregate,35.3,0.3,117.66666666666666,market,Dhaka,rice_coarse,-5.936934942026886,True
+2017-09-01,Rajshahi Division,Rice (coarse),Retail,kg,Rajshahi,Rajshahi,120,24.37,88.6,cereals and tubers,KG,actual,25.32,0.31,81.6774193548387,division,Rajshahi,rice_coarse,-8.777325426278857,True
+2017-10-01,Rajshahi Division,Rice (coarse),Retail,kg,Rajshahi,Rajshahi,120,24.37,88.6,cereals and tubers,KG,actual,25.32,0.31,81.6774193548387,division,Rajshahi,rice_coarse,-8.777325426278857,True
+2017-11-01,Rajshahi Division,Rice (coarse),Retail,kg,Rajshahi,Rajshahi,120,24.37,88.6,cereals and tubers,KG,actual,24.5,0.29,84.48275862068967,division,Rajshahi,rice_coarse,-9.43575502078474,True
+2024-12-01,Bhashan Char,"Salt (iodized, Molla)",Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,miscellaneous food,KG,actual,31.0,0.26,119.23076923076923,market,Chattogram,,-5.0978449925758,True
+2025-05-01,Barguna Sadar,Spinach (malabar),Retail,kg,Barishal,Barguna,4029,22.16,90.12,vegetables and fruits,KG,actual,16.2,0.13,124.6153846153846,market,Barishal,,-5.143905765382091,True
+2024-02-01,Bhashan Char,Spinach (malabar),Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,vegetables and fruits,KG,actual,5.0,0.046,108.69565217391305,market,Chattogram,,-9.547862032912693,True
+2024-11-01,Bhashan Char,Spinach (malabar),Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,vegetables and fruits,KG,actual,20.0,0.17,117.6470588235294,market,Chattogram,,6.879349076460715,True
+2026-04-01,Bhashan Char,Spinach (malabar),Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,vegetables and fruits,KG,actual,10.0,0.081,123.45679012345678,market,Chattogram,,-7.387234461040741,True
+2024-10-01,Cox`s Bazar Sadar,Spinach (malabar),Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,vegetables and fruits,KG,actual,67.5,0.56,120.53571428571428,market,Chattogram,,16.02974474852854,True
+2025-09-01,Cox`s Bazar Sadar,Spinach (malabar),Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,vegetables and fruits,KG,actual,30.0,0.25,120.0,market,Chattogram,,5.444137633825969,True
+2025-10-01,Cox`s Bazar Sadar,Spinach (malabar),Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,vegetables and fruits,KG,actual,40.0,0.33,121.2121212121212,market,Chattogram,,7.387234461040746,True
+2026-01-01,Cox`s Bazar Sadar,Spinach (malabar),Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,vegetables and fruits,KG,actual,10.0,0.082,121.95121951219512,market,Chattogram,,-7.907216929729574,True
+2026-05-01,Cox`s Bazar Sadar,Spinach (malabar),Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,vegetables and fruits,KG,actual,10.0,0.081,123.45679012345678,market,Chattogram,,-7.647225695385158,True
+2024-10-01,Magura Sadar,Spinach (malabar),Retail,kg,Khulna,Magura,4025,23.49,89.42,vegetables and fruits,KG,actual,38.0,0.32,118.75,market,Khulna,,5.699589913185917,True
+2025-01-01,Magura Sadar,Spinach (malabar),Retail,kg,Khulna,Magura,4025,23.49,89.42,vegetables and fruits,KG,actual,14.91,0.12,124.25,market,Khulna,,-6.968094944179399,True
+2025-06-01,Magura Sadar,Spinach (malabar),Retail,kg,Khulna,Magura,4025,23.49,89.42,vegetables and fruits,KG,actual,17.5,0.14,124.99999999999999,market,Khulna,,-5.2610922199825145,True
+2026-07-01,Munshiganj Sadar,Spinach (malabar),Retail,kg,Dhaka,Munshiganj,4040,23.55,90.53,vegetables and fruits,KG,actual,39.4,0.32,123.125,market,Dhaka,,5.884745517149465,True
+2025-01-01,Naogaon Sadar,Spinach (malabar),Retail,kg,Rajshahi,Naogaon,4070,24.81,88.94,vegetables and fruits,KG,actual,13.18,0.11,119.81818181818181,market,Rajshahi,,-5.812880969397995,True
+2025-02-01,Naogaon Sadar,Spinach (malabar),Retail,kg,Rajshahi,Naogaon,4070,24.81,88.94,vegetables and fruits,KG,actual,12.5,0.1,125.0,market,Rajshahi,,-6.377430236256929,True
+2025-05-01,Natore Sadar,Spinach (malabar),Retail,kg,Rajshahi,Natore,4071,24.41,88.98,vegetables and fruits,KG,actual,13.71,0.11,124.63636363636364,market,Rajshahi,,-6.329793884244118,True
+2025-06-01,Natore Sadar,Spinach (malabar),Retail,kg,Rajshahi,Natore,4071,24.41,88.98,vegetables and fruits,KG,actual,13.72,0.11,124.72727272727273,market,Rajshahi,,-6.3220231755346905,True
+2024-09-01,Pabna Sadar,Spinach (malabar),Retail,kg,Rajshahi,Pabna,4073,24.01,89.24,vegetables and fruits,KG,actual,20.0,0.17,117.6470588235294,market,Rajshahi,,-5.93686294200328,True
+2025-05-01,Pabna Sadar,Spinach (malabar),Retail,kg,Rajshahi,Pabna,4073,24.01,89.24,vegetables and fruits,KG,actual,16.79,0.14,119.92857142857142,market,Rajshahi,,-5.204055511453805,True
+2024-09-01,Panchagarh Sadar,Spinach (malabar),Retail,kg,Rangpur,Panchagarh,4065,26.33,88.56,vegetables and fruits,KG,actual,17.0,0.14,121.42857142857142,market,Rajshahi,,-5.149181086171153,True
+2024-12-01,Shariatpur Sadar,Spinach (malabar),Retail,kg,Dhaka,Shariatpur,4044,23.22,90.35,vegetables and fruits,KG,actual,45.0,0.38,118.42105263157895,market,Dhaka,,5.248581201798618,True
+2024-12-01,Tangail sadar Market,Spinach (malabar),Retail,kg,Dhaka,Tangail,4045,24.25,89.91,vegetables and fruits,KG,actual,37.5,0.31,120.96774193548387,market,Dhaka,,8.122527818798961,True
+2024-10-01,Teknaf Market,Spinach (malabar),Retail,kg,Chattogram,Cox'S Bazar,3159,20.87,92.3,vegetables and fruits,KG,actual,20.0,0.17,117.6470588235294,market,Chattogram,,5.444137633825965,True
+2025-10-01,Teknaf Market,Spinach (malabar),Retail,kg,Chattogram,Cox'S Bazar,3159,20.87,92.3,vegetables and fruits,KG,actual,30.0,0.25,120.0,market,Chattogram,,5.444137633825969,True
+2025-09-01,Ukhia Market,Spinach (malabar),Retail,kg,Chattogram,Cox'S Bazar,3162,21.24,92.14,vegetables and fruits,KG,actual,40.0,0.33,121.2121212121212,market,Chattogram,,7.387234461040746,True
+2026-04-01,Ukhia Market,Spinach (malabar),Retail,kg,Chattogram,Cox'S Bazar,3162,21.24,92.14,vegetables and fruits,KG,actual,40.0,0.33,121.2121212121212,market,Chattogram,,6.1319586345936985,True
+2024-10-01,Barguna Sadar,Spinach (red),Retail,kg,Barishal,Barguna,4029,22.16,90.12,vegetables and fruits,KG,actual,73.75,0.62,118.95161290322581,market,Barishal,,14.311076646524445,True
+2024-11-01,Barguna Sadar,Spinach (red),Retail,kg,Barishal,Barguna,4029,22.16,90.12,vegetables and fruits,KG,actual,41.8,0.35,119.42857142857143,market,Barishal,,5.087966190971216,True
+2024-12-01,Barguna Sadar,Spinach (red),Retail,kg,Barishal,Barguna,4029,22.16,90.12,vegetables and fruits,KG,actual,19.21,0.16,120.0625,market,Barishal,,-5.955882232481884,True
+2025-01-01,Barguna Sadar,Spinach (red),Retail,kg,Barishal,Barguna,4029,22.16,90.12,vegetables and fruits,KG,actual,18.95,0.16,118.4375,market,Barishal,,-6.748080733333089,True
+2025-10-01,Barguna Sadar,Spinach (red),Retail,kg,Barishal,Barguna,4029,22.16,90.12,vegetables and fruits,KG,actual,48.96,0.4,122.39999999999999,market,Barishal,,7.453512095903607,True
+2024-10-01,Brahmonbaria Sadar,Spinach (red),Retail,kg,Chattogram,Brahamanbaria,4050,23.98,91.11,vegetables and fruits,KG,actual,62.5,0.52,120.1923076923077,market,Chattogram,,8.129394254239823,True
+2025-01-01,Chandpur Sadar,Spinach (red),Retail,kg,Chattogram,Chandpur,4051,23.24,90.66,vegetables and fruits,KG,actual,14.09,0.12,117.41666666666667,market,Chattogram,,-5.610013324297619,True
+2025-09-01,Comilla Sadar,Spinach (red),Retail,kg,Chattogram,Comilla,4053,23.49,91.18,vegetables and fruits,KG,actual,37.5,0.31,120.96774193548387,market,Chattogram,,5.166424745349207,True
+2025-10-01,Comilla Sadar,Spinach (red),Retail,kg,Chattogram,Comilla,4053,23.49,91.18,vegetables and fruits,KG,actual,40.83,0.34,120.08823529411764,market,Chattogram,,6.43930457322956,True
+2024-11-01,Faridpur Sadar,Spinach (red),Retail,kg,Dhaka,Faridpur,4034,23.59,89.81,vegetables and fruits,KG,actual,48.8,0.41,119.02439024390245,market,Dhaka,,6.195950080114997,True
+2024-11-01,Gazipur Sadar,Spinach (red),Retail,kg,Dhaka,Gazipur,4035,24.0,90.42,vegetables and fruits,KG,actual,38.8,0.32,121.24999999999999,market,Dhaka,,8.152676404595333,True
+2025-02-01,Gazipur Sadar,Spinach (red),Retail,kg,Dhaka,Gazipur,4035,24.0,90.42,vegetables and fruits,KG,actual,22.5,0.19,118.42105263157895,market,Dhaka,,-8.152676404595333,True
+2025-09-01,Habigonj Sadar,Spinach (red),Retail,kg,Sylhet,Habiganj,4076,24.37,91.42,vegetables and fruits,KG,actual,55.0,0.45,122.22222222222221,market,Sylhet,,6.7624427685001045,True
+2025-10-01,Habigonj Sadar,Spinach (red),Retail,kg,Sylhet,Habiganj,4076,24.37,91.42,vegetables and fruits,KG,actual,51.0,0.42,121.42857142857143,market,Sylhet,,5.6327252720540875,True
+2025-01-01,Jessore Sadar,Spinach (red),Retail,kg,Khulna,Jessore,4022,23.16,89.23,vegetables and fruits,KG,actual,13.73,0.11,124.81818181818183,market,Khulna,,-7.182467026729549,True
+2025-02-01,Jessore Sadar,Spinach (red),Retail,kg,Khulna,Jessore,4022,23.16,89.23,vegetables and fruits,KG,actual,12.5,0.1,125.0,market,Khulna,,-8.586686240699818,True
+2024-12-01,Jhalokati Sadar,Spinach (red),Retail,kg,Barishal,Jhalokati,4031,22.7,90.2,vegetables and fruits,KG,actual,28.17,0.24,117.37500000000001,market,Barishal,,5.892175698222931,True
+2025-12-01,Jhalokati Sadar,Spinach (red),Retail,kg,Barishal,Jhalokati,4031,22.7,90.2,vegetables and fruits,KG,actual,30.94,0.25,123.76,market,Barishal,,7.295462618705028,True
+2024-12-01,Khulna Sadar,Spinach (red),Retail,kg,Khulna,Khulna,4081,22.81,89.55,vegetables and fruits,KG,actual,27.36,0.23,118.95652173913042,market,Khulna,,-8.472436630331725,True
+2026-04-01,Lalmonirhat Sadar,Spinach (red),Retail,kg,Rangpur,Lalmonirhat,4063,25.91,89.45,vegetables and fruits,KG,actual,22.31,0.18,123.94444444444444,market,Rajshahi,,-7.15890860644862,True
+2024-11-01,Laxmipur Sadar,Spinach (red),Retail,kg,Chattogram,Lakshmipur,4057,22.94,90.83,vegetables and fruits,KG,actual,57.5,0.48,119.79166666666667,market,Chattogram,,10.347468716966933,True
+2024-10-01,Madaripur Sadar,Spinach (red),Retail,kg,Dhaka,Madaripur,4038,23.17,90.14,vegetables and fruits,KG,actual,50.0,0.42,119.04761904761905,market,Dhaka,,5.336445313440936,True
+2025-05-01,Magura Sadar,Spinach (red),Retail,kg,Khulna,Magura,4025,23.49,89.42,vegetables and fruits,KG,actual,27.74,0.23,120.6086956521739,market,Khulna,,-5.314315487135413,True
+2025-06-01,Magura Sadar,Spinach (red),Retail,kg,Khulna,Magura,4025,23.49,89.42,vegetables and fruits,KG,actual,28.03,0.23,121.8695652173913,market,Khulna,,-5.158715081420667,True
+2024-11-01,Manikganj Sadar,Spinach (red),Retail,kg,Dhaka,Manikganj,4039,23.87,90.03,vegetables and fruits,KG,actual,32.5,0.27,120.37037037037037,market,Dhaka,,6.243386302517009,True
+2026-07-01,Manikganj Sadar,Spinach (red),Retail,kg,Dhaka,Manikganj,4039,23.87,90.03,vegetables and fruits,KG,actual,26.3,0.21,125.23809523809524,market,Dhaka,,5.797385409931644,True
+2025-01-01,Maulavibazar Sadar,Spinach (red),Retail,kg,Sylhet,Maulvibazar,4077,24.49,91.76,vegetables and fruits,KG,actual,20.73,0.17,121.94117647058823,market,Sylhet,,-6.663038201017173,True
+2025-08-01,Maulavibazar Sadar,Spinach (red),Retail,kg,Sylhet,Maulvibazar,4077,24.49,91.76,vegetables and fruits,KG,actual,61.75,0.51,121.07843137254902,market,Sylhet,,5.155819590654486,True
+2026-02-01,Meherpur Sadar,Spinach (red),Retail,kg,Khulna,Meherpur,4026,23.77,88.63,vegetables and fruits,KG,actual,42.21,0.35,120.60000000000001,market,Khulna,,5.223949285566551,True
+2026-04-01,Meherpur Sadar,Spinach (red),Retail,kg,Khulna,Meherpur,4026,23.77,88.63,vegetables and fruits,KG,actual,25.0,0.2,125.0,market,Khulna,,-5.75194222940884,True
+2024-10-01,Munshiganj Sadar,Spinach (red),Retail,kg,Dhaka,Munshiganj,4040,23.55,90.53,vegetables and fruits,KG,actual,60.0,0.5,120.0,market,Dhaka,,7.809138347594782,True
+2025-02-01,Munshiganj Sadar,Spinach (red),Retail,kg,Dhaka,Munshiganj,4040,23.55,90.53,vegetables and fruits,KG,actual,21.0,0.17,123.52941176470587,market,Dhaka,,-5.276478704161136,True
+2024-10-01,Mymensing Sadar,Spinach (red),Retail,kg,Mymensingh,Mymensingh,3032,24.75,90.41,vegetables and fruits,KG,actual,50.0,0.42,119.04761904761905,market,Dhaka,,6.445222779895858,True
+2025-01-01,Naogaon Sadar,Spinach (red),Retail,kg,Rajshahi,Naogaon,4070,24.81,88.94,vegetables and fruits,KG,actual,22.5,0.19,118.42105263157895,market,Rajshahi,,-6.50759901805549,True
+2025-05-01,Pabna Sadar,Spinach (red),Retail,kg,Rajshahi,Pabna,4073,24.01,89.24,vegetables and fruits,KG,actual,24.64,0.2,123.2,market,Rajshahi,,-5.416987038113369,True
+2026-07-01,Pabna Sadar,Spinach (red),Retail,kg,Rajshahi,Pabna,4073,24.01,89.24,vegetables and fruits,KG,actual,45.9,0.37,124.05405405405405,market,Rajshahi,,5.07265775941164,True
+2024-10-01,Panchagarh Sadar,Spinach (red),Retail,kg,Rangpur,Panchagarh,4065,26.33,88.56,vegetables and fruits,KG,actual,37.5,0.31,120.96774193548387,market,Rajshahi,,5.026202078978674,True
+2026-07-01,Panchagarh Sadar,Spinach (red),Retail,kg,Rangpur,Panchagarh,4065,26.33,88.56,vegetables and fruits,KG,actual,28.7,0.23,124.78260869565217,market,Rajshahi,,8.07165733856121,True
+2024-11-01,Patuakhali Sadar,Spinach (red),Retail,kg,Barishal,Jhalokati,4032,22.72,90.25,vegetables and fruits,KG,actual,67.5,0.56,120.53571428571428,market,Barishal,,7.016964434041059,True
+2025-03-01,Patuakhali Sadar,Spinach (red),Retail,kg,Barishal,Jhalokati,4032,22.72,90.25,vegetables and fruits,KG,actual,4.46,0.037,120.54054054054055,market,Barishal,,-28.01040722173166,True
+2025-08-01,Rajshahi Sadar,Spinach (red),Retail,kg,Rajshahi,Rajshahi,4074,24.37,88.6,vegetables and fruits,KG,actual,50.0,0.41,121.95121951219512,market,Rajshahi,,5.951663200859457,True
+2025-08-01,Rangamati Sadar,Spinach (red),Retail,kg,Chattogram,Rangamati,4059,22.67,92.19,vegetables and fruits,KG,actual,45.0,0.37,121.62162162162163,market,Chattogram,,7.781972809771959,True
+2024-10-01,Satkhira Sadar,Spinach (red),Retail,kg,Khulna,Satkhira,4028,22.71,89.07,vegetables and fruits,KG,actual,45.75,0.38,120.39473684210526,market,Khulna,,5.847293592018444,True
+2024-11-01,Satkhira Sadar,Spinach (red),Retail,kg,Khulna,Satkhira,4028,22.71,89.07,vegetables and fruits,KG,actual,60.0,0.5,120.0,market,Khulna,,10.391017046807226,True
+2025-02-01,Shariatpur Sadar,Spinach (red),Retail,kg,Dhaka,Shariatpur,4044,23.22,90.35,vegetables and fruits,KG,actual,17.5,0.14,124.99999999999999,market,Dhaka,,-5.503084335809966,True
+2024-11-01,Sunamgonj Sadar,Spinach (red),Retail,kg,Sylhet,Sunamganj,4078,25.07,91.4,vegetables and fruits,KG,actual,31.3,0.26,120.38461538461539,market,Sylhet,,9.417686960960399,True
+2025-01-01,Sunamgonj Sadar,Spinach (red),Retail,kg,Sylhet,Sunamganj,4078,25.07,91.4,vegetables and fruits,KG,actual,11.75,0.097,121.1340206185567,market,Sylhet,,-6.7464109972599795,True
+2025-02-01,Sunamgonj Sadar,Spinach (red),Retail,kg,Sylhet,Sunamganj,4078,25.07,91.4,vegetables and fruits,KG,actual,11.95,0.099,120.7070707070707,market,Sylhet,,-7.28036114826571,True
+2024-10-01,Sylhet Sadar,Spinach (red),Retail,kg,Sylhet,Sylhet,4079,24.89,91.87,vegetables and fruits,KG,actual,62.5,0.52,120.1923076923077,market,Sylhet,,6.677190976666026,True
+2024-12-01,Tangail sadar Market,Spinach (red),Retail,kg,Dhaka,Tangail,4045,24.25,89.91,vegetables and fruits,KG,actual,36.71,0.31,118.41935483870968,market,Dhaka,,7.324234203648145,True
+2025-04-01,Barisal Sadar,Sugar,Retail,kg,Barishal,Barisal,4082,22.71,90.36,miscellaneous food,KG,actual,239.68,1.98,121.05050505050505,market,Barishal,sugar,13.662020338895733,True
+2025-05-01,Chittagong Sadar,Sugar,Retail,kg,Chattogram,Chittagong,4052,22.57,91.81,miscellaneous food,KG,actual,5804.44,47.77,121.5080594515386,market,Chattogram,sugar,77.1800470965919,True
+2025-12-01,Cox`s Bazar Sadar,Sugar,Retail,kg,Chattogram,Cox'S Bazar,4054,21.47,91.98,miscellaneous food,KG,actual,142.75,1.17,122.00854700854701,market,Chattogram,sugar,6.142689967571933,True
+2024-10-01,Khulna Sadar,Sugar,Retail,kg,Khulna,Khulna,4081,22.81,89.55,miscellaneous food,KG,actual,72.0,0.6,120.0,market,Khulna,sugar,-10.773679037887742,True
+2024-12-01,Panchagarh Sadar,Sugar,Retail,kg,Rangpur,Panchagarh,4065,26.33,88.56,miscellaneous food,KG,actual,42.5,0.36,118.05555555555556,market,Rajshahi,sugar,-21.10076816086,True
+2025-03-01,Patuakhali Sadar,Sugar,Retail,kg,Barishal,Jhalokati,4032,22.72,90.25,miscellaneous food,KG,actual,19.15,0.16,119.68749999999999,market,Barishal,sugar,-37.71578365807122,True
+2025-04-01,Patuakhali Sadar,Sugar,Retail,kg,Barishal,Jhalokati,4032,22.72,90.25,miscellaneous food,KG,actual,95.28,0.79,120.60759493670885,market,Barishal,sugar,-5.025822098754755,True
+2025-02-01,Bhashan Char,Toilet paper,Retail,piece,Chattogram,Chittagong,6424,22.33,91.16,non-food,1 Roll,actual,25.0,0.21,119.04761904761905,market,Chattogram,,-5.247285289349826,True
+2024-02-01,Bhashan Char,"Turmeric (powder, Fresh)",Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,miscellaneous food,KG,actual,246.0,2.25,109.33333333333333,market,Chattogram,,7.689191609138835,True
+2024-11-01,Bhashan Char,"Turmeric (powder, Fresh)",Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,miscellaneous food,KG,actual,140.0,1.17,119.65811965811966,market,Chattogram,,-7.578451277640177,True
+2024-12-01,Bhashan Char,"Turmeric (powder, Fresh)",Retail,kg,Chattogram,Chittagong,6424,22.33,91.16,miscellaneous food,KG,actual,170.0,1.42,119.71830985915494,market,Chattogram,,-7.390661977642008,True
+2026-05-01,Ukhia Market,"Turmeric (powder, Fresh)",Retail,kg,Chattogram,Cox'S Bazar,3162,21.24,92.14,miscellaneous food,KG,actual,40.0,0.33,121.2121212121212,market,Chattogram,,-35.304880241700175,True
+2024-06-01,Barisal Sadar,Wheat flour,Retail,kg,Barishal,Barisal,4082,22.71,90.36,cereals and tubers,KG,aggregate,41.0,0.35,117.14285714285715,market,Barishal,atta,-5.692572699297811,True
+2024-06-01,Bhola Sadar,Wheat flour,Retail,kg,Barishal,Bhola,4030,22.69,90.64,cereals and tubers,KG,aggregate,39.5,0.34,116.17647058823529,market,Barishal,atta,-7.509685517924574,True
+2018-01-01,Chittagong Division,Wheat flour,Retail,kg,Chattogram,Chittagong,114,22.33,91.84,cereals and tubers,KG,actual,46.28,0.56,82.64285714285714,division,Chattogram,atta,5.638731624170621,True
+2018-02-01,Chittagong Division,Wheat flour,Retail,kg,Chattogram,Chittagong,114,22.33,91.84,cereals and tubers,KG,actual,46.81,0.56,83.58928571428571,division,Chattogram,atta,5.866470683900689,True
+2018-03-01,Chittagong Division,Wheat flour,Retail,kg,Chattogram,Chittagong,114,22.33,91.84,cereals and tubers,KG,actual,46.62,0.56,83.24999999999999,division,Chattogram,atta,5.785126249813324,True
+2026-08-01,Jaipurhat Sadar,Wheat flour,Retail,kg,Rajshahi,Joypurhat,4069,25.1,89.03,cereals and tubers,KG,actual,189.9,1.55,122.51612903225806,market,Rajshahi,atta,25.675666104915855,True
+2024-06-01,Jhalokati Sadar,Wheat flour,Retail,kg,Barishal,Jhalokati,4031,22.7,90.2,cereals and tubers,KG,aggregate,40.5,0.34,119.11764705882352,market,Barishal,atta,-5.379798788792574,True
+2024-06-01,Jhenaidah Sadar,Wheat flour,Retail,kg,Khulna,Jhenaidah,4023,23.54,89.17,cereals and tubers,KG,aggregate,46.5,0.4,116.25,market,Khulna,atta,-6.544258224168322,True
+2021-01-01,Madaripur Sadar,Wheat flour,Retail,kg,Dhaka,Madaripur,4038,23.17,90.14,cereals and tubers,KG,aggregate,33.0,0.39,84.61538461538461,market,Dhaka,atta,-10.033862804054365,True
+2023-10-01,Maulavibazar Sadar,Wheat flour,Retail,kg,Sylhet,Maulvibazar,4077,24.49,91.76,cereals and tubers,KG,aggregate,39.0,0.35,111.42857142857143,market,Sylhet,atta,-8.615658321849082,True
+2023-10-01,Mymensing Sadar,Wheat flour,Retail,kg,Mymensingh,Mymensingh,3032,24.75,90.41,cereals and tubers,KG,aggregate,42.0,0.38,110.52631578947368,market,Dhaka,atta,-6.455467845261014,True
+2026-08-01,Noakhali Sadar,Wheat flour,Retail,kg,Chattogram,Noakhali,4058,22.89,91.11,cereals and tubers,KG,actual,182.5,1.49,122.48322147651007,market,Chattogram,atta,23.099304504384826,True
+2023-08-01,Patiya Sadar,Wheat flour,Retail,kg,Chattogram,Chittagong,4080,22.3,91.98,cereals and tubers,KG,aggregate,70.0,0.64,109.375,market,Chattogram,atta,9.060121057543293,True
+2025-03-01,Patuakhali Sadar,Wheat flour,Retail,kg,Barishal,Jhalokati,4032,22.72,90.25,cereals and tubers,KG,actual,8.38,0.069,121.44927536231884,market,Barishal,atta,-37.44705574350413,True
+2025-04-01,Patuakhali Sadar,Wheat flour,Retail,kg,Barishal,Jhalokati,4032,22.72,90.25,cereals and tubers,KG,actual,42.39,0.35,121.11428571428573,market,Barishal,atta,-5.025764326093052,True
+2024-06-01,Pirojpur Sadar,Wheat flour,Retail,kg,Barishal,Pirojpur,4033,22.58,89.97,cereals and tubers,KG,aggregate,39.0,0.33,118.18181818181817,market,Barishal,atta,-7.413579840454982,True
+2024-12-01,Rangpur Sadar,Wheat flour,Retail,kg,Rangpur,Rangpur,3033,25.75,89.25,cereals and tubers,KG,actual,56.36,0.47,119.91489361702128,market,Rajshahi,atta,10.221208337118401,True
+2023-10-01,Sylhet Sadar,Wheat flour,Retail,kg,Sylhet,Sylhet,4079,24.89,91.87,cereals and tubers,KG,aggregate,43.0,0.39,110.25641025641025,market,Sylhet,atta,-5.811696642194848,True

@@ -1,0 +1,319 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bangladesh Food Prices</title>
+  <meta name="description" content="BUS173 Applied Statistics project on Bangladesh staple food prices: index numbers, hypothesis tests, contingency tables, regression, time series and a Bayesian forward-buying decision for palm oil.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="header-row">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <div>
+          <h1>Bangladesh food prices, by the numbers</h1>
+          <p class="sub">Rice, atta, lentils and palm oil in WFP market data · BUS173 Applied Statistics</p>
+        </div>
+      </div>
+      <a class="btn ghost small" href="https://github.com/takyurp09/bd-food-price-statistics">Code on GitHub</a>
+    </div>
+    <nav class="tabs" role="tablist" aria-label="Dashboard pages">
+      <button role="tab" id="tab-overview" aria-controls="page-overview" aria-selected="true">Overview</button>
+      <button role="tab" id="tab-prices" aria-controls="page-prices" aria-selected="false" tabindex="-1">Prices &amp; index numbers</button>
+      <button role="tab" id="tab-tests" aria-controls="page-tests" aria-selected="false" tabindex="-1">Tests &amp; tables</button>
+      <button role="tab" id="tab-regression" aria-controls="page-regression" aria-selected="false" tabindex="-1">Regression</button>
+      <button role="tab" id="tab-timeseries" aria-controls="page-timeseries" aria-selected="false" tabindex="-1">Time series</button>
+      <button role="tab" id="tab-bayes" aria-controls="page-bayes" aria-selected="false" tabindex="-1">Bayesian decision</button>
+    </nav>
+    <div class="banner" role="note">Prices are nominal taka, retail, from WFP market monitoring. The staple index uses 2016 = 100 and HIES quantities as weights.</div>
+  </header>
+
+  <main id="main">
+    <div id="loading" class="loading" role="status">Loading data…</div>
+
+    <!-- ========== Overview ========== -->
+    <section class="page" id="page-overview" role="tabpanel" aria-labelledby="tab-overview">
+      <p class="who"><span class="topic">BUS173 topic: descriptive statistics and index numbers</span>Headline results from each part of the course, all from the same WFP price data.</p>
+      <article class="card">
+        <header class="card-h"><h2>The question</h2></header>
+        <p class="question" id="ov-question"></p>
+      </article>
+      <div class="kpis six" id="kpis"></div>
+      <article class="card">
+        <header class="card-h"><h2>Staple Fisher index vs official food CPI</h2><span class="hint">2016 = 100, monthly</span></header>
+        <div class="chart tall" id="c-ov" role="img" aria-label="Line chart of the four-staple Fisher price index and the official food consumer price index, both rebased to 2016 = 100."></div>
+        <p class="note" id="ov-note"></p>
+      </article>
+    </section>
+
+    <!-- ========== Prices ========== -->
+    <section class="page" id="page-prices" role="tabpanel" aria-labelledby="tab-prices" hidden>
+      <p class="who"><span class="topic">BUS173 topic: index numbers (Laspeyres, Paasche, Fisher, chain)</span>Prices by division, the four ways of turning them into one index, and how the result compares with the official food CPI.</p>
+      <article class="card">
+        <header class="card-h"><h2>Commodity price explorer</h2><span class="hint" id="ex-hint"></span></header>
+        <div class="filters inline">
+          <div class="filter"><label for="sel-item">Commodity</label><select id="sel-item"></select></div>
+        </div>
+        <div class="chart tall" id="c-explorer" role="img" aria-label="Line chart of the selected commodity's monthly price in each division and nationally."></div>
+        <p class="howto"><strong>How to read this:</strong> each thin line is the median price across the WFP markets in one of the six older divisions. The thick line is the national price, the mean of the division medians. The four long-basket staples start in the mid-2000s; the other items start in 2024.</p>
+      </article>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header class="card-h"><h2>Four index formulas, long basket</h2><span class="hint">2016 = 100</span></header>
+          <div class="chart" id="c-index" role="img" aria-label="Line chart of the Laspeyres, Paasche, Fisher and chain Laspeyres indices for rice, atta, lentils and palm oil."></div>
+          <p class="howto" id="ix-note"></p>
+        </article>
+        <article class="card">
+          <header class="card-h"><h2>Weights</h2><span class="hint">Base quantities per person per month</span></header>
+          <div class="table-wrap" style="max-height:380px">
+            <table class="tbl" id="t-weights">
+              <caption class="sr-only">Index weights and their source</caption>
+              <thead><tr><th scope="col">Basket</th><th scope="col">Item</th><th scope="col" class="num">q0</th><th scope="col" class="num">p0, BDT</th><th scope="col" class="num">Share</th><th scope="col">Source</th></tr></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+          <p class="howto"><strong>How to read this:</strong> q0 is kg (litres for oil, pieces for eggs) per person per month, from BBS HIES Table 5.2 daily grams × 30.4. Share is p0 × q0 over the basket total. The long basket uses HIES 2016; the 11-item short basket uses HIES 2022.</p>
+        </article>
+      </div>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header class="card-h"><h2>Year-on-year inflation, monthly</h2><span class="hint">%, staple Fisher index vs food CPI</span></header>
+          <div class="chart" id="c-yoy" role="img" aria-label="Line chart of year-on-year inflation of the staple index and of the official food CPI."></div>
+          <p class="howto" id="yoy-note"></p>
+        </article>
+        <article class="card">
+          <header class="card-h"><h2>Annual average inflation</h2><span class="hint">%, full calendar years</span></header>
+          <div class="chart" id="c-annual" role="img" aria-label="Bar chart of annual average inflation of the staple index and the food CPI, 2009 to 2025."></div>
+          <p class="howto">Staple inflation ranges from −28.0% (2009) to +30.2% (2010). The food CPI stays between 3% and 13% because it averages over many more items, including ones whose prices move slowly.</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- ========== Tests ========== -->
+    <section class="page" id="page-tests" role="tabpanel" aria-labelledby="tab-tests" hidden>
+      <p class="who"><span class="topic">BUS173 topic: hypothesis tests, ANOVA, chi-square and contingency tables</span>Every test with a p-value in notebooks 02 and 03, with Holm-corrected p-values, and the tables behind the main findings.</p>
+      <article class="card">
+        <header class="card-h"><h2>Hypothesis test results</h2><span class="hint" id="ht-hint"></span></header>
+        <div class="filters inline">
+          <div class="filter grow"><label for="sel-section">Section</label><select id="sel-section"></select></div>
+        </div>
+        <div class="table-wrap">
+          <table class="tbl" id="t-tests">
+            <caption class="sr-only">Hypothesis tests</caption>
+            <thead><tr><th scope="col">Test</th><th scope="col">Data</th><th scope="col" class="num">n</th><th scope="col" class="num">Statistic</th><th scope="col" class="num">p</th><th scope="col" class="num">Holm p</th><th scope="col">Effect</th><th scope="col">Conclusion</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <p class="howto"><strong>How to read this:</strong> Holm p adjusts for running many tests in the same section. A green edge marks a test still significant at 5% after that correction. Monthly prices are autocorrelated, so where both exist, trust the Newey-West and permutation versions over the plain t-test and chi-square.</p>
+      </article>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header class="card-h"><h2>Is there a Ramadan price rise?</h2><span class="hint">Ramadan month vs two months before, net of drift, 2007-2026</span></header>
+          <div class="chart" id="c-ramadan" role="img" aria-label="Bar chart of the mean excess price change in Ramadan for each staple, with one-sided p-values."></div>
+          <p class="howto" id="ram-note"></p>
+        </article>
+        <article class="card">
+          <header class="card-h"><h2>Division price levels, 2025</h2><span class="hint">% above or below the national price</span></header>
+          <div class="chart" id="c-levels" role="img" aria-label="Heatmap of each division's 2025 average price relative to the national price for the four staples."></div>
+          <p class="howto" id="lv-note"></p>
+        </article>
+      </div>
+      <article class="card">
+        <header class="card-h"><h2>Price spikes vs floods, rain and Ramadan</h2><span class="hint">2 × 2 tables, spike = monthly change above the item's 90th percentile</span></header>
+        <div class="table-wrap">
+          <table class="tbl" id="t-cross">
+            <caption class="sr-only">Contingency tables of spikes against events</caption>
+            <thead><tr><th scope="col">Event</th><th scope="col" class="num">Event: spike / no spike</th><th scope="col" class="num">Other: spike / no spike</th><th scope="col" class="num">Spike rate, event vs other</th><th scope="col" class="num">Odds ratio (95% CI)</th><th scope="col" class="num">Fisher p</th><th scope="col" class="num">Permutation p</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <p class="howto" id="cross-note"></p>
+      </article>
+      <article class="card">
+        <header class="card-h"><h2>Are monthly price changes normal?</h2><span class="hint">Monthly % change, national price, 2007-2026</span></header>
+        <div class="table-wrap">
+          <table class="tbl" id="t-dist">
+            <caption class="sr-only">Normality checks</caption>
+            <thead><tr><th scope="col">Item</th><th scope="col" class="num">n</th><th scope="col" class="num">SD, %</th><th scope="col" class="num">Skew</th><th scope="col" class="num">Excess kurtosis</th><th scope="col" class="num">Shapiro-Wilk p</th><th scope="col" class="num">Jarque-Bera p</th><th scope="col" class="num">Fitted t df</th><th scope="col" class="num">AIC gain for t</th><th scope="col" class="num">Beyond 3 SD</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <p class="howto"><strong>How to read this:</strong> a normal distribution has excess kurtosis 0 and puts 0.27% of months beyond 3 SD. All four staples have fatter tails, every normality test rejects, and a t distribution with few degrees of freedom fits better (positive AIC gain). The QQ plots are in notebook 03, figure 16.</p>
+      </article>
+    </section>
+
+    <!-- ========== Regression ========== -->
+    <section class="page" id="page-regression" role="tabpanel" aria-labelledby="tab-regression" hidden>
+      <p class="who"><span class="topic">BUS173 topic: correlation and regression</span>How much of a world price change reaches Bangladeshi shelves, and why regressions on price levels mislead.</p>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header class="card-h"><h2>Correlation of monthly % changes</h2><span class="hint">Pearson r</span></header>
+          <div class="chart tall" id="c-heat" role="img" aria-label="Heatmap of Pearson correlations between monthly changes of domestic prices, world prices, the exchange rate and rain."></div>
+          <p class="howto"><strong>How to read this:</strong> only palm oil moves with its world price month to month (r = 0.43). Domestic rice and the Thai rice price barely move together (r = 0.06).</p>
+        </article>
+        <article class="card">
+          <header class="card-h"><h2>Spurious correlation demo</h2><span class="hint">Same pairs, levels vs monthly changes</span></header>
+          <div class="chart tall" id="c-spur" role="img" aria-label="Bar chart comparing the correlation of price levels and of monthly changes for four pairs of series."></div>
+          <p class="howto" id="spur-note"></p>
+        </article>
+      </div>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header class="card-h"><h2>Long-run pass-through</h2><span class="hint">Sum of lag 0-3 coefficients, 95% Newey-West CI</span></header>
+          <div class="chart" id="c-pt" role="img" aria-label="Bar chart with error bars of long-run pass-through from the world price in taka to each staple's domestic price."></div>
+          <p class="howto" id="pt-note"></p>
+        </article>
+        <article class="card">
+          <header class="card-h"><h2>Out-of-sample check</h2><span class="hint">Fit 2006-2019, test 2020-2025</span></header>
+          <div class="table-wrap">
+            <table class="tbl" id="t-oos">
+              <caption class="sr-only">Out-of-sample forecast comparison</caption>
+              <thead><tr><th scope="col">Item</th><th scope="col" class="num">Test months</th><th scope="col" class="num">RMSE, model</th><th scope="col" class="num">RMSE, mean</th><th scope="col" class="num">Ratio</th><th scope="col" class="num">OOS R²</th></tr></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+          <p class="howto" id="oos-note"></p>
+        </article>
+      </div>
+    </section>
+
+    <!-- ========== Time series ========== -->
+    <section class="page" id="page-timeseries" role="tabpanel" aria-labelledby="tab-timeseries" hidden>
+      <p class="who"><span class="topic">BUS173 topic: time series, seasonal indices and forecasting</span>Trend, seasonality and volatility of the staples, and a six-month forecast checked against a rolling back-test.</p>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header class="card-h"><h2>Seasonal indices</h2><span class="hint">Ratio to moving average, 100 = average month</span></header>
+          <div class="chart" id="c-seas" role="img" aria-label="Line chart of monthly seasonal indices for coarse rice, lentils and the staple index."></div>
+          <p class="howto" id="seas-note"></p>
+        </article>
+        <article class="card">
+          <header class="card-h"><h2>Trend</h2><span class="hint" id="trend-hint"></span></header>
+          <div class="filters inline"><div class="filter"><label for="sel-trend">Series</label><select id="sel-trend"><option value="staple_index">Staple Fisher index</option><option value="rice_coarse">Coarse rice, BDT/kg</option></select></div></div>
+          <div class="chart short" id="c-trend" role="img" aria-label="Line chart of the series with its centred 12-month moving average trend."></div>
+          <p class="howto" id="trend-note"></p>
+        </article>
+      </div>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header class="card-h"><h2>Six-month forecast</h2><span class="hint" id="fc-hint"></span></header>
+          <div class="filters inline"><div class="filter"><label for="sel-fc">Series</label><select id="sel-fc"><option value="staple_index">Staple Fisher index</option><option value="rice_coarse">Coarse rice, BDT/kg</option></select></div></div>
+          <div class="chart" id="c-fc" role="img" aria-label="Fan chart of the six-month forecast with 80% and 95% intervals."></div>
+          <p class="howto" id="fc-note"></p>
+        </article>
+        <article class="card">
+          <header class="card-h"><h2>Back-test</h2><span class="hint">13 rolling origins, Jul 2022 to Jul 2025</span></header>
+          <div class="table-wrap">
+            <table class="tbl" id="t-bt">
+              <caption class="sr-only">Forecast back-test errors</caption>
+              <thead><tr><th scope="col">Series</th><th scope="col">Method</th><th scope="col" class="num">MAPE h1-6</th><th scope="col" class="num">MAPE h7-12</th><th scope="col" class="num">MASE h1-6</th><th scope="col" class="num">MASE h7-12</th></tr></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+          <p class="howto"><strong>How to read this:</strong> MAPE is the mean absolute % error. MASE divides the error by that of a one-step naive forecast in the training data, so below 1 beats it. Up to six months ahead SARIMA and ETS are almost tied: SARIMA is slightly better for rice and ETS for the staple index. At 7-12 months the seasonal naive forecast does better for both.</p>
+        </article>
+      </div>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header class="card-h"><h2>Volatility ranking</h2><span class="hint">SD of monthly % change since Oct 2024</span></header>
+          <div class="chart tall" id="c-vol" role="img" aria-label="Bar chart of the standard deviation of monthly price changes for 11 items."></div>
+        </article>
+        <article class="card">
+          <header class="card-h"><h2>Rolling 12-month volatility</h2><span class="hint">SD of monthly % change, long basket</span></header>
+          <div class="chart tall" id="c-roll" role="img" aria-label="Line chart of rolling 12-month standard deviation of monthly price changes for the four staples."></div>
+          <p class="howto" id="roll-note"></p>
+        </article>
+      </div>
+    </section>
+
+    <!-- ========== Bayes ========== -->
+    <section class="page" id="page-bayes" role="tabpanel" aria-labelledby="tab-bayes" hidden>
+      <p class="who"><span class="topic">BUS173 topic: probability, Bayes' rule and decision analysis</span>A buyer needs 1,000 L of palm oil in each of the next three months. Buy all 3,000 L now and store it, or buy each month at that month's price? The answer depends on the chance of a price spike next month.</p>
+      <div class="grid g-calc">
+        <article class="card">
+          <header class="card-h"><h2>Assumptions</h2><span class="tag assumed">adjustable</span></header>
+          <div class="ctrl"><label for="s-rate">Lending rate, % a year <output id="o-rate"></output></label><input type="range" id="s-rate" min="6" max="18" step="0.02"><div class="rng"><span>6%</span><span>18%</span></div></div>
+          <div class="ctrl"><label for="s-store">Storage and loss, % a month <output id="o-store"></output></label><input type="range" id="s-store" min="0" max="1.5" step="0.05"><div class="rng"><span>0%</span><span>1.5%</span></div></div>
+          <div class="ctrl"><label for="s-mult">Spike size, × 2007-2019 average <output id="o-mult"></output></label><input type="range" id="s-mult" min="0.5" max="1.5" step="0.05"><div class="rng"><span>0.5×</span><span>1.5×</span></div></div>
+          <div class="ctrl"><span class="ctrl-l" id="sig-l">Signal: world palm oil in taka up more than</span><div class="seg" id="seg-x" role="radiogroup" aria-labelledby="sig-l"></div></div>
+          <div class="ctrl"><span class="ctrl-l" id="obs-l">This month the signal is</span><div class="seg" id="seg-obs" role="radiogroup" aria-labelledby="obs-l"><button type="button" role="radio" data-v="on">on</button><button type="button" role="radio" data-v="off">off</button></div></div>
+          <div class="btn-row"><button type="button" class="btn small" id="b-reset">Reset to base case</button></div>
+          <p class="howto">Base case: 11.86% all-bank lending rate (Bangladesh Bank, Jun 2026), 0.5% a month storage and loss (assumed), 5% signal. Price now: <span id="p0"></span>.</p>
+        </article>
+        <div class="page" style="gap:16px">
+          <div class="kpis small" id="kpis-b"></div>
+          <article class="card">
+            <header class="card-h"><h2>Expected cost of each action</h2><span class="hint">BDT per litre, against P(spike next month)</span></header>
+            <div class="chart" id="c-emv" role="img" aria-label="Line chart of the expected cost per litre of forward buying and monthly buying against the probability of a spike, with the breakeven, prior and posterior marked."></div>
+            <div class="decision-box" id="dec-box"></div>
+          </article>
+        </div>
+      </div>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header class="card-h"><h2>Bayes' rule table</h2><span class="hint" id="bt-hint"></span></header>
+          <div class="table-wrap">
+            <table class="tbl" id="t-bayes">
+              <caption class="sr-only">Prior, likelihood, joint and posterior</caption>
+              <thead><tr><th scope="col">State</th><th scope="col" class="num">Prior</th><th scope="col" class="num">Likelihood</th><th scope="col" class="num">Joint</th><th scope="col" class="num">Posterior</th></tr></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+          <p class="howto" id="bayes-note"></p>
+        </article>
+        <article class="card">
+          <header class="card-h"><h2>Payoff table</h2><span class="hint">Cost in BDT of covering 3 × 1,000 L</span></header>
+          <div class="table-wrap">
+            <table class="tbl" id="t-pay">
+              <caption class="sr-only">Cost of each action in each state</caption>
+              <thead><tr><th scope="col">State</th><th scope="col" class="num">Forward buy</th><th scope="col" class="num">Buy monthly</th><th scope="col" class="num">Forward saves</th></tr></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+          <p class="howto" id="pay-note"></p>
+          <p class="checks" id="checks"></p>
+        </article>
+      </div>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header class="card-h"><h2>Back-test, 2020 to 2025</h2><span class="hint">Base-case settings, 5% signal</span></header>
+          <div class="chart short" id="c-cum" role="img" aria-label="Line chart of the cumulative saving of each strategy over always buying monthly, 2020 to 2025."></div>
+          <div class="table-wrap">
+            <table class="tbl" id="t-btb">
+              <caption class="sr-only">Back-test summary</caption>
+              <thead><tr><th scope="col">Strategy</th><th scope="col" class="num">Total cost, BDT m</th><th scope="col" class="num">vs always monthly</th><th scope="col" class="num">BDT per litre</th></tr></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+          <p class="howto" id="btb-note"></p>
+        </article>
+        <article class="card">
+          <header class="card-h"><h2>How often does palm oil spike?</h2><span class="hint">Beta-binomial posterior of the monthly spike rate</span></header>
+          <div class="chart" id="c-beta" role="img" aria-label="Density curves of the Beta posterior for the monthly spike rate after 2007-2019 and after adding 2020-2025, with the breakeven marked."></div>
+          <div class="table-wrap">
+            <table class="tbl" id="t-beta">
+              <caption class="sr-only">Beta-binomial updates</caption>
+              <thead><tr><th scope="col">Stage</th><th scope="col" class="num">Beta(a, b)</th><th scope="col" class="num">Mean</th><th scope="col" class="num">95% credible interval</th></tr></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+          <p class="howto" id="beta-note"></p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p><strong>Data:</strong> World Food Programme, Bangladesh food prices, via the Humanitarian Data Exchange (CC BY-IGO) · FAOSTAT consumer price indices (CC BY 4.0) · IMF exchange rates · NASA POWER rainfall · World Bank Commodity Price Data, Pink Sheet (CC BY 4.0) · BBS Household Income and Expenditure Survey 2022, Table 5.2 (index weights). Details in <a href="https://github.com/takyurp09/bd-food-price-statistics/blob/main/data/raw/SOURCES.md">data/raw/SOURCES.md</a>.</p>
+    <p>Muhammad Taky Tahmid · MIT License · <a href="https://github.com/takyurp09/bd-food-price-statistics">github.com/takyurp09/bd-food-price-statistics</a> · <span id="gen"></span></p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.5.0/echarts.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

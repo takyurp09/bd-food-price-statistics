@@ -1,0 +1,1769 @@
+commodity,market,pricetype,unit,first,last,n_obs,n_months
+Apples (royal gala),Bhashan Char,Retail,KG,2024-02-15,2026-05-15,17,17
+Apples (royal gala),Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,19,19
+Apples (royal gala),Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Apples (royal gala),Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Bananas (green),Bhashan Char,Retail,1 piece,2024-02-15,2026-05-15,18,18
+Bananas (green),Cox`s Bazar Sadar,Retail,1 piece,2024-02-15,2026-05-15,19,19
+Bananas (green),Teknaf Market,Retail,1 piece,2024-02-15,2026-05-15,19,19
+Bananas (green),Ukhia Market,Retail,1 piece,2024-02-15,2026-05-15,19,19
+Bananas (ripe),Bandarban Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Barisal Sadar,Retail,1 piece,2024-12-15,2024-12-15,1,1
+Bananas (ripe),Beanibazar,Retail,1 piece,2026-05-15,2026-05-15,1,1
+Bananas (ripe),Bhashan Char,Retail,1 piece,2024-02-15,2026-05-15,18,18
+Bananas (ripe),Bogra Sadar,Retail,1 piece,2024-09-15,2026-07-15,20,20
+Bananas (ripe),Brahmonbaria Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Chandpur Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Chittagong Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Chuadanga Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Comilla Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Bananas (ripe),Cox`s Bazar Sadar,Retail,1 piece,2024-02-15,2026-05-15,20,20
+Bananas (ripe),Dhaka Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Bananas (ripe),Feni Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Gazipur Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Bananas (ripe),Gopalgonj Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Habigonj Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Jaipurhat Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Jamalpur Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Jessore Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Jhalokati Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Jhenaidah Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Kaptai,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Bananas (ripe),Kawran Bazar Dhaka,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Bananas (ripe),Khagrachari Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Khulna Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Kishoregonj Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Bananas (ripe),Kurigram Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Kushtia Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Lalmonirhat Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Laxmipur Sadar,Retail,1 piece,2024-12-15,2026-07-15,9,9
+Bananas (ripe),Madaripur Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Magura Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Manikganj Sadar,Retail,1 piece,2024-12-15,2025-07-15,8,8
+Bananas (ripe),Maulavibazar Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Meherpur Sadar,Retail,1 piece,2024-12-15,2026-07-15,18,18
+Bananas (ripe),Munshiganj Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Mymensing Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Naogaon Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Narail Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Narayanganj Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Narsingdi Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Nawabgonj Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Netrakona Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Noakhali Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Panchagarh Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Patiya Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Patuakhali Sadar,Retail,1 piece,2024-12-15,2025-05-15,5,5
+Bananas (ripe),Pirojpur Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Raipur,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Bananas (ripe),Rangamati Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Rangpur Municipality Market,Retail,1 piece,2024-10-15,2024-10-15,1,1
+Bananas (ripe),Sapahar,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Bananas (ripe),Satkhira Sadar,Retail,1 piece,2024-09-15,2026-07-15,12,12
+Bananas (ripe),Shariatpur Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Sherpur Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Sirajgonj Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Sunamgonj Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Sylhet Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Bananas (ripe),Tangail sadar Market,Retail,1 piece,2024-09-15,2026-07-15,19,19
+Bananas (ripe),Teknaf Market,Retail,1 piece,2024-02-15,2026-05-15,19,19
+Bananas (ripe),Thakurgaon Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Bananas (ripe),Ukhia Market,Retail,1 piece,2024-02-15,2026-05-15,19,19
+Bathing soap,Bhashan Char,Retail,1 piece,2024-02-15,2026-05-15,16,16
+Bathing soap,Cox`s Bazar Sadar,Retail,1 piece,2024-02-15,2026-05-15,18,18
+Bathing soap,Teknaf Market,Retail,1 piece,2024-02-15,2026-05-15,19,19
+Bathing soap,Ukhia Market,Retail,1 piece,2024-02-15,2026-05-15,19,19
+"Beans (mung, large grain)",Bhashan Char,Retail,KG,2024-02-15,2026-04-15,14,14
+"Beans (mung, large grain)",Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,19,19
+"Beans (mung, large grain)",Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+"Beans (mung, large grain)",Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Cabbage,Bhashan Char,Retail,KG,2024-02-15,2026-03-15,12,12
+Cabbage,Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,18,18
+Cabbage,Teknaf Market,Retail,KG,2024-02-15,2026-05-15,13,13
+Cabbage,Ukhia Market,Retail,KG,2024-02-15,2026-05-15,15,15
+Carrots,Bhashan Char,Retail,KG,2024-02-15,2026-05-15,16,16
+Carrots,Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,19,19
+Carrots,Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Carrots,Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Cauliflower,Bhashan Char,Retail,KG,2024-02-15,2026-03-15,10,10
+Cauliflower,Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-03-15,12,12
+Cauliflower,Teknaf Market,Retail,KG,2024-02-15,2026-03-15,10,10
+Cauliflower,Ukhia Market,Retail,KG,2024-02-15,2026-05-15,12,12
+Chickpeas,Bhashan Char,Retail,KG,2024-02-15,2026-05-15,19,19
+Chickpeas,Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,19,19
+Chickpeas,Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Chickpeas,Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Chili (green),Amtali,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Amtoli,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Bagerhat Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Bajitpur,Retail,KG,2026-05-15,2026-07-15,2,2
+Chili (green),Bandarban Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Banyachong,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Barguna Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Barisal Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Beanibazar,Retail,KG,2026-05-15,2026-05-15,1,1
+Chili (green),Begumganj,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Bhashan Char,Retail,KG,2024-02-15,2026-05-15,18,18
+Chili (green),Bhola Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Bogra Sadar,Retail,KG,2024-09-15,2026-07-15,19,19
+Chili (green),Brahmonbaria Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Chandina,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Chandpur Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Chittagong Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Chili (green),Chuadanga Sadar,Retail,KG,2024-09-15,2026-07-15,11,11
+Chili (green),Comilla Sadar,Retail,KG,2024-10-15,2026-07-15,19,19
+Chili (green),Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-07-15,23,23
+Chili (green),Dhaka Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Dhanbari,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Dinajpur Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Chili (green),Dumuria,Retail,KG,2026-06-15,2026-07-15,2,2
+Chili (green),Faridpur Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Feni Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Gaibandha Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Gazipur Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Gobindaganj,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Godagari Sadar,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Golapganj,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Gopalgonj Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Habigonj Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Jaipurhat Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Jamalpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Chili (green),Jessore Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Jhalokati Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Jhenaidah Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Kangshanagar,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Kaptai,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Kawran Bazar Dhaka,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Khagrachari Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Khulna Sadar,Retail,KG,2024-09-15,2026-07-15,7,7
+Chili (green),Kishoregonj Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Kurigram Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Chili (green),Kushtia Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Lalmonirhat Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Laxmipur Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Chili (green),Madaripur Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Chili (green),Madhupur,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Magura Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Manikganj Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Maulavibazar Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Mechua,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Meherpur Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Mirpur 1 no.,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Mithapukur,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Mohanganj,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Munshiganj Sadar,Retail,KG,2024-09-15,2026-07-15,11,11
+Chili (green),Mymensing Sadar,Retail,KG,2024-09-15,2025-06-15,10,10
+Chili (green),Nageshwari,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Naogaon Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Narail Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Narayanganj Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Narsingdi Sadar,Retail,KG,2024-09-15,2026-07-15,16,16
+Chili (green),Natore Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Nawabgonj Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Netrakona Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Chili (green),Nilphamari Sadar,Retail,KG,2024-09-15,2026-07-15,11,11
+Chili (green),Noakhali Sadar,Retail,KG,2024-09-15,2026-07-15,11,11
+Chili (green),Pabna Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Panchagarh Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Parbatipur,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Patiya Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Chili (green),Patuakhali Sadar,Retail,KG,2024-09-15,2025-05-15,8,8
+Chili (green),Pirojpur Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Raipur,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Rajbari Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Rajshahi Sadar,Retail,KG,2024-09-15,2026-07-15,19,19
+Chili (green),Rangamati Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Rangpur Municipality Market,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Rangpur Sadar,Retail,KG,2024-12-15,2024-12-15,1,1
+Chili (green),Sapahar,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Satkhira Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Chili (green),Saturia,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Shariatpur Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Sherpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Chili (green),Shibgonj Sadar,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Singair,Retail,KG,2026-05-15,2026-07-15,3,3
+Chili (green),Sirajgonj Sadar,Retail,KG,2024-09-15,2025-10-15,10,10
+Chili (green),Sunamgonj Sadar,Retail,KG,2024-09-15,2026-07-15,11,11
+Chili (green),Sylhet Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Tangail sadar Market,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Chili (green),Thakurgaon Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Chili (green),Trisal,Retail,KG,2026-05-15,2026-07-15,2,2
+Chili (green),Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+"Chili (whole, dry, Indian Teja)",Bhashan Char,Retail,KG,2024-02-15,2026-05-15,19,19
+"Chili (whole, dry, Indian Teja)",Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,19,19
+"Chili (whole, dry, Indian Teja)",Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+"Chili (whole, dry, Indian Teja)",Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+"Cucumber (short, khira)",Bhashan Char,Retail,KG,2024-02-15,2026-05-15,17,17
+"Cucumber (short, khira)",Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,19,19
+"Cucumber (short, khira)",Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+"Cucumber (short, khira)",Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Dishwashing liquid,Bhashan Char,Retail,1 piece,2024-02-15,2026-05-15,18,18
+Dishwashing liquid,Cox`s Bazar Sadar,Retail,1 piece,2024-02-15,2026-05-15,18,18
+Dishwashing liquid,Teknaf Market,Retail,1 piece,2024-02-15,2026-05-15,19,19
+Dishwashing liquid,Ukhia Market,Retail,1 piece,2024-02-15,2026-05-15,19,19
+Eggplants,Bhashan Char,Retail,KG,2024-02-15,2026-05-15,18,18
+Eggplants,Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,19,19
+Eggplants,Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Eggplants,Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Eggs (brown),Amtali,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Amtoli,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Bagerhat Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Bandarban Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Baneshor,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Banyachong,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Barguna Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Barisal Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Beanibazar,Retail,1 piece,2026-05-15,2026-05-15,1,1
+Eggs (brown),Begumganj,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Bhola Sadar,Retail,1 piece,2024-09-15,2026-07-15,20,20
+Eggs (brown),Bogra Sadar,Retail,1 piece,2024-09-15,2026-07-15,20,20
+Eggs (brown),Brahmonbaria Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Chagalnaiya,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Chandina,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Chandpur Sadar,Retail,1 piece,2024-09-15,2026-07-15,18,18
+Eggs (brown),Chittagong Sadar,Retail,1 piece,2024-09-15,2026-07-15,12,12
+Eggs (brown),Chuadanga Sadar,Retail,1 piece,2024-09-15,2026-07-15,12,12
+Eggs (brown),Comilla Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Cox`s Bazar Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Dhaka Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Dhanbari,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Dinajpur Sadar,Retail,1 piece,2024-09-15,2026-07-15,12,12
+Eggs (brown),Dumuria,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Faridpur Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Feni Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Gaibandha Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Gazipur Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Gobindaganj,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Godagari Sadar,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Golapganj,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Gopalgonj Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Habigonj Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Jaipurhat Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Jamalpur Sadar,Retail,1 piece,2024-09-15,2026-07-15,20,20
+Eggs (brown),Jessore Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Jhalokati Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Jhenaidah Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Kaliganj - Jhenaidah,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Kangshanagar,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Kaptai,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Kaukhali,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Khagrachari Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Khulna Sadar,Retail,1 piece,2024-09-15,2026-07-15,7,7
+Eggs (brown),Kishoregonj Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Eggs (brown),Kurigram Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Kushtia Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Lalmonirhat Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Laxmipur Sadar,Retail,1 piece,2024-09-15,2026-07-15,12,12
+Eggs (brown),Madaripur Sadar,Retail,1 piece,2024-09-15,2026-07-15,12,12
+Eggs (brown),Madhupur,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Magura Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Manikganj Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Maulavibazar Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Mechua,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Meherpur Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Mithapukur,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Mohanganj,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Munshiganj Sadar,Retail,1 piece,2024-09-15,2026-07-15,12,12
+Eggs (brown),Mymensing Sadar,Retail,1 piece,2024-09-15,2025-06-15,10,10
+Eggs (brown),Nageshwari,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Naogaon Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Narail Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Narayanganj Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Eggs (brown),Narsingdi Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Natore Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Nawabgonj Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Netrakona Sadar,Retail,1 piece,2024-09-15,2026-07-15,13,13
+Eggs (brown),Nilphamari Sadar,Retail,1 piece,2024-09-15,2026-07-15,12,12
+Eggs (brown),Noakhali Sadar,Retail,1 piece,2024-09-15,2026-07-15,12,12
+Eggs (brown),Pabna Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Panchagarh Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Parbatipur,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Patiya Sadar,Retail,1 piece,2024-09-15,2024-11-15,3,3
+Eggs (brown),Patuakhali Sadar,Retail,1 piece,2024-09-15,2025-05-15,8,8
+Eggs (brown),Pirojpur Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Raipur,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Rajbari Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Rajshahi Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Rangamati Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Rangpur Municipality Market,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Rangpur Sadar,Retail,1 piece,2024-12-15,2024-12-15,1,1
+Eggs (brown),Sapahar,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Satkhira Sadar,Retail,1 piece,2024-09-15,2026-07-15,12,12
+Eggs (brown),Saturia,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Shariatpur Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Sherpur Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Shibgonj Sadar,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Singair,Retail,1 piece,2026-05-15,2026-07-15,3,3
+Eggs (brown),Sirajgonj Sadar,Retail,1 piece,2024-09-15,2025-10-15,11,11
+Eggs (brown),Sunamgonj Sadar,Retail,1 piece,2024-09-15,2026-07-15,12,12
+Eggs (brown),Sylhet Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Tangail sadar Market,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Thakurgaon Sadar,Retail,1 piece,2024-09-15,2026-07-15,21,21
+Eggs (brown),Trisal,Retail,1 piece,2026-05-15,2026-07-15,2,2
+Eggs (white),Bhashan Char,Retail,1 piece,2024-02-15,2026-05-15,19,19
+Eggs (white),Cox`s Bazar Sadar,Retail,1 piece,2024-02-15,2026-05-15,19,19
+Eggs (white),Teknaf Market,Retail,1 piece,2024-02-15,2026-05-15,19,19
+Eggs (white),Ukhia Market,Retail,1 piece,2024-02-15,2026-05-15,19,19
+Firewood,Bhashan Char,Retail,KG,2024-02-15,2026-01-15,6,6
+Firewood,Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,16,16
+Firewood,Teknaf Market,Retail,KG,2024-02-15,2026-05-15,17,17
+Firewood,Ukhia Market,Retail,KG,2024-02-15,2026-05-15,17,17
+"Fish (dry, belt 10-12"")",Bhashan Char,Retail,KG,2024-02-15,2026-05-15,19,19
+"Fish (dry, belt 10-12"")",Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,19,19
+"Fish (dry, belt 10-12"")",Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+"Fish (dry, belt 10-12"")",Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+"Fish (live, pangasius)",Bagerhat Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Bandarban Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Barguna Sadar,Retail,KG,2024-09-15,2026-07-15,13,13
+"Fish (live, pangasius)",Barisal Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Fish (live, pangasius)",Beanibazar,Retail,KG,2026-05-15,2026-05-15,1,1
+"Fish (live, pangasius)",Begumganj,Retail,KG,2026-05-15,2026-07-15,3,3
+"Fish (live, pangasius)",Bhashan Char,Retail,KG,2024-02-15,2026-04-15,17,17
+"Fish (live, pangasius)",Bhola Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Bogra Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Brahmonbaria Sadar,Retail,KG,2024-10-15,2024-11-15,2,2
+"Fish (live, pangasius)",Chandpur Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Chittagong Sadar,Retail,KG,2024-10-15,2026-07-15,11,11
+"Fish (live, pangasius)",Chuadanga Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Comilla Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,19,19
+"Fish (live, pangasius)",Dhaka Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+"Fish (live, pangasius)",Dinajpur Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Faridpur Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Feni Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Fish (live, pangasius)",Gaibandha Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Gazipur Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Godagari Sadar,Retail,KG,2026-05-15,2026-07-15,3,3
+"Fish (live, pangasius)",Gopalgonj Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Habigonj Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Fish (live, pangasius)",Jaipurhat Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Jamalpur Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Jessore Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Jhalokati Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Fish (live, pangasius)",Jhenaidah Sadar,Retail,KG,2024-10-15,2026-07-15,20,20
+"Fish (live, pangasius)",Kaliganj - Jhenaidah,Retail,KG,2026-05-15,2026-07-15,3,3
+"Fish (live, pangasius)",Kaptai,Retail,KG,2026-05-15,2026-07-15,3,3
+"Fish (live, pangasius)",Kawran Bazar Dhaka,Retail,KG,2026-06-15,2026-07-15,2,2
+"Fish (live, pangasius)",Khagrachari Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Khulna Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Kishoregonj Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Kurigram Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Kushtia Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Lalmonirhat Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Lama,Retail,KG,2026-05-15,2026-07-15,3,3
+"Fish (live, pangasius)",Laxmipur Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+"Fish (live, pangasius)",Madaripur Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Magura Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Manikganj Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Maulavibazar Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Meherpur Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Mirpur 1 no.,Retail,KG,2026-07-15,2026-07-15,1,1
+"Fish (live, pangasius)",Mohanganj,Retail,KG,2026-05-15,2026-07-15,3,3
+"Fish (live, pangasius)",Munshiganj Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+"Fish (live, pangasius)",Mymensing Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Naogaon Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Fish (live, pangasius)",Narail Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Narayanganj Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Narsingdi Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Fish (live, pangasius)",Natore Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Nawabgonj Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Netrakona Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Nilphamari Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Noakhali Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+"Fish (live, pangasius)",Pabna Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Fish (live, pangasius)",Panchagarh Sadar,Retail,KG,2024-09-15,2026-07-15,16,16
+"Fish (live, pangasius)",Patiya Sadar,Retail,KG,2024-10-15,2024-11-15,2,2
+"Fish (live, pangasius)",Patuakhali Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Pirojpur Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Raipur,Retail,KG,2026-05-15,2026-07-15,3,3
+"Fish (live, pangasius)",Rajbari Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Rajshahi Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Fish (live, pangasius)",Rangamati Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Rangpur Municipality Market,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Sapahar,Retail,KG,2026-05-15,2026-07-15,3,3
+"Fish (live, pangasius)",Satkhira Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Shariatpur Sadar,Retail,KG,2024-09-15,2026-07-15,14,14
+"Fish (live, pangasius)",Sherpur Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Sirajgonj Sadar,Retail,KG,2024-09-15,2025-10-15,11,11
+"Fish (live, pangasius)",Sunamgonj Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+"Fish (live, pangasius)",Sylhet Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Fish (live, pangasius)",Tangail sadar Market,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+"Fish (live, pangasius)",Thakurgaon Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Fish (live, pangasius)",Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+"Fish (live, tilapia)",Bhashan Char,Retail,KG,2024-10-15,2026-04-15,16,16
+"Fish (live, tilapia)",Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,19,19
+"Fish (live, tilapia)",Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+"Fish (live, tilapia)",Ukhia Market,Retail,KG,2024-02-15,2026-05-15,18,18
+"Fish (tilapia, fresh)",Ukhia Market,Retail,KG,2024-10-15,2024-10-15,1,1
+Fuel (diesel),Bhashan Char,Retail,L,2024-02-15,2026-05-15,16,16
+Fuel (diesel),Cox`s Bazar Sadar,Retail,L,2024-02-15,2026-05-15,18,18
+Fuel (diesel),Teknaf Market,Retail,L,2024-02-15,2026-05-15,19,19
+Fuel (diesel),Ukhia Market,Retail,L,2024-02-15,2026-05-15,19,19
+Fuel (gas),Bhashan Char,Retail,12 KG,2024-02-15,2026-05-15,18,18
+Fuel (gas),Cox`s Bazar Sadar,Retail,12 KG,2024-02-15,2026-05-15,18,18
+Fuel (gas),Teknaf Market,Retail,12 KG,2024-02-15,2026-05-15,19,19
+Fuel (gas),Ukhia Market,Retail,12 KG,2024-02-15,2026-05-15,19,19
+Fuel (kerosene),Bhashan Char,Retail,L,2024-02-15,2026-01-15,9,9
+Fuel (kerosene),Cox`s Bazar Sadar,Retail,L,2024-02-15,2026-05-15,16,16
+Fuel (kerosene),Teknaf Market,Retail,L,2024-02-15,2026-05-15,17,17
+Fuel (kerosene),Ukhia Market,Retail,L,2024-02-15,2026-05-15,17,17
+Fuel (petrol),Bhashan Char,Retail,L,2024-02-15,2026-05-15,15,15
+Fuel (petrol),Cox`s Bazar Sadar,Retail,L,2024-02-15,2026-05-15,18,18
+Fuel (petrol),Teknaf Market,Retail,L,2024-02-15,2026-05-15,18,18
+Fuel (petrol),Ukhia Market,Retail,L,2024-02-15,2026-05-15,19,19
+"Garlic (imported, China)",Amtali,Retail,KG,2026-05-15,2026-07-15,3,3
+"Garlic (imported, China)",Amtoli,Retail,KG,2026-05-15,2026-07-15,3,3
+"Garlic (imported, China)",Bagerhat Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Bajitpur,Retail,KG,2026-05-15,2026-07-15,2,2
+"Garlic (imported, China)",Bandarban Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Barguna Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Barisal Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Beanibazar,Retail,KG,2026-05-15,2026-05-15,1,1
+"Garlic (imported, China)",Begumganj,Retail,KG,2026-05-15,2026-07-15,3,3
+"Garlic (imported, China)",Bhashan Char,Retail,KG,2024-02-15,2026-05-15,19,19
+"Garlic (imported, China)",Bhola Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Bogra Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+"Garlic (imported, China)",Brahmonbaria Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Chagalnaiya,Retail,KG,2026-05-15,2026-07-15,3,3
+"Garlic (imported, China)",Chandina,Retail,KG,2026-05-15,2026-07-15,3,3
+"Garlic (imported, China)",Chandpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Chittagong Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+"Garlic (imported, China)",Chuadanga Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Garlic (imported, China)",Comilla Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-07-15,24,24
+"Garlic (imported, China)",Dhaka Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Dinajpur Sadar,Retail,KG,2024-10-15,2024-11-15,2,2
+"Garlic (imported, China)",Faridpur Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Garlic (imported, China)",Feni Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Gaibandha Sadar,Retail,KG,2024-09-15,2025-03-15,7,7
+"Garlic (imported, China)",Gazipur Sadar,Retail,KG,2024-09-15,2026-07-15,19,19
+"Garlic (imported, China)",Godagari Sadar,Retail,KG,2026-05-15,2026-07-15,3,3
+"Garlic (imported, China)",Golapganj,Retail,KG,2026-05-15,2026-07-15,3,3
+"Garlic (imported, China)",Gopalgonj Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+"Garlic (imported, China)",Habigonj Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Jaipurhat Sadar,Retail,KG,2024-09-15,2026-03-15,9,9
+"Garlic (imported, China)",Jamalpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Jessore Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Jhalokati Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Jhenaidah Sadar,Retail,KG,2024-09-15,2025-03-15,7,7
+"Garlic (imported, China)",Kangshanagar,Retail,KG,2026-05-15,2026-07-15,3,3
+"Garlic (imported, China)",Kaptai,Retail,KG,2026-05-15,2026-07-15,3,3
+"Garlic (imported, China)",Kaukhali,Retail,KG,2026-05-15,2026-07-15,3,3
+"Garlic (imported, China)",Kawran Bazar Dhaka,Retail,KG,2026-05-15,2026-07-15,3,3
+"Garlic (imported, China)",Khagrachari Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Khulna Sadar,Retail,KG,2024-09-15,2026-07-15,6,6
+"Garlic (imported, China)",Kishoregonj Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Kurigram Sadar,Retail,KG,2024-09-15,2025-08-15,12,12
+"Garlic (imported, China)",Kushtia Sadar,Retail,KG,2024-09-15,2025-03-15,7,7
+"Garlic (imported, China)",Lalmonirhat Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Garlic (imported, China)",Lama,Retail,KG,2026-05-15,2026-07-15,3,3
+"Garlic (imported, China)",Laxmipur Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+"Garlic (imported, China)",Madaripur Sadar,Retail,KG,2024-09-15,2025-03-15,7,7
+"Garlic (imported, China)",Magura Sadar,Retail,KG,2024-09-15,2025-08-15,12,12
+"Garlic (imported, China)",Manikganj Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Maulavibazar Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Mechua,Retail,KG,2026-05-15,2026-07-15,3,3
+"Garlic (imported, China)",Meherpur Sadar,Retail,KG,2024-11-15,2025-05-15,7,7
+"Garlic (imported, China)",Mirpur 1 no.,Retail,KG,2026-05-15,2026-07-15,3,3
+"Garlic (imported, China)",Mithapukur,Retail,KG,2026-07-15,2026-07-15,1,1
+"Garlic (imported, China)",Munshiganj Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+"Garlic (imported, China)",Mymensing Sadar,Retail,KG,2024-09-15,2025-06-15,10,10
+"Garlic (imported, China)",Naogaon Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+"Garlic (imported, China)",Narail Sadar,Retail,KG,2024-09-15,2025-02-15,6,6
+"Garlic (imported, China)",Narayanganj Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Narsingdi Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Nawabgonj Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+"Garlic (imported, China)",Netrakona Sadar,Retail,KG,2024-09-15,2025-06-15,10,10
+"Garlic (imported, China)",Noakhali Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+"Garlic (imported, China)",Panchagarh Sadar,Retail,KG,2024-10-15,2024-11-15,2,2
+"Garlic (imported, China)",Patiya Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Garlic (imported, China)",Patuakhali Sadar,Retail,KG,2024-09-15,2025-05-15,9,9
+"Garlic (imported, China)",Pirojpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Raipur,Retail,KG,2026-05-15,2026-07-15,3,3
+"Garlic (imported, China)",Rajshahi Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Rangamati Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Rangpur Municipality Market,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Satkhira Sadar,Retail,KG,2024-09-15,2025-03-15,7,7
+"Garlic (imported, China)",Saturia,Retail,KG,2026-05-15,2026-07-15,3,3
+"Garlic (imported, China)",Shariatpur Sadar,Retail,KG,2024-09-15,2025-03-15,7,7
+"Garlic (imported, China)",Sherpur Sadar,Retail,KG,2024-09-15,2025-03-15,7,7
+"Garlic (imported, China)",Shibgonj Sadar,Retail,KG,2026-05-15,2026-07-15,3,3
+"Garlic (imported, China)",Singair,Retail,KG,2026-05-15,2026-07-15,3,3
+"Garlic (imported, China)",Sirajgonj Sadar,Retail,KG,2024-09-15,2025-10-15,11,11
+"Garlic (imported, China)",Sunamgonj Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+"Garlic (imported, China)",Sylhet Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Tangail sadar Market,Retail,KG,2024-09-15,2026-07-15,21,21
+"Garlic (imported, China)",Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+"Garlic (imported, China)",Trisal,Retail,KG,2026-07-15,2026-07-15,1,1
+"Garlic (imported, China)",Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Ginger (imported),Bhashan Char,Retail,KG,2024-02-15,2026-05-15,16,16
+Ginger (imported),Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-04-15,16,16
+Ginger (imported),Teknaf Market,Retail,KG,2024-02-15,2026-04-15,13,13
+Ginger (imported),Ukhia Market,Retail,KG,2024-02-15,2026-05-15,18,18
+Ginger (local),Bhashan Char,Retail,KG,2024-11-15,2024-11-15,1,1
+Ginger (local),Teknaf Market,Retail,KG,2024-11-15,2024-11-15,1,1
+Ginger (local),Ukhia Market,Retail,KG,2024-11-15,2024-11-15,1,1
+Gourd (bitter),Bhashan Char,Retail,KG,2024-02-15,2026-05-15,18,18
+Gourd (bitter),Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,19,19
+Gourd (bitter),Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Gourd (bitter),Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Gourd (bottle),Bagerhat Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Bandarban Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Gourd (bottle),Barguna Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Barisal Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Gourd (bottle),Bhashan Char,Retail,KG,2024-02-15,2026-04-15,16,16
+Gourd (bottle),Bhola Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Gourd (bottle),Bogra Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Brahmonbaria Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Chandpur Sadar,Retail,KG,2024-12-15,2024-12-15,1,1
+Gourd (bottle),Chittagong Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Gourd (bottle),Chuadanga Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Gourd (bottle),Comilla Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Gourd (bottle),Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,20,20
+Gourd (bottle),Dhaka Sadar,Retail,KG,2024-09-15,2025-10-15,14,14
+Gourd (bottle),Dinajpur Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Faridpur Sadar,Retail,KG,2024-09-15,2025-05-15,9,9
+Gourd (bottle),Feni Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Gaibandha Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Gazipur Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Gopalgonj Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Gourd (bottle),Habigonj Sadar,Retail,KG,2024-10-15,2024-12-15,3,3
+Gourd (bottle),Jaipurhat Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Jamalpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Gourd (bottle),Jessore Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Jhalokati Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Gourd (bottle),Jhenaidah Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Khagrachari Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Khulna Sadar,Retail,KG,2024-09-15,2026-07-15,7,7
+Gourd (bottle),Kishoregonj Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Kurigram Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Gourd (bottle),Kushtia Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Gourd (bottle),Lalmonirhat Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Gourd (bottle),Madaripur Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Magura Sadar,Retail,KG,2024-09-15,2024-12-15,3,3
+Gourd (bottle),Manikganj Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Maulavibazar Sadar,Retail,KG,2024-09-15,2025-04-15,8,8
+Gourd (bottle),Meherpur Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Gourd (bottle),Munshiganj Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Gourd (bottle),Mymensing Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Naogaon Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Gourd (bottle),Narail Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Gourd (bottle),Narayanganj Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Narsingdi Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Natore Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Gourd (bottle),Nawabgonj Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Gourd (bottle),Netrakona Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Gourd (bottle),Nilphamari Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Gourd (bottle),Noakhali Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Gourd (bottle),Pabna Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Panchagarh Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Patiya Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Gourd (bottle),Patuakhali Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Gourd (bottle),Pirojpur Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Rajbari Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Gourd (bottle),Rajshahi Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Rangamati Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Rangpur Municipality Market,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Rangpur Sadar,Retail,KG,2024-12-15,2024-12-15,1,1
+Gourd (bottle),Satkhira Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Gourd (bottle),Shariatpur Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Gourd (bottle),Sherpur Sadar,Retail,KG,2024-09-15,2024-12-15,3,3
+Gourd (bottle),Sirajgonj Sadar,Retail,KG,2024-09-15,2025-10-15,11,11
+Gourd (bottle),Sunamgonj Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Gourd (bottle),Sylhet Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Gourd (bottle),Tangail sadar Market,Retail,KG,2024-10-15,2024-12-15,3,3
+Gourd (bottle),Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Gourd (bottle),Thakurgaon Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Gourd (bottle),Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Handwash soap,Bhashan Char,Retail,1 piece,2024-02-15,2026-05-15,18,18
+Handwash soap,Cox`s Bazar Sadar,Retail,1 piece,2024-02-15,2026-05-15,18,18
+Handwash soap,Teknaf Market,Retail,1 piece,2024-02-15,2026-05-15,19,19
+Handwash soap,Ukhia Market,Retail,1 piece,2024-02-15,2026-05-15,19,19
+Hyacinth (sim),Bhashan Char,Retail,KG,2024-02-15,2026-05-15,15,15
+Hyacinth (sim),Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,19,19
+Hyacinth (sim),Teknaf Market,Retail,KG,2024-02-15,2026-05-15,18,18
+Hyacinth (sim),Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Laundry detergent,Bhashan Char,Retail,1 piece,2024-02-15,2026-05-15,18,18
+Laundry detergent,Cox`s Bazar Sadar,Retail,1 piece,2024-02-15,2026-05-15,18,18
+Laundry detergent,Teknaf Market,Retail,1 piece,2024-02-15,2026-05-15,19,19
+Laundry detergent,Ukhia Market,Retail,1 piece,2024-02-15,2026-05-15,19,19
+Lemon (medium size),Bhashan Char,Retail,1 piece,2024-02-15,2026-05-15,18,18
+Lemon (medium size),Cox`s Bazar Sadar,Retail,1 piece,2024-02-15,2026-05-15,19,19
+Lemon (medium size),Teknaf Market,Retail,1 piece,2024-02-15,2026-05-15,19,19
+Lemon (medium size),Ukhia Market,Retail,1 piece,2024-02-15,2026-05-15,19,19
+Lentils (masur),Amtali,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Amtoli,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Bagerhat Sadar,Retail,KG,2020-07-15,2026-07-15,54,54
+Lentils (masur),Bajitpur,Retail,KG,2026-05-15,2026-07-15,2,2
+Lentils (masur),Bandarban Sadar,Retail,KG,2020-07-15,2026-07-15,66,66
+Lentils (masur),Barguna Sadar,Retail,KG,2020-07-15,2026-07-15,68,68
+Lentils (masur),Barisal Division,Retail,KG,2006-08-15,2020-07-15,151,151
+Lentils (masur),Barisal Sadar,Retail,KG,2020-07-15,2026-07-15,70,70
+Lentils (masur),Beanibazar,Retail,KG,2026-05-15,2026-05-15,1,1
+Lentils (masur),Begumganj,Retail,KG,2026-05-15,2026-07-15,2,2
+Lentils (masur),Bhashan Char,Retail,KG,2024-02-15,2026-05-15,19,19
+Lentils (masur),Bhola Sadar,Retail,KG,2020-07-15,2026-07-15,70,70
+Lentils (masur),Bogra Sadar,Retail,KG,2020-07-15,2024-11-15,30,30
+Lentils (masur),Brahmonbaria Sadar,Retail,KG,2020-07-15,2026-07-15,63,63
+Lentils (masur),Chagalnaiya,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Chandina,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Chandpur Sadar,Retail,KG,2023-08-15,2026-07-15,33,33
+Lentils (masur),Chittagong Division,Retail,KG,2005-10-15,2020-06-15,175,175
+Lentils (masur),Chittagong Sadar,Retail,KG,2023-08-15,2026-07-15,24,24
+Lentils (masur),Chuadanga Sadar,Retail,KG,2023-08-15,2024-11-15,16,16
+Lentils (masur),Comilla Sadar,Retail,KG,2020-07-15,2026-07-15,70,70
+Lentils (masur),Cox`s Bazar Sadar,Retail,KG,2020-07-15,2026-07-15,72,72
+Lentils (masur),Dhaka Division,Retail,KG,2005-10-15,2020-06-15,173,173
+Lentils (masur),Dhaka Sadar,Retail,KG,2023-08-15,2026-07-15,33,33
+Lentils (masur),Dhanbari,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Dinajpur Sadar,Retail,KG,2020-07-15,2026-07-15,62,62
+Lentils (masur),Faridpur Sadar,Retail,KG,2023-08-15,2024-11-15,15,15
+Lentils (masur),Feni Sadar,Retail,KG,2020-07-15,2026-07-15,70,70
+Lentils (masur),Gaibandha Sadar,Retail,KG,2023-08-15,2026-07-15,21,21
+Lentils (masur),Gazipur Sadar,Retail,KG,2020-07-15,2025-10-15,63,63
+Lentils (masur),Gobindaganj,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Godagari Sadar,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Golapganj,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Gopalgonj Sadar,Retail,KG,2023-08-15,2026-07-15,33,33
+Lentils (masur),Habigonj Sadar,Retail,KG,2023-08-15,2024-11-15,15,15
+Lentils (masur),Jaipurhat Sadar,Retail,KG,2020-07-15,2026-07-15,70,70
+Lentils (masur),Jamalpur Sadar,Retail,KG,2020-07-15,2026-07-15,70,70
+Lentils (masur),Jessore Sadar,Retail,KG,2020-07-15,2026-07-15,71,71
+Lentils (masur),Jhalokati Sadar,Retail,KG,2020-07-15,2026-07-15,70,70
+Lentils (masur),Jhenaidah Sadar,Retail,KG,2023-08-15,2026-07-15,33,33
+Lentils (masur),Kalaroa,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Kaliganj - Jhenaidah,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Kangshanagar,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Kaptai,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Kaukhali,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Kawran Bazar Dhaka,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Khagrachari Sadar,Retail,KG,2023-08-15,2026-07-15,33,33
+Lentils (masur),Khulna Division,Retail,KG,2006-01-15,2020-07-15,173,173
+Lentils (masur),Khulna Sadar,Retail,KG,2020-07-15,2026-07-15,56,56
+Lentils (masur),Kishoregonj Sadar,Retail,KG,2021-06-15,2026-07-15,60,60
+Lentils (masur),Kurigram Sadar,Retail,KG,2021-09-15,2026-07-15,56,56
+Lentils (masur),Kushtia Sadar,Retail,KG,2023-08-15,2024-11-15,15,15
+Lentils (masur),Lalmonirhat Sadar,Retail,KG,2020-07-15,2026-07-15,45,45
+Lentils (masur),Lama,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Laxmipur Sadar,Retail,KG,2023-08-15,2026-07-15,24,24
+Lentils (masur),Madaripur Sadar,Retail,KG,2023-08-15,2026-07-15,25,25
+Lentils (masur),Magura Sadar,Retail,KG,2022-01-15,2024-11-15,35,35
+Lentils (masur),Manikganj Sadar,Retail,KG,2020-07-15,2026-07-15,69,69
+Lentils (masur),Maulavibazar Sadar,Retail,KG,2020-07-15,2026-07-15,70,70
+Lentils (masur),Mechua,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Meherpur Sadar,Retail,KG,2023-08-15,2024-11-15,16,16
+Lentils (masur),Mirpur 1 no.,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Mithapukur,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Mohanganj,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Munshiganj Sadar,Retail,KG,2020-07-15,2026-07-15,61,61
+Lentils (masur),Mymensing Sadar,Retail,KG,2020-06-15,2025-06-15,38,38
+Lentils (masur),Nageshwari,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Naogaon Sadar,Retail,KG,2023-08-15,2026-07-15,34,34
+Lentils (masur),Narail Sadar,Retail,KG,2021-01-15,2026-07-15,34,34
+Lentils (masur),Narayanganj Sadar,Retail,KG,2023-08-15,2026-07-15,20,20
+Lentils (masur),Narsingdi Sadar,Retail,KG,2020-07-15,2026-07-15,37,37
+Lentils (masur),Natore Sadar,Retail,KG,2023-08-15,2024-11-15,16,16
+Lentils (masur),Nawabgonj Sadar,Retail,KG,2020-07-15,2024-11-15,44,44
+Lentils (masur),Netrakona Sadar,Retail,KG,2021-07-15,2026-07-15,44,44
+Lentils (masur),Nilphamari Sadar,Retail,KG,2023-08-15,2026-07-15,24,24
+Lentils (masur),Noakhali Sadar,Retail,KG,2020-07-15,2024-11-15,53,53
+Lentils (masur),Pabna Sadar,Retail,KG,2023-08-15,2024-11-15,15,15
+Lentils (masur),Panchagarh Sadar,Retail,KG,2023-08-15,2024-11-15,15,15
+Lentils (masur),Parbatipur,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Patiya Sadar,Retail,KG,2023-08-15,2024-11-15,15,15
+Lentils (masur),Patuakhali Sadar,Retail,KG,2020-07-15,2025-05-15,59,59
+Lentils (masur),Pirojpur Sadar,Retail,KG,2020-07-15,2026-07-15,37,37
+Lentils (masur),Raipur,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Rajbari Sadar,Retail,KG,2023-08-15,2026-07-15,33,33
+Lentils (masur),Rajshahi Division,Retail,KG,2006-05-15,2020-07-15,168,168
+Lentils (masur),Rajshahi Sadar,Retail,KG,2020-07-15,2026-07-15,70,70
+Lentils (masur),Rangamati Sadar,Retail,KG,2020-07-15,2026-07-15,70,70
+Lentils (masur),Rangpur Municipality Market,Retail,KG,2020-08-15,2026-07-15,49,49
+Lentils (masur),Rangpur Sadar,Retail,KG,2020-05-15,2024-12-15,6,6
+Lentils (masur),Sapahar,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Satkhira Sadar,Retail,KG,2020-07-15,2026-07-15,61,61
+Lentils (masur),Saturia,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Shariatpur Sadar,Retail,KG,2020-07-15,2024-11-15,45,45
+Lentils (masur),Sherpur Sadar,Retail,KG,2022-02-15,2026-07-15,51,51
+Lentils (masur),Singair,Retail,KG,2026-05-15,2026-07-15,3,3
+Lentils (masur),Sirajgonj Sadar,Retail,KG,2020-07-15,2025-10-15,60,60
+Lentils (masur),Sunamgonj Sadar,Retail,KG,2020-09-15,2026-07-15,56,56
+Lentils (masur),Sylhet Division,Retail,KG,2007-02-15,2020-07-15,154,154
+Lentils (masur),Sylhet Sadar,Retail,KG,2020-07-15,2026-07-15,70,70
+Lentils (masur),Tangail sadar Market,Retail,KG,2023-08-15,2026-07-15,34,34
+Lentils (masur),Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Lentils (masur),Thakurgaon Sadar,Retail,KG,2020-07-15,2026-07-15,68,68
+Lentils (masur),Trisal,Retail,KG,2026-05-15,2026-07-15,2,2
+Lentils (masur),Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Meat (beef),Bhashan Char,Retail,KG,2024-02-15,2026-04-15,13,13
+Meat (beef),Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,19,19
+Meat (beef),Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Meat (beef),Ukhia Market,Retail,KG,2024-02-15,2026-05-15,18,18
+"Meat (chicken, broiler)",Bagerhat Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Bandarban Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Barguna Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Barisal Sadar,Retail,KG,2024-12-15,2026-07-15,18,18
+"Meat (chicken, broiler)",Bhashan Char,Retail,KG,2024-02-15,2026-05-15,19,19
+"Meat (chicken, broiler)",Bhola Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Meat (chicken, broiler)",Bogra Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Brahmonbaria Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Meat (chicken, broiler)",Chandpur Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Chittagong Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Chuadanga Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Comilla Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,20,20
+"Meat (chicken, broiler)",Dhaka Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+"Meat (chicken, broiler)",Dinajpur Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+"Meat (chicken, broiler)",Faridpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Meat (chicken, broiler)",Gaibandha Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Gazipur Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Gopalgonj Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Meat (chicken, broiler)",Habigonj Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Jaipurhat Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Meat (chicken, broiler)",Jamalpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Meat (chicken, broiler)",Jessore Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Jhalokati Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Meat (chicken, broiler)",Jhenaidah Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Khagrachari Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Khulna Sadar,Retail,KG,2024-09-15,2026-07-15,6,6
+"Meat (chicken, broiler)",Kishoregonj Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Meat (chicken, broiler)",Kurigram Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Meat (chicken, broiler)",Kushtia Sadar,Retail,KG,2024-09-15,2026-06-15,20,20
+"Meat (chicken, broiler)",Lalmonirhat Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Meat (chicken, broiler)",Laxmipur Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+"Meat (chicken, broiler)",Madaripur Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Madhupur,Retail,KG,2026-05-15,2026-07-15,3,3
+"Meat (chicken, broiler)",Magura Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Manikganj Sadar,Retail,KG,2024-09-15,2025-09-15,13,13
+"Meat (chicken, broiler)",Maulavibazar Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Meat (chicken, broiler)",Mechua,Retail,KG,2026-05-15,2026-07-15,3,3
+"Meat (chicken, broiler)",Meherpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Meat (chicken, broiler)",Munshiganj Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+"Meat (chicken, broiler)",Mymensing Sadar,Retail,KG,2024-09-15,2025-06-15,10,10
+"Meat (chicken, broiler)",Naogaon Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Meat (chicken, broiler)",Narail Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Meat (chicken, broiler)",Narayanganj Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Narsingdi Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Natore Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Meat (chicken, broiler)",Nawabgonj Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Netrakona Sadar,Retail,KG,2024-09-15,2026-07-15,13,13
+"Meat (chicken, broiler)",Noakhali Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Pabna Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+"Meat (chicken, broiler)",Panchagarh Sadar,Retail,KG,2024-09-15,2025-04-15,8,8
+"Meat (chicken, broiler)",Patiya Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Patuakhali Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Pirojpur Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Rajbari Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Meat (chicken, broiler)",Rajshahi Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Rangamati Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Rangpur Municipality Market,Retail,KG,2024-09-15,2026-07-15,21,21
+"Meat (chicken, broiler)",Satkhira Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+"Meat (chicken, broiler)",Shariatpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+"Meat (chicken, broiler)",Sherpur Sadar,Retail,KG,2024-09-15,2025-06-15,10,10
+"Meat (chicken, broiler)",Sirajgonj Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Sunamgonj Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+"Meat (chicken, broiler)",Sylhet Sadar,Retail,KG,2024-09-15,2026-02-15,16,16
+"Meat (chicken, broiler)",Tangail sadar Market,Retail,KG,2024-09-15,2026-07-15,21,21
+"Meat (chicken, broiler)",Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+"Meat (chicken, broiler)",Thakurgaon Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Meat (chicken, broiler)",Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+"Meat (chicken, sonali)",Bhashan Char,Retail,KG,2024-02-15,2026-02-15,16,16
+"Meat (chicken, sonali)",Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,17,17
+"Meat (chicken, sonali)",Teknaf Market,Retail,KG,2024-02-15,2026-05-15,17,17
+"Meat (chicken, sonali)",Ukhia Market,Retail,KG,2024-02-15,2026-05-15,17,17
+Milk,Bhashan Char,Retail,L,2024-02-15,2026-05-15,17,17
+Milk,Cox`s Bazar Sadar,Retail,L,2024-02-15,2026-05-15,19,19
+Milk,Teknaf Market,Retail,L,2024-02-15,2026-05-15,19,19
+Milk,Ukhia Market,Retail,L,2024-02-15,2026-05-15,19,19
+"Milk (cow, pasteurized)",Dhaka Division,Retail,L,2026-07-15,2026-07-15,1,1
+Milk (powder),Bhashan Char,Retail,500 G,2024-02-15,2026-05-15,18,18
+Milk (powder),Cox`s Bazar Sadar,Retail,500 G,2024-02-15,2026-05-15,18,18
+Milk (powder),Teknaf Market,Retail,500 G,2024-02-15,2026-05-15,19,19
+Milk (powder),Ukhia Market,Retail,500 G,2024-02-15,2026-05-15,19,19
+Oil (mustard),Bhashan Char,Retail,L,2024-11-15,2026-03-15,5,5
+Oil (mustard),Cox`s Bazar Sadar,Retail,L,2024-02-15,2026-05-15,19,19
+Oil (mustard),Teknaf Market,Retail,L,2024-02-15,2026-05-15,19,19
+Oil (mustard),Ukhia Market,Retail,L,2024-02-15,2026-05-15,19,19
+Oil (palm),Amtali,Retail,L,2026-05-15,2026-07-15,3,3
+Oil (palm),Bagerhat Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Bajitpur,Retail,L,2026-05-15,2026-07-15,2,2
+Oil (palm),Bandarban Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Barguna Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Barisal Division,Retail,L,2006-09-15,2020-07-15,126,126
+Oil (palm),Barisal Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Beanibazar,Retail,L,2026-05-15,2026-05-15,1,1
+Oil (palm),Begumganj,Retail,L,2026-05-15,2026-07-15,3,3
+Oil (palm),Bhashan Char,Retail,L,2024-11-15,2026-03-15,7,7
+Oil (palm),Bhola Sadar,Retail,L,2023-08-15,2024-11-15,16,16
+Oil (palm),Bogra Sadar,Retail,L,2021-08-15,2026-07-15,58,58
+Oil (palm),Brahmonbaria Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Chandpur Sadar,Retail,L,2023-08-15,2024-11-15,16,16
+Oil (palm),Chittagong Division,Retail,L,2005-10-15,2020-07-15,163,163
+Oil (palm),Chittagong Sadar,Retail,L,2020-07-15,2026-07-15,62,62
+Oil (palm),Chuadanga Sadar,Retail,L,2020-11-15,2026-07-15,58,58
+Oil (palm),Comilla Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Cox`s Bazar Sadar,Retail,L,2020-07-15,2026-07-15,73,73
+Oil (palm),Dhaka Division,Retail,L,2006-04-15,2020-06-15,168,168
+Oil (palm),Dhaka Sadar,Retail,L,2022-07-15,2026-07-15,43,43
+Oil (palm),Dinajpur Sadar,Retail,L,2020-07-15,2026-07-15,62,62
+Oil (palm),Dumuria,Retail,L,2026-05-15,2026-06-15,2,2
+Oil (palm),Faridpur Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Feni Sadar,Retail,L,2022-05-15,2026-07-15,50,50
+Oil (palm),Gaibandha Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Gazipur Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Gobindaganj,Retail,L,2026-05-15,2026-07-15,3,3
+Oil (palm),Godagari Sadar,Retail,L,2026-05-15,2026-07-15,3,3
+Oil (palm),Golapganj,Retail,L,2026-05-15,2026-07-15,3,3
+Oil (palm),Gopalgonj Sadar,Retail,L,2021-03-15,2026-07-15,64,64
+Oil (palm),Habigonj Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Jaipurhat Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Jamalpur Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Jessore Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Jhalokati Sadar,Retail,L,2020-07-15,2026-07-15,43,43
+Oil (palm),Jhenaidah Sadar,Retail,L,2023-08-15,2026-07-15,23,23
+Oil (palm),Kaliganj - Jhenaidah,Retail,L,2026-05-15,2026-07-15,3,3
+Oil (palm),Kawran Bazar Dhaka,Retail,L,2026-05-15,2026-07-15,3,3
+Oil (palm),Khagrachari Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Khulna Division,Retail,L,2005-10-15,2020-07-15,163,163
+Oil (palm),Khulna Sadar,Retail,L,2020-07-15,2026-07-15,57,57
+Oil (palm),Kishoregonj Sadar,Retail,L,2020-07-15,2026-07-15,54,54
+Oil (palm),Kurigram Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Kushtia Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Lalmonirhat Sadar,Retail,L,2020-07-15,2024-11-15,52,52
+Oil (palm),Lama,Retail,L,2026-05-15,2026-07-15,3,3
+Oil (palm),Laxmipur Sadar,Retail,L,2020-07-15,2026-07-15,62,62
+Oil (palm),Madaripur Sadar,Retail,L,2020-07-15,2024-11-15,32,32
+Oil (palm),Magura Sadar,Retail,L,2022-02-15,2026-07-15,53,53
+Oil (palm),Maulavibazar Sadar,Retail,L,2022-01-15,2026-07-15,54,54
+Oil (palm),Mechua,Retail,L,2026-05-15,2026-07-15,3,3
+Oil (palm),Meherpur Sadar,Retail,L,2024-05-15,2026-07-15,11,11
+Oil (palm),Mirpur 1 no.,Retail,L,2026-05-15,2026-07-15,3,3
+Oil (palm),Mithapukur,Retail,L,2026-05-15,2026-07-15,3,3
+Oil (palm),Mohanganj,Retail,L,2026-05-15,2026-07-15,3,3
+Oil (palm),Munshiganj Sadar,Retail,L,2020-07-15,2024-04-15,11,11
+Oil (palm),Mymensing Sadar,Retail,L,2020-06-15,2025-06-15,59,59
+Oil (palm),Nageshwari,Retail,L,2026-05-15,2026-07-15,3,3
+Oil (palm),Naogaon Sadar,Retail,L,2020-07-15,2024-11-15,53,53
+Oil (palm),Narail Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Narayanganj Sadar,Retail,L,2023-10-15,2024-11-15,14,14
+Oil (palm),Narsingdi Sadar,Retail,L,2023-08-15,2026-07-15,35,35
+Oil (palm),Natore Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Nawabgonj Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Netrakona Sadar,Retail,L,2020-07-15,2026-07-15,62,62
+Oil (palm),Nilphamari Sadar,Retail,L,2020-07-15,2024-11-15,53,53
+Oil (palm),Noakhali Sadar,Retail,L,2022-04-15,2026-07-15,41,41
+Oil (palm),Pabna Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Panchagarh Sadar,Retail,L,2020-07-15,2026-07-15,67,67
+Oil (palm),Parbatipur,Retail,L,2026-05-15,2026-07-15,3,3
+Oil (palm),Patiya Sadar,Retail,L,2020-07-15,2024-11-15,27,27
+Oil (palm),Patuakhali Sadar,Retail,L,2020-07-15,2024-11-15,39,39
+Oil (palm),Pirojpur Sadar,Retail,L,2020-09-15,2026-07-15,70,70
+Oil (palm),Raipur,Retail,L,2026-05-15,2026-07-15,3,3
+Oil (palm),Rajbari Sadar,Retail,L,2023-09-15,2024-11-15,15,15
+Oil (palm),Rajshahi Division,Retail,L,2006-07-15,2020-07-15,166,166
+Oil (palm),Rajshahi Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Rangamati Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Rangpur Municipality Market,Retail,L,2020-08-15,2026-07-15,70,70
+Oil (palm),Rangpur Sadar,Retail,L,2020-05-15,2020-11-15,5,5
+Oil (palm),Satkhira Sadar,Retail,L,2020-07-15,2026-07-15,62,62
+Oil (palm),Shariatpur Sadar,Retail,L,2020-07-15,2024-11-15,32,32
+Oil (palm),Sherpur Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Shibgonj Sadar,Retail,L,2026-05-15,2026-07-15,3,3
+Oil (palm),Sirajgonj Sadar,Retail,L,2020-07-15,2026-01-15,62,62
+Oil (palm),Sunamgonj Sadar,Retail,L,2020-07-15,2026-07-15,62,62
+Oil (palm),Sylhet Division,Retail,L,2007-04-15,2020-07-15,139,139
+Oil (palm),Sylhet Sadar,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Tangail sadar Market,Retail,L,2020-07-15,2026-07-15,72,72
+Oil (palm),Teknaf Market,Retail,L,2024-02-15,2026-05-15,19,19
+Oil (palm),Thakurgaon Sadar,Retail,L,2020-07-15,2026-07-15,71,71
+Oil (palm),Trisal,Retail,L,2026-05-15,2026-07-15,2,2
+Oil (palm),Ukhia Market,Retail,L,2024-02-15,2026-05-15,19,19
+"Oil (soybean, fortified)",Amtali,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Amtoli,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Bagerhat Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Bajitpur,Retail,L,2026-05-15,2026-07-15,2,2
+"Oil (soybean, fortified)",Bandarban Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Baneshor,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Barguna Sadar,Retail,L,2024-10-15,2026-07-15,20,20
+"Oil (soybean, fortified)",Barisal Sadar,Retail,L,2024-10-15,2026-07-15,20,20
+"Oil (soybean, fortified)",Beanibazar,Retail,L,2026-05-15,2026-05-15,1,1
+"Oil (soybean, fortified)",Begumganj,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Bhashan Char,Retail,L,2024-02-15,2026-05-15,19,19
+"Oil (soybean, fortified)",Bhola Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Bogra Sadar,Retail,L,2024-09-15,2026-07-15,20,20
+"Oil (soybean, fortified)",Brahmonbaria Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Chandina,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Chandpur Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Chittagong Sadar,Retail,L,2024-09-15,2026-07-15,12,12
+"Oil (soybean, fortified)",Chuadanga Sadar,Retail,L,2024-09-15,2026-07-15,12,12
+"Oil (soybean, fortified)",Comilla Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Cox`s Bazar Sadar,Retail,L,2024-02-15,2026-07-15,24,24
+"Oil (soybean, fortified)",Dhaka Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Dhanbari,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Dinajpur Sadar,Retail,L,2024-09-15,2026-07-15,12,12
+"Oil (soybean, fortified)",Dumuria,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Faridpur Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Feni Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Gaibandha Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Gazipur Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Gobindaganj,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Godagari Sadar,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Gopalgonj Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Habigonj Sadar,Retail,L,2024-09-15,2026-07-15,9,9
+"Oil (soybean, fortified)",Jaipurhat Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Jamalpur Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Jessore Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Jhalokati Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Jhenaidah Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Kaliganj - Jhenaidah,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Kawran Bazar Dhaka,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Khagrachari Sadar,Retail,L,2024-09-15,2024-11-15,3,3
+"Oil (soybean, fortified)",Khulna Sadar,Retail,L,2024-09-15,2026-07-15,7,7
+"Oil (soybean, fortified)",Kishoregonj Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Kurigram Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Kushtia Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Lalmonirhat Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Laxmipur Sadar,Retail,L,2024-09-15,2026-07-15,12,12
+"Oil (soybean, fortified)",Madaripur Sadar,Retail,L,2024-09-15,2026-07-15,12,12
+"Oil (soybean, fortified)",Magura Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Manikganj Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Maulavibazar Sadar,Retail,L,2024-09-15,2025-01-15,5,5
+"Oil (soybean, fortified)",Mechua,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Meherpur Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Mirpur 1 no.,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Mithapukur,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Mohanganj,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Munshiganj Sadar,Retail,L,2024-09-15,2026-07-15,12,12
+"Oil (soybean, fortified)",Mymensing Sadar,Retail,L,2024-09-15,2025-06-15,10,10
+"Oil (soybean, fortified)",Nageshwari,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Naogaon Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Narail Sadar,Retail,L,2024-09-15,2026-07-15,20,20
+"Oil (soybean, fortified)",Narayanganj Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Narsingdi Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Natore Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Nawabgonj Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Netrakona Sadar,Retail,L,2024-09-15,2026-07-15,13,13
+"Oil (soybean, fortified)",Nilphamari Sadar,Retail,L,2024-09-15,2024-11-15,3,3
+"Oil (soybean, fortified)",Noakhali Sadar,Retail,L,2024-09-15,2026-07-15,12,12
+"Oil (soybean, fortified)",Pabna Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Panchagarh Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Parbatipur,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Patiya Sadar,Retail,L,2024-09-15,2024-11-15,3,3
+"Oil (soybean, fortified)",Patuakhali Sadar,Retail,L,2024-09-15,2025-05-15,9,9
+"Oil (soybean, fortified)",Pirojpur Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Raipur,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Rajbari Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Rajshahi Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Rangamati Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Rangpur Municipality Market,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Sapahar,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Satkhira Sadar,Retail,L,2024-09-15,2026-07-15,12,12
+"Oil (soybean, fortified)",Saturia,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Shariatpur Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Sherpur Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Shibgonj Sadar,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Singair,Retail,L,2026-05-15,2026-07-15,3,3
+"Oil (soybean, fortified)",Sirajgonj Sadar,Retail,L,2024-09-15,2025-10-15,11,11
+"Oil (soybean, fortified)",Sunamgonj Sadar,Retail,L,2024-09-15,2026-07-15,12,12
+"Oil (soybean, fortified)",Sylhet Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Tangail sadar Market,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Teknaf Market,Retail,L,2024-02-15,2026-05-15,19,19
+"Oil (soybean, fortified)",Thakurgaon Sadar,Retail,L,2024-09-15,2026-07-15,21,21
+"Oil (soybean, fortified)",Trisal,Retail,L,2026-05-15,2026-07-15,2,2
+"Oil (soybean, fortified)",Ukhia Market,Retail,L,2024-02-15,2026-05-15,19,19
+"Onions (imported, China)",Bagerhat Sadar,Retail,KG,2024-09-15,2025-12-15,7,7
+"Onions (imported, China)",Bandarban Sadar,Retail,KG,2024-09-15,2026-02-15,15,15
+"Onions (imported, China)",Barguna Sadar,Retail,KG,2024-09-15,2026-01-15,13,13
+"Onions (imported, China)",Barisal Sadar,Retail,KG,2024-09-15,2024-12-15,3,3
+"Onions (imported, China)",Bhola Sadar,Retail,KG,2024-09-15,2026-02-15,10,10
+"Onions (imported, China)",Bogra Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+"Onions (imported, China)",Brahmonbaria Sadar,Retail,KG,2024-09-15,2026-01-15,9,9
+"Onions (imported, China)",Chandpur Sadar,Retail,KG,2024-09-15,2026-02-15,10,10
+"Onions (imported, China)",Chittagong Sadar,Retail,KG,2024-09-15,2025-05-15,9,9
+"Onions (imported, China)",Chuadanga Sadar,Retail,KG,2024-09-15,2025-01-15,5,5
+"Onions (imported, China)",Comilla Sadar,Retail,KG,2024-11-15,2026-03-15,16,16
+"Onions (imported, China)",Cox`s Bazar Sadar,Retail,KG,2024-09-15,2026-02-15,17,17
+"Onions (imported, China)",Dhaka Sadar,Retail,KG,2024-10-15,2026-01-15,5,5
+"Onions (imported, China)",Dinajpur Sadar,Retail,KG,2024-09-15,2025-01-15,5,5
+"Onions (imported, China)",Faridpur Sadar,Retail,KG,2024-10-15,2024-12-15,3,3
+"Onions (imported, China)",Feni Sadar,Retail,KG,2024-09-15,2026-02-15,11,11
+"Onions (imported, China)",Gaibandha Sadar,Retail,KG,2024-09-15,2025-08-15,5,5
+"Onions (imported, China)",Gazipur Sadar,Retail,KG,2024-09-15,2026-01-15,7,7
+"Onions (imported, China)",Golapganj,Retail,KG,2026-05-15,2026-05-15,1,1
+"Onions (imported, China)",Gopalgonj Sadar,Retail,KG,2024-10-15,2024-12-15,3,3
+"Onions (imported, China)",Habigonj Sadar,Retail,KG,2024-09-15,2026-01-15,8,8
+"Onions (imported, China)",Jaipurhat Sadar,Retail,KG,2024-09-15,2025-12-15,5,5
+"Onions (imported, China)",Jamalpur Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Onions (imported, China)",Jessore Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Onions (imported, China)",Jhalokati Sadar,Retail,KG,2024-09-15,2026-01-15,7,7
+"Onions (imported, China)",Jhenaidah Sadar,Retail,KG,2024-11-15,2024-12-15,2,2
+"Onions (imported, China)",Khagrachari Sadar,Retail,KG,2024-11-15,2026-02-15,11,11
+"Onions (imported, China)",Khulna Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+"Onions (imported, China)",Kishoregonj Sadar,Retail,KG,2024-09-15,2026-01-15,11,11
+"Onions (imported, China)",Kurigram Sadar,Retail,KG,2024-09-15,2026-03-15,14,14
+"Onions (imported, China)",Kushtia Sadar,Retail,KG,2024-10-15,2024-12-15,3,3
+"Onions (imported, China)",Lalmonirhat Sadar,Retail,KG,2024-09-15,2026-01-15,11,11
+"Onions (imported, China)",Lama,Retail,KG,2026-05-15,2026-07-15,3,3
+"Onions (imported, China)",Laxmipur Sadar,Retail,KG,2024-09-15,2025-04-15,8,8
+"Onions (imported, China)",Madaripur Sadar,Retail,KG,2024-10-15,2024-12-15,3,3
+"Onions (imported, China)",Magura Sadar,Retail,KG,2024-10-15,2024-12-15,3,3
+"Onions (imported, China)",Manikganj Sadar,Retail,KG,2024-11-15,2024-12-15,2,2
+"Onions (imported, China)",Maulavibazar Sadar,Retail,KG,2024-09-15,2026-02-15,15,15
+"Onions (imported, China)",Meherpur Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+"Onions (imported, China)",Munshiganj Sadar,Retail,KG,2024-10-15,2024-11-15,2,2
+"Onions (imported, China)",Mymensing Sadar,Retail,KG,2024-09-15,2025-01-15,5,5
+"Onions (imported, China)",Naogaon Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+"Onions (imported, China)",Narail Sadar,Retail,KG,2024-11-15,2025-12-15,3,3
+"Onions (imported, China)",Narayanganj Sadar,Retail,KG,2024-10-15,2025-01-15,4,4
+"Onions (imported, China)",Narsingdi Sadar,Retail,KG,2024-09-15,2026-01-15,7,7
+"Onions (imported, China)",Natore Sadar,Retail,KG,2024-12-15,2024-12-15,1,1
+"Onions (imported, China)",Nawabgonj Sadar,Retail,KG,2024-09-15,2026-01-15,10,10
+"Onions (imported, China)",Netrakona Sadar,Retail,KG,2024-09-15,2025-02-15,6,6
+"Onions (imported, China)",Nilphamari Sadar,Retail,KG,2024-09-15,2025-02-15,6,6
+"Onions (imported, China)",Noakhali Sadar,Retail,KG,2024-09-15,2025-05-15,9,9
+"Onions (imported, China)",Pabna Sadar,Retail,KG,2024-11-15,2024-12-15,2,2
+"Onions (imported, China)",Panchagarh Sadar,Retail,KG,2024-09-15,2026-02-15,13,13
+"Onions (imported, China)",Patiya Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Onions (imported, China)",Patuakhali Sadar,Retail,KG,2024-11-15,2024-12-15,2,2
+"Onions (imported, China)",Pirojpur Sadar,Retail,KG,2024-09-15,2026-01-15,7,7
+"Onions (imported, China)",Rajshahi Sadar,Retail,KG,2024-09-15,2026-07-15,22,22
+"Onions (imported, China)",Rangamati Sadar,Retail,KG,2024-09-15,2026-02-15,14,14
+"Onions (imported, China)",Rangpur Municipality Market,Retail,KG,2024-09-15,2026-01-15,12,12
+"Onions (imported, China)",Rangpur Sadar,Retail,KG,2024-12-15,2024-12-15,1,1
+"Onions (imported, China)",Satkhira Sadar,Retail,KG,2024-09-15,2025-03-15,7,7
+"Onions (imported, China)",Shariatpur Sadar,Retail,KG,2024-09-15,2025-12-15,7,7
+"Onions (imported, China)",Sherpur Sadar,Retail,KG,2024-09-15,2025-12-15,6,6
+"Onions (imported, China)",Sirajgonj Sadar,Retail,KG,2024-11-15,2024-11-15,1,1
+"Onions (imported, China)",Sunamgonj Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+"Onions (imported, China)",Sylhet Sadar,Retail,KG,2024-09-15,2026-03-15,17,17
+"Onions (imported, China)",Tangail sadar Market,Retail,KG,2024-10-15,2025-01-15,4,4
+"Onions (imported, China)",Thakurgaon Sadar,Retail,KG,2024-09-15,2026-02-15,9,9
+"Onions (imported, India)",Bhashan Char,Retail,KG,2024-02-15,2026-05-15,19,19
+"Onions (imported, India)",Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,19,19
+"Onions (imported, India)",Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+"Onions (imported, India)",Ukhia Market,Retail,KG,2024-02-15,2026-05-15,18,18
+Oranges (malta),Bhashan Char,Retail,KG,2024-02-15,2026-05-15,17,17
+Oranges (malta),Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,19,19
+Oranges (malta),Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Oranges (malta),Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Papaya (green),Amtali,Retail,KG,2026-05-15,2026-07-15,3,3
+Papaya (green),Amtoli,Retail,KG,2026-05-15,2026-07-15,3,3
+Papaya (green),Bagerhat Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Bajitpur,Retail,KG,2026-05-15,2026-07-15,2,2
+Papaya (green),Bandarban Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Baneshor,Retail,KG,2026-07-15,2026-07-15,1,1
+Papaya (green),Banyachong,Retail,KG,2026-06-15,2026-07-15,2,2
+Papaya (green),Barguna Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Barisal Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Beanibazar,Retail,KG,2026-05-15,2026-05-15,1,1
+Papaya (green),Begumganj,Retail,KG,2026-05-15,2026-07-15,3,3
+Papaya (green),Bhashan Char,Retail,KG,2024-02-15,2026-04-15,17,17
+Papaya (green),Bhola Sadar,Retail,KG,2024-10-15,2026-07-15,20,20
+Papaya (green),Bogra Sadar,Retail,KG,2024-09-15,2025-01-15,5,5
+Papaya (green),Brahmonbaria Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Chandina,Retail,KG,2026-05-15,2026-07-15,3,3
+Papaya (green),Chandpur Sadar,Retail,KG,2024-09-15,2026-07-15,18,18
+Papaya (green),Chittagong Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Papaya (green),Chuadanga Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Papaya (green),Comilla Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-07-15,22,22
+Papaya (green),Dhaka Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Papaya (green),Dinajpur Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Papaya (green),Dumuria,Retail,KG,2026-07-15,2026-07-15,1,1
+Papaya (green),Faridpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Feni Sadar,Retail,KG,2024-09-15,2026-07-15,16,16
+Papaya (green),Gaibandha Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Gazipur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Gobindaganj,Retail,KG,2026-05-15,2026-07-15,3,3
+Papaya (green),Godagari Sadar,Retail,KG,2026-05-15,2026-07-15,3,3
+Papaya (green),Gopalgonj Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Habigonj Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Jaipurhat Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Jamalpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Jessore Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Jhalokati Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Jhenaidah Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Kaliganj - Jhenaidah,Retail,KG,2026-05-15,2026-07-15,3,3
+Papaya (green),Kangshanagar,Retail,KG,2026-05-15,2026-07-15,3,3
+Papaya (green),Kaptai,Retail,KG,2026-05-15,2026-07-15,3,3
+Papaya (green),Kaukhali,Retail,KG,2026-05-15,2026-07-15,3,3
+Papaya (green),Kawran Bazar Dhaka,Retail,KG,2026-05-15,2026-07-15,3,3
+Papaya (green),Khagrachari Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Khulna Sadar,Retail,KG,2024-09-15,2026-07-15,7,7
+Papaya (green),Kishoregonj Sadar,Retail,KG,2024-12-15,2026-07-15,18,18
+Papaya (green),Kurigram Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Kushtia Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Lalmonirhat Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Laxmipur Sadar,Retail,KG,2024-09-15,2026-07-15,11,11
+Papaya (green),Madaripur Sadar,Retail,KG,2024-09-15,2026-07-15,9,9
+Papaya (green),Madhupur,Retail,KG,2026-05-15,2026-07-15,3,3
+Papaya (green),Magura Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Manikganj Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Papaya (green),Maulavibazar Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Mechua,Retail,KG,2026-05-15,2026-07-15,3,3
+Papaya (green),Meherpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Mirpur 1 no.,Retail,KG,2026-05-15,2026-07-15,3,3
+Papaya (green),Mithapukur,Retail,KG,2026-05-15,2026-07-15,3,3
+Papaya (green),Mohanganj,Retail,KG,2026-07-15,2026-07-15,1,1
+Papaya (green),Munshiganj Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Papaya (green),Mymensing Sadar,Retail,KG,2024-09-15,2025-06-15,10,10
+Papaya (green),Nageshwari,Retail,KG,2026-05-15,2026-07-15,3,3
+Papaya (green),Naogaon Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Narail Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Narayanganj Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Narsingdi Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Natore Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Nawabgonj Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Netrakona Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Papaya (green),Nilphamari Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Papaya (green),Noakhali Sadar,Retail,KG,2024-09-15,2026-07-15,10,10
+Papaya (green),Pabna Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Panchagarh Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Parbatipur,Retail,KG,2026-07-15,2026-07-15,1,1
+Papaya (green),Patiya Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Papaya (green),Patuakhali Sadar,Retail,KG,2024-09-15,2025-05-15,9,9
+Papaya (green),Pirojpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Raipur,Retail,KG,2026-05-15,2026-07-15,3,3
+Papaya (green),Rajbari Sadar,Retail,KG,2024-09-15,2026-07-15,16,16
+Papaya (green),Rajshahi Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Rangamati Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Rangpur Municipality Market,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Rangpur Sadar,Retail,KG,2024-12-15,2024-12-15,1,1
+Papaya (green),Sapahar,Retail,KG,2026-05-15,2026-07-15,3,3
+Papaya (green),Satkhira Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Papaya (green),Saturia,Retail,KG,2026-06-15,2026-07-15,2,2
+Papaya (green),Shariatpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Sherpur Sadar,Retail,KG,2024-09-15,2026-07-15,14,14
+Papaya (green),Shibgonj Sadar,Retail,KG,2026-05-15,2026-07-15,3,3
+Papaya (green),Singair,Retail,KG,2026-05-15,2026-07-15,3,3
+Papaya (green),Sirajgonj Sadar,Retail,KG,2024-09-15,2025-10-15,11,11
+Papaya (green),Sunamgonj Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Papaya (green),Sylhet Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Papaya (green),Tangail sadar Market,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Papaya (green),Thakurgaon Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Papaya (green),Trisal,Retail,KG,2026-05-15,2026-07-15,2,2
+Papaya (green),Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+"Potatoes (Holland, white)",Bagerhat Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+"Potatoes (Holland, white)",Bandarban Sadar,Retail,KG,2024-09-15,2025-01-15,5,5
+"Potatoes (Holland, white)",Barguna Sadar,Retail,KG,2024-09-15,2026-02-15,3,3
+"Potatoes (Holland, white)",Barisal Sadar,Retail,KG,2024-09-15,2025-01-15,5,5
+"Potatoes (Holland, white)",Bhashan Char,Retail,KG,2024-02-15,2026-05-15,19,19
+"Potatoes (Holland, white)",Bhola Sadar,Retail,KG,2024-10-15,2024-10-15,1,1
+"Potatoes (Holland, white)",Bogra Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Potatoes (Holland, white)",Brahmonbaria Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+"Potatoes (Holland, white)",Chandpur Sadar,Retail,KG,2024-09-15,2025-02-15,6,6
+"Potatoes (Holland, white)",Chittagong Sadar,Retail,KG,2024-12-15,2024-12-15,1,1
+"Potatoes (Holland, white)",Chuadanga Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Potatoes (Holland, white)",Comilla Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Potatoes (Holland, white)",Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,21,21
+"Potatoes (Holland, white)",Dhaka Sadar,Retail,KG,2024-09-15,2025-01-15,5,5
+"Potatoes (Holland, white)",Dinajpur Sadar,Retail,KG,2024-12-15,2024-12-15,1,1
+"Potatoes (Holland, white)",Feni Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Potatoes (Holland, white)",Gazipur Sadar,Retail,KG,2024-09-15,2025-01-15,5,5
+"Potatoes (Holland, white)",Gopalgonj Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Potatoes (Holland, white)",Habigonj Sadar,Retail,KG,2024-09-15,2025-12-15,11,11
+"Potatoes (Holland, white)",Jamalpur Sadar,Retail,KG,2024-09-15,2026-02-15,15,15
+"Potatoes (Holland, white)",Jessore Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Potatoes (Holland, white)",Jhalokati Sadar,Retail,KG,2024-09-15,2024-11-15,2,2
+"Potatoes (Holland, white)",Khagrachari Sadar,Retail,KG,2024-09-15,2026-02-15,11,11
+"Potatoes (Holland, white)",Khulna Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Potatoes (Holland, white)",Kishoregonj Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Potatoes (Holland, white)",Kushtia Sadar,Retail,KG,2024-09-15,2026-07-15,17,17
+"Potatoes (Holland, white)",Laxmipur Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Potatoes (Holland, white)",Manikganj Sadar,Retail,KG,2024-09-15,2025-12-15,9,9
+"Potatoes (Holland, white)",Maulavibazar Sadar,Retail,KG,2024-09-15,2025-01-15,5,5
+"Potatoes (Holland, white)",Munshiganj Sadar,Retail,KG,2024-09-15,2025-01-15,4,4
+"Potatoes (Holland, white)",Mymensing Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+"Potatoes (Holland, white)",Naogaon Sadar,Retail,KG,2024-12-15,2025-12-15,6,6
+"Potatoes (Holland, white)",Narail Sadar,Retail,KG,2024-09-15,2025-12-15,12,12
+"Potatoes (Holland, white)",Narayanganj Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Potatoes (Holland, white)",Narsingdi Sadar,Retail,KG,2024-09-15,2026-02-15,7,7
+"Potatoes (Holland, white)",Netrakona Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Potatoes (Holland, white)",Nilphamari Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Potatoes (Holland, white)",Noakhali Sadar,Retail,KG,2024-09-15,2025-01-15,5,5
+"Potatoes (Holland, white)",Patuakhali Sadar,Retail,KG,2024-10-15,2025-01-15,3,3
+"Potatoes (Holland, white)",Pirojpur Sadar,Retail,KG,2024-09-15,2024-11-15,2,2
+"Potatoes (Holland, white)",Rajbari Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+"Potatoes (Holland, white)",Rajshahi Sadar,Retail,KG,2024-12-15,2026-07-15,16,16
+"Potatoes (Holland, white)",Rangamati Sadar,Retail,KG,2024-09-15,2026-03-15,10,10
+"Potatoes (Holland, white)",Satkhira Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+"Potatoes (Holland, white)",Sherpur Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+"Potatoes (Holland, white)",Sunamgonj Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+"Potatoes (Holland, white)",Sylhet Sadar,Retail,KG,2024-09-15,2026-03-15,14,14
+"Potatoes (Holland, white)",Tangail sadar Market,Retail,KG,2024-09-15,2025-12-15,12,12
+"Potatoes (Holland, white)",Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+"Potatoes (Holland, white)",Thakurgaon Sadar,Retail,KG,2025-07-15,2025-12-15,5,5
+"Potatoes (Holland, white)",Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Pumpkin,Bhashan Char,Retail,KG,2024-02-15,2026-04-15,18,18
+Pumpkin,Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,19,19
+Pumpkin,Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Pumpkin,Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Rice (BRRI-28),Bhashan Char,Retail,KG,2025-04-15,2025-04-15,1,1
+Rice (BRRI-28),Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,19,19
+Rice (BRRI-28),Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Rice (BRRI-28),Ukhia Market,Retail,KG,2024-02-15,2026-05-15,17,17
+Rice (BRRI-29),Bhashan Char,Retail,KG,2025-04-15,2025-04-15,1,1
+Rice (BRRI-29),Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,19,19
+Rice (BRRI-29),Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Rice (BRRI-29),Ukhia Market,Retail,KG,2024-02-15,2026-05-15,16,16
+Rice (BRRI-49),Bhashan Char,Retail,KG,2025-04-15,2025-06-15,2,2
+Rice (BRRI-49),Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,17,17
+Rice (BRRI-49),Teknaf Market,Retail,KG,2024-02-15,2026-05-15,18,18
+Rice (BRRI-49),Ukhia Market,Retail,KG,2024-02-15,2026-05-15,14,14
+Rice (Gazi),Bhashan Char,Retail,KG,2025-02-15,2025-06-15,3,3
+Rice (Gazi),Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,18,18
+Rice (Gazi),Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Rice (Gazi),Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Rice (Kajla),Bhashan Char,Retail,KG,2024-02-15,2026-05-15,8,8
+Rice (Kajla),Teknaf Market,Retail,KG,2026-05-15,2026-05-15,1,1
+Rice (Kajla),Ukhia Market,Retail,KG,2025-10-15,2025-10-15,1,1
+Rice (Nurjahan),Bhashan Char,Retail,KG,2024-02-15,2026-05-15,11,11
+Rice (Nurjahan),Teknaf Market,Retail,KG,2026-05-15,2026-05-15,1,1
+Rice (Nurjahan),Ukhia Market,Retail,KG,2025-10-15,2025-10-15,1,1
+Rice (Pyzam),Bhashan Char,Retail,KG,2024-02-15,2025-12-15,11,11
+Rice (Pyzam),Cox`s Bazar Sadar,Retail,KG,2025-06-15,2025-06-15,1,1
+Rice (Pyzam),Ukhia Market,Retail,KG,2025-10-15,2025-10-15,1,1
+Rice (coarse),Bagerhat Sadar,Retail,KG,2020-07-15,2025-02-15,43,43
+Rice (coarse),Bandarban Sadar,Retail,KG,2023-08-15,2024-11-15,15,15
+Rice (coarse),Barguna Sadar,Retail,KG,2020-09-15,2024-06-15,20,20
+Rice (coarse),Barisal Division,Retail,KG,2006-08-15,2020-07-15,160,160
+Rice (coarse),Barisal Sadar,Retail,KG,2020-07-15,2026-07-15,58,58
+Rice (coarse),Beanibazar,Retail,KG,2026-05-15,2026-05-15,1,1
+Rice (coarse),Begumganj,Retail,KG,2026-05-15,2026-07-15,3,3
+Rice (coarse),Bhola Sadar,Retail,KG,2023-05-15,2025-12-15,17,17
+Rice (coarse),Bogra Sadar,Retail,KG,2020-07-15,2024-11-15,33,33
+Rice (coarse),Brahmonbaria Sadar,Retail,KG,2020-07-15,2024-04-15,18,18
+Rice (coarse),Chandina,Retail,KG,2026-05-15,2026-06-15,2,2
+Rice (coarse),Chandpur Sadar,Retail,KG,2023-08-15,2026-07-15,34,34
+Rice (coarse),Chittagong Division,Retail,KG,2005-10-15,2020-06-15,174,174
+Rice (coarse),Chittagong Sadar,Retail,KG,2020-11-15,2026-07-15,45,45
+Rice (coarse),Chuadanga Sadar,Retail,KG,2020-09-15,2025-05-15,39,39
+Rice (coarse),Comilla Sadar,Retail,KG,2020-07-15,2026-06-15,57,57
+Rice (coarse),Cox`s Bazar Sadar,Retail,KG,2023-08-15,2026-07-15,33,33
+Rice (coarse),Dhaka Division,Retail,KG,2004-01-15,2020-07-15,196,196
+Rice (coarse),Dhaka Sadar,Retail,KG,2020-07-15,2024-12-15,35,35
+Rice (coarse),Dinajpur Sadar,Retail,KG,2020-07-15,2025-05-15,42,42
+Rice (coarse),Faridpur Sadar,Retail,KG,2020-07-15,2026-07-15,58,58
+Rice (coarse),Feni Sadar,Retail,KG,2021-05-15,2024-11-15,29,29
+Rice (coarse),Gaibandha Sadar,Retail,KG,2020-07-15,2024-12-15,34,34
+Rice (coarse),Gazipur Sadar,Retail,KG,2020-08-15,2026-07-15,43,43
+Rice (coarse),Gopalgonj Sadar,Retail,KG,2020-08-15,2026-07-15,53,53
+Rice (coarse),Habigonj Sadar,Retail,KG,2020-07-15,2024-11-15,38,38
+Rice (coarse),Jaipurhat Sadar,Retail,KG,2020-12-15,2026-07-15,35,35
+Rice (coarse),Jamalpur Sadar,Retail,KG,2020-07-15,2026-04-15,55,55
+Rice (coarse),Jessore Sadar,Retail,KG,2021-10-15,2026-07-15,47,47
+Rice (coarse),Jhalokati Sadar,Retail,KG,2020-07-15,2026-07-15,58,58
+Rice (coarse),Jhenaidah Sadar,Retail,KG,2020-08-15,2026-07-15,60,60
+Rice (coarse),Kaliganj - Jhenaidah,Retail,KG,2026-05-15,2026-07-15,3,3
+Rice (coarse),Kangshanagar,Retail,KG,2026-05-15,2026-07-15,3,3
+Rice (coarse),Kaukhali,Retail,KG,2026-05-15,2026-07-15,3,3
+Rice (coarse),Khagrachari Sadar,Retail,KG,2022-05-15,2024-11-15,20,20
+Rice (coarse),Khulna Division,Retail,KG,2005-10-15,2020-07-15,176,176
+Rice (coarse),Khulna Sadar,Retail,KG,2020-07-15,2026-07-15,41,41
+Rice (coarse),Kishoregonj Sadar,Retail,KG,2020-08-15,2026-07-15,51,51
+Rice (coarse),Kurigram Sadar,Retail,KG,2020-07-15,2026-07-15,64,64
+Rice (coarse),Kushtia Sadar,Retail,KG,2020-07-15,2026-07-15,58,58
+Rice (coarse),Lalmonirhat Sadar,Retail,KG,2020-07-15,2024-11-15,39,39
+Rice (coarse),Laxmipur Sadar,Retail,KG,2020-07-15,2024-06-15,10,10
+Rice (coarse),Madaripur Sadar,Retail,KG,2023-08-15,2026-07-15,25,25
+Rice (coarse),Magura Sadar,Retail,KG,2020-07-15,2025-04-15,45,45
+Rice (coarse),Manikganj Sadar,Retail,KG,2020-07-15,2026-07-15,55,55
+Rice (coarse),Maulavibazar Sadar,Retail,KG,2020-07-15,2026-07-15,53,53
+Rice (coarse),Mechua,Retail,KG,2026-05-15,2026-07-15,3,3
+Rice (coarse),Meherpur Sadar,Retail,KG,2020-07-15,2026-07-15,58,58
+Rice (coarse),Mithapukur,Retail,KG,2026-05-15,2026-07-15,3,3
+Rice (coarse),Mohanganj,Retail,KG,2026-05-15,2026-07-15,3,3
+Rice (coarse),Munshiganj Sadar,Retail,KG,2020-07-15,2025-05-15,35,35
+Rice (coarse),Mymensing Sadar,Retail,KG,2020-06-15,2025-06-15,33,33
+Rice (coarse),Nageshwari,Retail,KG,2026-06-15,2026-07-15,2,2
+Rice (coarse),Naogaon Sadar,Retail,KG,2020-07-15,2025-10-15,50,50
+Rice (coarse),Narail Sadar,Retail,KG,2020-07-15,2026-07-15,58,58
+Rice (coarse),Narayanganj Sadar,Retail,KG,2020-07-15,2026-07-15,54,54
+Rice (coarse),Narsingdi Sadar,Retail,KG,2023-08-15,2026-07-15,33,33
+Rice (coarse),Natore Sadar,Retail,KG,2020-07-15,2026-07-15,49,49
+Rice (coarse),Nawabgonj Sadar,Retail,KG,2020-12-15,2026-07-15,65,65
+Rice (coarse),Netrakona Sadar,Retail,KG,2020-07-15,2026-07-15,49,49
+Rice (coarse),Nilphamari Sadar,Retail,KG,2023-12-15,2024-11-15,12,12
+Rice (coarse),Noakhali Sadar,Retail,KG,2020-07-15,2026-07-15,57,57
+Rice (coarse),Pabna Sadar,Retail,KG,2020-07-15,2024-11-15,22,22
+Rice (coarse),Panchagarh Sadar,Retail,KG,2023-11-15,2024-06-15,8,8
+Rice (coarse),Parbatipur,Retail,KG,2026-07-15,2026-07-15,1,1
+Rice (coarse),Patiya Sadar,Retail,KG,2020-12-15,2024-11-15,21,21
+Rice (coarse),Patuakhali Sadar,Retail,KG,2020-12-15,2024-11-15,18,18
+Rice (coarse),Pirojpur Sadar,Retail,KG,2020-07-15,2026-07-15,43,43
+Rice (coarse),Rajbari Sadar,Retail,KG,2020-07-15,2026-07-15,58,58
+Rice (coarse),Rajshahi Division,Retail,KG,2006-05-15,2020-06-15,166,166
+Rice (coarse),Rajshahi Sadar,Retail,KG,2020-12-15,2024-06-15,26,26
+Rice (coarse),Rangamati Sadar,Retail,KG,2020-07-15,2026-07-15,63,63
+Rice (coarse),Rangpur Municipality Market,Retail,KG,2020-09-15,2026-07-15,44,44
+Rice (coarse),Rangpur Sadar,Retail,KG,2020-05-15,2020-06-15,2,2
+Rice (coarse),Satkhira Sadar,Retail,KG,2020-07-15,2026-07-15,54,54
+Rice (coarse),Saturia,Retail,KG,2026-05-15,2026-07-15,3,3
+Rice (coarse),Shariatpur Sadar,Retail,KG,2020-07-15,2026-07-15,54,54
+Rice (coarse),Sherpur Sadar,Retail,KG,2020-07-15,2024-12-15,32,32
+Rice (coarse),Shibgonj Sadar,Retail,KG,2026-05-15,2026-07-15,3,3
+Rice (coarse),Singair,Retail,KG,2026-05-15,2026-07-15,3,3
+Rice (coarse),Sirajgonj Sadar,Retail,KG,2020-07-15,2024-11-15,52,52
+Rice (coarse),Sunamgonj Sadar,Retail,KG,2020-07-15,2026-07-15,45,45
+Rice (coarse),Sylhet Division,Retail,KG,2007-01-15,2020-07-15,137,137
+Rice (coarse),Sylhet Sadar,Retail,KG,2020-07-15,2026-07-15,43,43
+Rice (coarse),Tangail sadar Market,Retail,KG,2020-07-15,2024-11-15,22,22
+Rice (coarse),Thakurgaon Sadar,Retail,KG,2021-05-15,2024-10-15,30,30
+"Rice (coarse, BR-8/ 11/, Guti Sharna)",Bhashan Char,Retail,KG,2024-02-15,2025-07-15,5,5
+"Rice (coarse, BR-8/ 11/, Guti Sharna)",Dhaka,Retail,KG,2008-01-15,2021-05-15,158,158
+"Rice (coarse, BR-8/ 11/, Guti Sharna)",Dhaka,Wholesale,100 KG,1998-07-15,2021-05-15,275,275
+"Rice (coarse, BR-8/ 11/, Guti Sharna)",Ukhia Market,Retail,KG,2025-05-15,2025-05-15,1,1
+"Rice (coarse, Guti Sharna)",Dhaka,Retail,KG,2013-12-15,2017-07-15,44,44
+"Rice (coarse, Guti Sharna)",Dhaka,Wholesale,100 KG,2013-12-15,2017-07-15,44,44
+Rice (medium grain),Dhaka,Retail,KG,2008-01-15,2021-05-15,161,161
+Rice (medium grain),Dhaka,Wholesale,100 KG,2008-01-15,2021-05-15,160,160
+"Salt (iodized, Molla)",Bhashan Char,Retail,KG,2024-02-15,2026-05-15,19,19
+"Salt (iodized, Molla)",Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,19,19
+"Salt (iodized, Molla)",Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+"Salt (iodized, Molla)",Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Sanitary pads,Bhashan Char,Retail,10 pcs,2024-02-15,2026-04-15,13,13
+Sanitary pads,Cox`s Bazar Sadar,Retail,10 pcs,2024-02-15,2026-05-15,18,18
+Sanitary pads,Teknaf Market,Retail,10 pcs,2024-02-15,2026-05-15,19,19
+Sanitary pads,Ukhia Market,Retail,10 pcs,2024-02-15,2026-05-15,19,19
+Snake gourd,Amtali,Retail,KG,2026-05-15,2026-07-15,3,3
+Snake gourd,Amtoli,Retail,KG,2026-05-15,2026-07-15,3,3
+Snake gourd,Bagerhat Sadar,Retail,KG,2024-09-15,2026-07-15,19,19
+Snake gourd,Bandarban Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Snake gourd,Banyachong,Retail,KG,2026-07-15,2026-07-15,1,1
+Snake gourd,Barguna Sadar,Retail,KG,2024-09-15,2026-07-15,13,13
+Snake gourd,Barisal Sadar,Retail,KG,2024-09-15,2025-12-15,12,12
+Snake gourd,Beanibazar,Retail,KG,2026-05-15,2026-05-15,1,1
+Snake gourd,Bhola Sadar,Retail,KG,2024-09-15,2026-07-15,19,19
+Snake gourd,Bogra Sadar,Retail,KG,2024-10-15,2025-10-15,8,8
+Snake gourd,Brahmonbaria Sadar,Retail,KG,2024-09-15,2026-07-15,7,7
+Snake gourd,Chagalnaiya,Retail,KG,2026-05-15,2026-07-15,3,3
+Snake gourd,Chandina,Retail,KG,2026-07-15,2026-07-15,1,1
+Snake gourd,Chandpur Sadar,Retail,KG,2024-09-15,2026-07-15,14,14
+Snake gourd,Chittagong Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Snake gourd,Chuadanga Sadar,Retail,KG,2024-09-15,2026-07-15,5,5
+Snake gourd,Comilla Sadar,Retail,KG,2024-09-15,2026-07-15,9,9
+Snake gourd,Cox`s Bazar Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Snake gourd,Dhaka Sadar,Retail,KG,2024-09-15,2026-07-15,16,16
+Snake gourd,Dhanbari,Retail,KG,2026-05-15,2026-07-15,3,3
+Snake gourd,Dinajpur Sadar,Retail,KG,2024-09-15,2026-07-15,8,8
+Snake gourd,Faridpur Sadar,Retail,KG,2024-10-15,2026-07-15,12,12
+Snake gourd,Feni Sadar,Retail,KG,2024-09-15,2026-07-15,16,16
+Snake gourd,Gaibandha Sadar,Retail,KG,2024-09-15,2026-07-15,6,6
+Snake gourd,Gazipur Sadar,Retail,KG,2024-09-15,2026-07-15,14,14
+Snake gourd,Godagari Sadar,Retail,KG,2026-05-15,2026-07-15,3,3
+Snake gourd,Golapganj,Retail,KG,2026-05-15,2026-07-15,3,3
+Snake gourd,Gopalgonj Sadar,Retail,KG,2024-09-15,2026-07-15,17,17
+Snake gourd,Habigonj Sadar,Retail,KG,2024-09-15,2026-07-15,18,18
+Snake gourd,Jaipurhat Sadar,Retail,KG,2024-09-15,2026-07-15,13,13
+Snake gourd,Jamalpur Sadar,Retail,KG,2024-09-15,2026-07-15,16,16
+Snake gourd,Jessore Sadar,Retail,KG,2024-09-15,2026-07-15,17,17
+Snake gourd,Jhalokati Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Snake gourd,Jhenaidah Sadar,Retail,KG,2024-09-15,2026-07-15,14,14
+Snake gourd,Kaptai,Retail,KG,2026-05-15,2026-07-15,3,3
+Snake gourd,Kaukhali,Retail,KG,2026-05-15,2026-07-15,3,3
+Snake gourd,Kawran Bazar Dhaka,Retail,KG,2026-05-15,2026-07-15,3,3
+Snake gourd,Khagrachari Sadar,Retail,KG,2024-09-15,2026-07-15,14,14
+Snake gourd,Khulna Sadar,Retail,KG,2024-09-15,2026-07-15,6,6
+Snake gourd,Kishoregonj Sadar,Retail,KG,2024-09-15,2025-10-15,7,7
+Snake gourd,Kushtia Sadar,Retail,KG,2024-09-15,2026-07-15,11,11
+Snake gourd,Lalmonirhat Sadar,Retail,KG,2024-09-15,2026-07-15,13,13
+Snake gourd,Lama,Retail,KG,2026-05-15,2026-07-15,3,3
+Snake gourd,Laxmipur Sadar,Retail,KG,2024-09-15,2026-07-15,9,9
+Snake gourd,Madaripur Sadar,Retail,KG,2024-09-15,2026-07-15,8,8
+Snake gourd,Magura Sadar,Retail,KG,2024-09-15,2026-07-15,14,14
+Snake gourd,Manikganj Sadar,Retail,KG,2024-09-15,2026-07-15,15,15
+Snake gourd,Maulavibazar Sadar,Retail,KG,2024-09-15,2026-07-15,17,17
+Snake gourd,Mechua,Retail,KG,2026-05-15,2026-07-15,3,3
+Snake gourd,Meherpur Sadar,Retail,KG,2024-09-15,2024-10-15,2,2
+Snake gourd,Mirpur 1 no.,Retail,KG,2026-05-15,2026-07-15,3,3
+Snake gourd,Mithapukur,Retail,KG,2026-05-15,2026-07-15,3,3
+Snake gourd,Munshiganj Sadar,Retail,KG,2024-09-15,2026-07-15,9,9
+Snake gourd,Mymensing Sadar,Retail,KG,2024-09-15,2025-06-15,7,7
+Snake gourd,Naogaon Sadar,Retail,KG,2026-06-15,2026-07-15,2,2
+Snake gourd,Narail Sadar,Retail,KG,2024-09-15,2026-07-15,16,16
+Snake gourd,Narayanganj Sadar,Retail,KG,2024-09-15,2026-07-15,15,15
+Snake gourd,Narsingdi Sadar,Retail,KG,2024-09-15,2026-07-15,18,18
+Snake gourd,Natore Sadar,Retail,KG,2024-09-15,2026-07-15,10,10
+Snake gourd,Nawabgonj Sadar,Retail,KG,2024-09-15,2026-07-15,13,13
+Snake gourd,Netrakona Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Snake gourd,Nilphamari Sadar,Retail,KG,2024-09-15,2026-07-15,6,6
+Snake gourd,Noakhali Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Snake gourd,Pabna Sadar,Retail,KG,2024-09-15,2025-07-15,2,2
+Snake gourd,Panchagarh Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Snake gourd,Parbatipur,Retail,KG,2026-05-15,2026-07-15,3,3
+Snake gourd,Patiya Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Snake gourd,Patuakhali Sadar,Retail,KG,2024-09-15,2025-05-15,5,5
+Snake gourd,Pirojpur Sadar,Retail,KG,2024-09-15,2026-07-15,19,19
+Snake gourd,Raipur,Retail,KG,2026-05-15,2026-07-15,3,3
+Snake gourd,Rajbari Sadar,Retail,KG,2024-09-15,2024-10-15,2,2
+Snake gourd,Rajshahi Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Snake gourd,Rangamati Sadar,Retail,KG,2024-09-15,2026-07-15,16,16
+Snake gourd,Rangpur Municipality Market,Retail,KG,2024-09-15,2026-07-15,15,15
+Snake gourd,Satkhira Sadar,Retail,KG,2024-09-15,2026-07-15,7,7
+Snake gourd,Saturia,Retail,KG,2026-07-15,2026-07-15,1,1
+Snake gourd,Shariatpur Sadar,Retail,KG,2024-09-15,2026-07-15,19,19
+Snake gourd,Sherpur Sadar,Retail,KG,2024-09-15,2025-10-15,4,4
+Snake gourd,Singair,Retail,KG,2026-05-15,2026-07-15,3,3
+Snake gourd,Sirajgonj Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Snake gourd,Sunamgonj Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Snake gourd,Sylhet Sadar,Retail,KG,2024-09-15,2026-07-15,19,19
+Snake gourd,Tangail sadar Market,Retail,KG,2024-09-15,2026-07-15,17,17
+Snake gourd,Thakurgaon Sadar,Retail,KG,2024-09-15,2026-07-15,16,16
+Snake gourd,Trisal,Retail,KG,2026-05-15,2026-07-15,2,2
+Spinach (malabar),Bagerhat Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (malabar),Bandarban Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (malabar),Barguna Sadar,Retail,KG,2024-09-15,2025-10-15,11,11
+Spinach (malabar),Barisal Sadar,Retail,KG,2024-09-15,2026-07-15,18,18
+Spinach (malabar),Beanibazar,Retail,KG,2026-05-15,2026-05-15,1,1
+Spinach (malabar),Bhashan Char,Retail,KG,2024-02-15,2026-05-15,14,14
+Spinach (malabar),Bhola Sadar,Retail,KG,2024-09-15,2026-07-15,8,8
+Spinach (malabar),Bogra Sadar,Retail,KG,2024-09-15,2026-07-15,6,6
+Spinach (malabar),Brahmonbaria Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (malabar),Chittagong Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (malabar),Chuadanga Sadar,Retail,KG,2024-09-15,2026-07-15,6,6
+Spinach (malabar),Comilla Sadar,Retail,KG,2024-09-15,2026-02-15,16,16
+Spinach (malabar),Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,18,18
+Spinach (malabar),Dhaka Sadar,Retail,KG,2024-09-15,2025-10-15,7,7
+Spinach (malabar),Faridpur Sadar,Retail,KG,2024-09-15,2026-07-15,8,8
+Spinach (malabar),Gaibandha Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (malabar),Gazipur Sadar,Retail,KG,2024-09-15,2026-07-15,15,15
+Spinach (malabar),Godagari Sadar,Retail,KG,2026-05-15,2026-07-15,3,3
+Spinach (malabar),Gopalgonj Sadar,Retail,KG,2024-09-15,2026-07-15,16,16
+Spinach (malabar),Habigonj Sadar,Retail,KG,2024-09-15,2025-12-15,11,11
+Spinach (malabar),Jaipurhat Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (malabar),Jamalpur Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (malabar),Jessore Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (malabar),Jhalokati Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Spinach (malabar),Jhenaidah Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (malabar),Kaliganj - Jhenaidah,Retail,KG,2026-05-15,2026-07-15,3,3
+Spinach (malabar),Khagrachari Sadar,Retail,KG,2024-09-15,2026-07-15,7,7
+Spinach (malabar),Khulna Sadar,Retail,KG,2024-09-15,2026-07-15,6,6
+Spinach (malabar),Kishoregonj Sadar,Retail,KG,2024-09-15,2025-10-15,14,14
+Spinach (malabar),Kurigram Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (malabar),Kushtia Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Spinach (malabar),Lalmonirhat Sadar,Retail,KG,2024-09-15,2026-07-15,13,13
+Spinach (malabar),Madaripur Sadar,Retail,KG,2024-09-15,2026-07-15,9,9
+Spinach (malabar),Madhupur,Retail,KG,2026-05-15,2026-07-15,3,3
+Spinach (malabar),Magura Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (malabar),Manikganj Sadar,Retail,KG,2024-09-15,2026-07-15,16,16
+Spinach (malabar),Maulavibazar Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (malabar),Meherpur Sadar,Retail,KG,2024-09-15,2026-07-15,11,11
+Spinach (malabar),Munshiganj Sadar,Retail,KG,2024-09-15,2026-07-15,10,10
+Spinach (malabar),Mymensing Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (malabar),Nageshwari,Retail,KG,2026-06-15,2026-07-15,2,2
+Spinach (malabar),Naogaon Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (malabar),Narail Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (malabar),Narayanganj Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (malabar),Narsingdi Sadar,Retail,KG,2024-09-15,2026-07-15,10,10
+Spinach (malabar),Natore Sadar,Retail,KG,2024-09-15,2026-07-15,14,14
+Spinach (malabar),Nawabgonj Sadar,Retail,KG,2024-09-15,2026-07-15,8,8
+Spinach (malabar),Netrakona Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (malabar),Nilphamari Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (malabar),Noakhali Sadar,Retail,KG,2024-11-15,2024-11-15,1,1
+Spinach (malabar),Pabna Sadar,Retail,KG,2024-09-15,2026-07-15,17,17
+Spinach (malabar),Panchagarh Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (malabar),Patiya Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (malabar),Patuakhali Sadar,Retail,KG,2024-09-15,2025-01-15,5,5
+Spinach (malabar),Pirojpur Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (malabar),Rajbari Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (malabar),Rajshahi Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (malabar),Rangamati Sadar,Retail,KG,2025-10-15,2026-07-15,8,8
+Spinach (malabar),Rangpur Municipality Market,Retail,KG,2024-10-15,2024-10-15,1,1
+Spinach (malabar),Sapahar,Retail,KG,2026-05-15,2026-07-15,3,3
+Spinach (malabar),Satkhira Sadar,Retail,KG,2024-09-15,2026-07-15,10,10
+Spinach (malabar),Shariatpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (malabar),Sherpur Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (malabar),Singair,Retail,KG,2026-05-15,2026-07-15,3,3
+Spinach (malabar),Sirajgonj Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (malabar),Sunamgonj Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Spinach (malabar),Sylhet Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (malabar),Tangail sadar Market,Retail,KG,2024-09-15,2026-07-15,17,17
+Spinach (malabar),Teknaf Market,Retail,KG,2024-02-15,2026-05-15,18,18
+Spinach (malabar),Thakurgaon Sadar,Retail,KG,2024-09-15,2026-07-15,18,18
+Spinach (malabar),Ukhia Market,Retail,KG,2024-02-15,2026-05-15,18,18
+Spinach (red),Bagerhat Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (red),Barguna Sadar,Retail,KG,2024-10-15,2025-12-15,8,8
+Spinach (red),Barisal Sadar,Retail,KG,2024-11-15,2026-07-15,19,19
+Spinach (red),Bogra Sadar,Retail,KG,2024-09-15,2026-07-15,7,7
+Spinach (red),Brahmonbaria Sadar,Retail,KG,2024-09-15,2025-06-15,10,10
+Spinach (red),Chandina,Retail,KG,2026-05-15,2026-07-15,3,3
+Spinach (red),Chandpur Sadar,Retail,KG,2024-12-15,2025-03-15,4,4
+Spinach (red),Chittagong Sadar,Retail,KG,2024-09-15,2024-12-15,4,4
+Spinach (red),Chuadanga Sadar,Retail,KG,2024-09-15,2026-05-15,10,10
+Spinach (red),Comilla Sadar,Retail,KG,2024-09-15,2026-05-15,19,19
+Spinach (red),Cox`s Bazar Sadar,Retail,KG,2024-10-15,2024-11-15,2,2
+Spinach (red),Dhaka Sadar,Retail,KG,2024-09-15,2025-08-15,10,10
+Spinach (red),Faridpur Sadar,Retail,KG,2024-09-15,2026-07-15,11,11
+Spinach (red),Feni Sadar,Retail,KG,2024-11-15,2024-11-15,1,1
+Spinach (red),Gaibandha Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (red),Gazipur Sadar,Retail,KG,2024-11-15,2026-07-15,19,19
+Spinach (red),Godagari Sadar,Retail,KG,2026-05-15,2026-07-15,3,3
+Spinach (red),Gopalgonj Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Spinach (red),Habigonj Sadar,Retail,KG,2024-09-15,2026-05-15,19,19
+Spinach (red),Jaipurhat Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (red),Jamalpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (red),Jessore Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (red),Jhalokati Sadar,Retail,KG,2024-12-15,2026-02-15,7,7
+Spinach (red),Jhenaidah Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (red),Kaliganj - Jhenaidah,Retail,KG,2026-05-15,2026-05-15,1,1
+Spinach (red),Kangshanagar,Retail,KG,2026-05-15,2026-05-15,1,1
+Spinach (red),Khagrachari Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (red),Khulna Sadar,Retail,KG,2024-09-15,2026-07-15,7,7
+Spinach (red),Kurigram Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (red),Kushtia Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (red),Lalmonirhat Sadar,Retail,KG,2024-09-15,2026-07-15,8,8
+Spinach (red),Laxmipur Sadar,Retail,KG,2024-11-15,2025-02-15,4,4
+Spinach (red),Madaripur Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Spinach (red),Madhupur,Retail,KG,2026-05-15,2026-05-15,1,1
+Spinach (red),Magura Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (red),Manikganj Sadar,Retail,KG,2024-11-15,2026-07-15,17,17
+Spinach (red),Maulavibazar Sadar,Retail,KG,2024-09-15,2026-06-15,20,20
+Spinach (red),Meherpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (red),Munshiganj Sadar,Retail,KG,2024-10-15,2026-07-15,11,11
+Spinach (red),Mymensing Sadar,Retail,KG,2024-09-15,2025-06-15,10,10
+Spinach (red),Naogaon Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (red),Narayanganj Sadar,Retail,KG,2024-09-15,2026-07-15,19,19
+Spinach (red),Narsingdi Sadar,Retail,KG,2024-11-15,2026-07-15,9,9
+Spinach (red),Natore Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (red),Nawabgonj Sadar,Retail,KG,2024-09-15,2026-07-15,10,10
+Spinach (red),Netrakona Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (red),Nilphamari Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (red),Noakhali Sadar,Retail,KG,2024-11-15,2025-02-15,4,4
+Spinach (red),Pabna Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (red),Panchagarh Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (red),Patiya Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (red),Patuakhali Sadar,Retail,KG,2024-10-15,2025-03-15,6,6
+Spinach (red),Pirojpur Sadar,Retail,KG,2024-10-15,2024-10-15,1,1
+Spinach (red),Rajbari Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Spinach (red),Rajshahi Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (red),Rangamati Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (red),Rangpur Municipality Market,Retail,KG,2024-10-15,2024-10-15,1,1
+Spinach (red),Sapahar,Retail,KG,2026-05-15,2026-07-15,3,3
+Spinach (red),Satkhira Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Spinach (red),Shariatpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (red),Sherpur Sadar,Retail,KG,2024-09-15,2024-11-15,2,2
+Spinach (red),Shibgonj Sadar,Retail,KG,2026-05-15,2026-07-15,3,3
+Spinach (red),Singair,Retail,KG,2026-05-15,2026-07-15,3,3
+Spinach (red),Sirajgonj Sadar,Retail,KG,2024-10-15,2024-11-15,2,2
+Spinach (red),Sunamgonj Sadar,Retail,KG,2024-11-15,2026-07-15,10,10
+Spinach (red),Sylhet Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Spinach (red),Tangail sadar Market,Retail,KG,2024-09-15,2026-07-15,18,18
+Spinach (red),Thakurgaon Sadar,Retail,KG,2024-09-15,2026-07-15,18,18
+Sugar,Amtali,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Amtoli,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Bagerhat Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Bajitpur,Retail,KG,2026-05-15,2026-07-15,2,2
+Sugar,Bandarban Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Baneshor,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Barguna Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Barisal Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Beanibazar,Retail,KG,2026-05-15,2026-05-15,1,1
+Sugar,Begumganj,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Bhashan Char,Retail,KG,2024-02-15,2026-05-15,19,19
+Sugar,Bhola Sadar,Retail,KG,2024-12-15,2026-07-15,18,18
+Sugar,Bogra Sadar,Retail,KG,2024-09-15,2026-07-15,20,20
+Sugar,Brahmonbaria Sadar,Retail,KG,2026-06-15,2026-07-15,2,2
+Sugar,Chagalnaiya,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Chandina,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Chandpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Chittagong Sadar,Retail,KG,2024-09-15,2026-07-15,11,11
+Sugar,Chuadanga Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Sugar,Comilla Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-07-15,24,24
+Sugar,Dhaka Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Dhanbari,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Dinajpur Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Sugar,Dumuria,Retail,KG,2026-07-15,2026-07-15,1,1
+Sugar,Faridpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Feni Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Gaibandha Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Gazipur Sadar,Retail,KG,2024-11-15,2026-07-15,19,19
+Sugar,Gobindaganj,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Godagari Sadar,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Golapganj,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Gopalgonj Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Jaipurhat Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Jamalpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Jessore Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Sugar,Jhalokati Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Jhenaidah Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Kalaroa,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Kaliganj - Jhenaidah,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Kangshanagar,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Kaptai,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Kaukhali,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Kawran Bazar Dhaka,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Khagrachari Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Khulna Sadar,Retail,KG,2024-09-15,2026-07-15,7,7
+Sugar,Kishoregonj Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Kurigram Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Kushtia Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Lalmonirhat Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Sugar,Lama,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Laxmipur Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Sugar,Madaripur Sadar,Retail,KG,2024-09-15,2026-07-15,9,9
+Sugar,Magura Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Manikganj Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Maulavibazar Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Meherpur Sadar,Retail,KG,2024-10-15,2026-07-15,20,20
+Sugar,Mirpur 1 no.,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Mithapukur,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Mohanganj,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Munshiganj Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Sugar,Nageshwari,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Naogaon Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Narail Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Narayanganj Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Sugar,Narsingdi Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Natore Sadar,Retail,KG,2024-11-15,2026-07-15,19,19
+Sugar,Nawabgonj Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Netrakona Sadar,Retail,KG,2024-09-15,2026-07-15,13,13
+Sugar,Nilphamari Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Sugar,Noakhali Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Sugar,Pabna Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Panchagarh Sadar,Retail,KG,2024-12-15,2026-07-15,18,18
+Sugar,Parbatipur,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Patiya Sadar,Retail,KG,2024-09-15,2024-11-15,3,3
+Sugar,Patuakhali Sadar,Retail,KG,2024-09-15,2025-05-15,9,9
+Sugar,Raipur,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Rajbari Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Rajshahi Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Rangamati Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Rangpur Sadar,Retail,KG,2024-12-15,2024-12-15,1,1
+Sugar,Sapahar,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Satkhira Sadar,Retail,KG,2024-09-15,2026-07-15,11,11
+Sugar,Saturia,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Shariatpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Sherpur Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Shibgonj Sadar,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Singair,Retail,KG,2026-05-15,2026-07-15,3,3
+Sugar,Sirajgonj Sadar,Retail,KG,2024-09-15,2025-10-15,11,11
+Sugar,Sunamgonj Sadar,Retail,KG,2024-09-15,2026-07-15,12,12
+Sugar,Sylhet Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Sugar,Thakurgaon Sadar,Retail,KG,2024-09-15,2026-07-15,21,21
+Sugar,Trisal,Retail,KG,2026-07-15,2026-07-15,1,1
+Sugar,Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Toilet paper,Bhashan Char,Retail,1 Roll,2024-02-15,2026-05-15,18,18
+Toilet paper,Cox`s Bazar Sadar,Retail,1 Roll,2024-02-15,2026-05-15,18,18
+Toilet paper,Teknaf Market,Retail,1 Roll,2024-02-15,2026-05-15,19,19
+Toilet paper,Ukhia Market,Retail,1 Roll,2024-02-15,2026-05-15,19,19
+Tomatoes (red),Bhashan Char,Retail,KG,2024-02-15,2026-05-15,17,17
+Tomatoes (red),Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,19,19
+Tomatoes (red),Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Tomatoes (red),Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19
+Toothpaste,Bhashan Char,Retail,1 piece,2024-02-15,2026-05-15,18,18
+Toothpaste,Cox`s Bazar Sadar,Retail,1 piece,2024-02-15,2026-05-15,18,18
+Toothpaste,Teknaf Market,Retail,1 piece,2024-02-15,2026-05-15,19,19
+Toothpaste,Ukhia Market,Retail,1 piece,2024-02-15,2026-05-15,19,19
+"Turmeric (powder, Fresh)",Bhashan Char,Retail,KG,2024-02-15,2026-05-15,18,18
+"Turmeric (powder, Fresh)",Cox`s Bazar Sadar,Retail,KG,2024-02-15,2026-05-15,18,18
+"Turmeric (powder, Fresh)",Teknaf Market,Retail,KG,2024-02-15,2026-05-15,19,19
+"Turmeric (powder, Fresh)",Ukhia Market,Retail,KG,2024-02-15,2026-05-15,18,18
+Wheat,Dhaka,Retail,KG,2008-01-15,2017-11-15,116,116
+Wheat,Dhaka,Wholesale,100 KG,1998-07-15,2017-11-15,233,233
+Wheat flour,Amtali,Retail,KG,2026-05-15,2026-08-15,4,4
+Wheat flour,Amtoli,Retail,KG,2026-05-15,2026-08-15,4,4
+Wheat flour,Bagerhat Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Bajitpur,Retail,KG,2026-05-15,2026-08-15,3,3
+Wheat flour,Bandarban Sadar,Retail,KG,2020-07-15,2026-08-15,54,54
+Wheat flour,Baneshor,Retail,KG,2026-05-15,2026-08-15,4,4
+Wheat flour,Banyachong,Retail,KG,2026-07-15,2026-08-15,2,2
+Wheat flour,Barguna Sadar,Retail,KG,2020-07-15,2026-08-15,51,51
+Wheat flour,Barisal Division,Retail,KG,2006-12-15,2020-07-15,161,161
+Wheat flour,Barisal Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Beanibazar,Retail,KG,2026-05-15,2026-08-15,2,2
+Wheat flour,Begumganj,Retail,KG,2026-05-15,2026-08-15,4,4
+Wheat flour,Bhashan Char,Retail,KG,2024-02-15,2026-05-15,18,18
+Wheat flour,Bhola Sadar,Retail,KG,2023-08-15,2024-11-15,16,16
+Wheat flour,Bogra Sadar,Retail,KG,2020-07-15,2026-08-15,48,48
+Wheat flour,Brahmonbaria Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Chagalnaiya,Retail,KG,2026-05-15,2026-08-15,4,4
+Wheat flour,Chandina,Retail,KG,2026-05-15,2026-08-15,4,4
+Wheat flour,Chandpur Sadar,Retail,KG,2021-06-15,2026-08-15,61,61
+Wheat flour,Chittagong Division,Retail,KG,2006-01-15,2020-07-15,173,173
+Wheat flour,Chittagong Sadar,Retail,KG,2020-07-15,2026-08-15,63,63
+Wheat flour,Chuadanga Sadar,Retail,KG,2020-07-15,2024-11-15,19,19
+Wheat flour,Comilla Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Cox`s Bazar Sadar,Retail,KG,2020-07-15,2026-08-15,74,74
+Wheat flour,Dhaka,Retail,KG,2008-01-15,2021-05-15,158,158
+Wheat flour,Dhaka,Wholesale,100 KG,2008-07-15,2021-05-15,155,155
+Wheat flour,Dhaka Division,Retail,KG,2005-11-15,2020-07-15,175,175
+Wheat flour,Dhaka Sadar,Retail,KG,2020-07-15,2026-08-15,68,68
+Wheat flour,Dinajpur Sadar,Retail,KG,2023-08-15,2026-08-15,26,26
+Wheat flour,Dumuria,Retail,KG,2026-05-15,2026-08-15,4,4
+Wheat flour,Faridpur Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Feni Sadar,Retail,KG,2020-07-15,2026-08-15,61,61
+Wheat flour,Gaibandha Sadar,Retail,KG,2023-08-15,2024-11-15,16,16
+Wheat flour,Gazipur Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Godagari Sadar,Retail,KG,2026-05-15,2026-08-15,4,4
+Wheat flour,Golapganj,Retail,KG,2026-08-15,2026-08-15,1,1
+Wheat flour,Gopalgonj Sadar,Retail,KG,2023-08-15,2026-08-15,35,35
+Wheat flour,Habigonj Sadar,Retail,KG,2020-07-15,2026-08-15,71,71
+Wheat flour,Jaipurhat Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Jamalpur Sadar,Retail,KG,2023-02-15,2024-11-15,21,21
+Wheat flour,Jessore Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Jhalokati Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Jhenaidah Sadar,Retail,KG,2023-08-15,2024-11-15,16,16
+Wheat flour,Kangshanagar,Retail,KG,2026-05-15,2026-07-15,3,3
+Wheat flour,Kaptai,Retail,KG,2026-05-15,2026-08-15,4,4
+Wheat flour,Kawran Bazar Dhaka,Retail,KG,2026-05-15,2026-08-15,4,4
+Wheat flour,Khagrachari Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Khulna Division,Retail,KG,2005-10-15,2020-07-15,173,173
+Wheat flour,Khulna Sadar,Retail,KG,2020-07-15,2026-08-15,57,57
+Wheat flour,Kishoregonj Sadar,Retail,KG,2020-07-15,2024-11-15,53,53
+Wheat flour,Kurigram Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Kushtia Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Lalmonirhat Sadar,Retail,KG,2023-08-15,2026-08-15,18,18
+Wheat flour,Lama,Retail,KG,2026-05-15,2026-08-15,4,4
+Wheat flour,Laxmipur Sadar,Retail,KG,2020-07-15,2026-08-15,63,63
+Wheat flour,Madaripur Sadar,Retail,KG,2021-01-15,2026-08-15,27,27
+Wheat flour,Magura Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Manikganj Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Maulavibazar Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Meherpur Sadar,Retail,KG,2023-08-15,2026-08-15,26,26
+Wheat flour,Mirpur 1 no.,Retail,KG,2026-05-15,2026-08-15,4,4
+Wheat flour,Mithapukur,Retail,KG,2026-05-15,2026-08-15,4,4
+Wheat flour,Mohanganj,Retail,KG,2026-05-15,2026-08-15,4,4
+Wheat flour,Munshiganj Sadar,Retail,KG,2020-07-15,2026-08-15,63,63
+Wheat flour,Mymensing Sadar,Retail,KG,2020-06-15,2024-11-15,52,52
+Wheat flour,Naogaon Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Narail Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Narayanganj Sadar,Retail,KG,2020-07-15,2024-11-15,29,29
+Wheat flour,Narsingdi Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Natore Sadar,Retail,KG,2023-09-15,2026-08-15,34,34
+Wheat flour,Nawabgonj Sadar,Retail,KG,2020-07-15,2026-08-15,63,63
+Wheat flour,Netrakona Sadar,Retail,KG,2023-01-15,2026-08-15,33,33
+Wheat flour,Nilphamari Sadar,Retail,KG,2020-07-15,2026-08-15,63,63
+Wheat flour,Noakhali Sadar,Retail,KG,2020-07-15,2026-08-15,63,63
+Wheat flour,Pabna Sadar,Retail,KG,2020-07-15,2024-11-15,42,42
+Wheat flour,Panchagarh Sadar,Retail,KG,2020-07-15,2024-11-15,27,27
+Wheat flour,Parbatipur,Retail,KG,2026-05-15,2026-08-15,4,4
+Wheat flour,Patiya Sadar,Retail,KG,2020-07-15,2024-11-15,27,27
+Wheat flour,Patuakhali Sadar,Retail,KG,2020-07-15,2025-05-15,59,59
+Wheat flour,Pirojpur Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Raipur,Retail,KG,2026-05-15,2026-08-15,4,4
+Wheat flour,Rajbari Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Rajshahi Division,Retail,KG,2006-07-15,2020-07-15,167,167
+Wheat flour,Rajshahi Sadar,Retail,KG,2020-07-15,2026-08-15,71,71
+Wheat flour,Rangamati Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Rangpur Municipality Market,Retail,KG,2020-08-15,2026-08-15,71,71
+Wheat flour,Rangpur Sadar,Retail,KG,2020-05-15,2024-12-15,6,6
+Wheat flour,Sapahar,Retail,KG,2026-05-15,2026-08-15,4,4
+Wheat flour,Satkhira Sadar,Retail,KG,2020-07-15,2026-08-15,63,63
+Wheat flour,Saturia,Retail,KG,2026-05-15,2026-08-15,4,4
+Wheat flour,Shariatpur Sadar,Retail,KG,2020-07-15,2022-05-15,11,11
+Wheat flour,Sherpur Sadar,Retail,KG,2022-02-15,2026-08-15,53,53
+Wheat flour,Shibgonj Sadar,Retail,KG,2026-05-15,2026-08-15,4,4
+Wheat flour,Singair,Retail,KG,2026-05-15,2026-08-15,4,4
+Wheat flour,Sirajgonj Sadar,Retail,KG,2020-07-15,2025-10-15,61,61
+Wheat flour,Sunamgonj Sadar,Retail,KG,2020-09-15,2026-08-15,61,61
+Wheat flour,Sylhet Division,Retail,KG,2007-01-15,2020-07-15,161,161
+Wheat flour,Sylhet Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Tangail sadar Market,Retail,KG,2023-08-15,2026-08-15,31,31
+Wheat flour,Teknaf Market,Retail,KG,2024-02-15,2026-05-15,18,18
+Wheat flour,Thakurgaon Sadar,Retail,KG,2020-07-15,2026-08-15,72,72
+Wheat flour,Ukhia Market,Retail,KG,2024-02-15,2026-05-15,19,19

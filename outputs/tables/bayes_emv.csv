@@ -1,0 +1,4 @@
+,P(spike),cost_forward,cost_monthly,best_action,saving_vs_other_bdt
+prior (no signal),0.099,518255.819,505499.587,monthly,12756.232
+"posterior, signal on",0.345,518255.819,519142.059,forward,886.24
+"posterior, signal off",0.041,518255.819,502256.705,monthly,15999.114

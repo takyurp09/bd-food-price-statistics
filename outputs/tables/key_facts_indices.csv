@@ -1,0 +1,60 @@
+fact,value,how_computed
+wfp_rows,34467,Rows in prices_monthly.parquet (retail and wholesale)
+wfp_first_month,1998-07,Earliest WFP month
+wfp_last_month,2026-08,Latest WFP month
+wfp_commodities,73,Distinct WFP commodity labels
+wfp_markets,110,Distinct WFP markets
+outliers_flagged,342,|robust z| > 5 within commodity-market (src/clean.py)
+long_basket_markets_2006_2019,7,Markets (division level) with long-basket prices before 2020
+core_markets_2025,66,Markets with any core item in 2025
+rice_coarse_2016_bdt,31.1,Mean 2016 national price
+rice_coarse_latest_bdt,49.0,"National price, 2026-07"
+atta_2016_bdt,32.2,Mean 2016 national price
+atta_latest_bdt,56.6,"National price, 2026-08"
+lentil_masur_2016_bdt,108.3,Mean 2016 national price
+lentil_masur_latest_bdt,92.0,"National price, 2026-07"
+palm_oil_2016_bdt,68.1,Mean 2016 national price
+palm_oil_latest_bdt,167.8,"National price, 2026-07"
+xs_outliers_dropped,29,Division-months dropped by the cross-division rule (src/clean.py)
+rice_chain_vs_mean_max_abs_pct,6.7,"Largest |chain / plain mean - 1|, coarse rice, %"
+rice_chain_vs_mean_latest_pct,0.0,"Chain / plain mean - 1, coarse rice, 2026-07, %"
+rice_months_lt6_divisions,67,Rice months with fewer than six divisions reporting
+long_index_last_month,2026-07,Last month with all four staples
+long_laspeyres_last,164.5,"Long basket, 2016 = 100"
+long_paasche_last,155.9,"Long basket, 2016 = 100"
+long_fisher_last,160.2,"Long basket, 2016 = 100"
+long_chain_laspeyres_last,167.5,"Long basket, 2016 = 100"
+long_laspeyres_paasche_gap_max_pct,5.56,Max of 100*(L/P - 1)
+long_laspeyres_paasche_gap_max_month,2026-06,Month of max L-P gap
+long_laspeyres_2006_09,55.1,"First month, Sep 2006"
+cmp_months,234,Months with both staple Fisher index and official food CPI
+cmp_first_month,2006-09,First month of overlap
+cmp_last_month,2026-06,Last month of overlap
+corr_levels_fisher_cpi_food,0.903,"Pearson r, index levels (both trend up, so high by construction)"
+corr_yoy_fisher_cpi_food,0.429,"Pearson r, year-on-year % changes"
+sd_yoy_fisher,19.03,"SD of staple y/y inflation, pp"
+sd_yoy_cpi_food,2.74,"SD of official food y/y inflation, pp"
+mean_abs_gap_levels_pct,20.2,"Mean |Fisher/CPI_food - 1|, %"
+gap_levels_last_pct,-20.6,"Fisher/CPI_food - 1 in 2026-06, %"
+corr_annual_inflation,0.406,"Pearson r, annual average inflation, full calendar years only"
+best_lead_months,1,"k maximising corr(staple y/y_t, CPI food y/y_{t+k}); positive = staples lead"
+best_lead_corr,0.438,Correlation at that lead
+division_spread_2016_pct,8.5,"Max/min division index, 2016 average, %"
+division_spread_2025_pct,7.8,"Max/min division index, 2025 average, %"
+division_dearest_2025,Barishal,Highest 2025 average index
+division_cheapest_2025,Rajshahi,Lowest 2025 average index
+division_yoy_mean_pairwise_corr,0.92,Mean pairwise correlation of division y/y changes
+wide_months,19,Months with all 11 items
+wide_first_month,2024-09,First month
+wide_last_month,2026-03,Last month
+wide_lp_gap_mean_pct,1.38,"Mean 100*(L/P - 1), wide basket"
+long_lp_gap_mean_pct_same_months,3.6,"Same months, long basket (2016 base, so a ten-year-old base widens the gap)"
+contrib_lentil_masur_pts,-1.1,"Laspeyres contribution, index points"
+contrib_atta_pts,3.0,"Laspeyres contribution, index points"
+contrib_palm_oil_pts,19.2,"Laspeyres contribution, index points"
+contrib_rice_coarse_pts,43.4,"Laspeyres contribution, index points"
+rice_share_of_change,0.672,Rice contribution / total change
+sens_last_laspeyres_p05,158.2,5th percentile over 500 random weight draws
+sens_last_laspeyres_p95,172.2,95th percentile
+sens_corr_yoy_p05,0.421,5th percentile of y/y correlation with food CPI
+sens_corr_yoy_p95,0.437,95th percentile

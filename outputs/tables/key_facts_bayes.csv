@@ -1,0 +1,39 @@
+fact,value,how_computed
+spike_threshold_train_pct,4.22,"90th percentile of palm oil m/m log change x 100, 2007-2019"
+n_train_decisions,151,"Decision months with full data, 2007-2019"
+n_test_decisions,72,"Decision months with full data, 2020-2025"
+prior_p_spike,0.099,Share of 2007-2019 decision months followed by a spike (15/151)
+lik_sig_given_spike,0.667,"P(world price in BDT up > 5% | spike next month), 2007-2019"
+lik_sig_given_none,0.14,"P(world price in BDT up > 5% | no spike next month), 2007-2019"
+posterior_spike_signal_on,0.345,"P(spike next month | signal on), Bayes' rule"
+posterior_spike_signal_off,0.041,"P(spike next month | signal off), Bayes' rule"
+flood_signal_on_months_train,5,Flood months in 2007-2019 decisions; P(flood | spike) = 0.00
+price_now_bdt_per_l,167.76,"National retail palm oil price, 2026-07"
+carry_cost_pct_per_month,1.49,"r/12 + s, % of price per month held"
+avg_3m_rise_after_spike_pct,11.6,"Mean P(t+3)/P(t) - 1 when t+1 is a spike, 2007-2019"
+saving_forward_if_spike_bdt,37296,"Forward minus monthly cost saving, 3,000 L, spike state"
+saving_forward_if_no_spike_bdt,-18277,"Same, no-spike state (negative = forward costs more)"
+breakeven_p_spike,0.329,P(spike) at which forward and monthly buying cost the same
+action_prior,monthly,Best action on the prior alone
+action_signal_on,forward,Best action when the world-price signal is on
+action_signal_off,monthly,Best action when the signal is off
+evpi_bdt,3705,"Expected value of perfect information, BDT per 3,000 L decision"
+evsi_bdt,170,"Expected value of sample information (world-price signal), BDT per 3,000 L"
+evsi_efficiency_pct,4.6,"EVSI / EVPI, %"
+test_spike_rate,0.194,Share of 2020-2025 decisions followed by a spike (14/72)
+test_signal_months,19,"Months the world-price signal fired, 2020-2025"
+test_bayes_forward_months,19,Months the rule said forward buy; 8 were followed by a spike
+test_monthly_vs_monthly_pct,0.0,"always monthly: total realized cost vs always monthly, %, 2020-2025"
+test_forward_vs_monthly_pct,1.19,"always forward: total realized cost vs always monthly, %, 2020-2025"
+test_bayes_vs_monthly_pct,-0.72,"Bayes rule: total realized cost vs always monthly, %, 2020-2025"
+test_oracle_vs_monthly_pct,-1.75,"oracle (perfect foresight): total realized cost vs always monthly, %, 2020-2025"
+test_bayes_saving_bdt_per_litre,0.92,"Bayes rule average saving vs always monthly, BDT per litre"
+breakeven_p_at_9pct,0.286,Breakeven P(spike) at a 9% lending rate
+test_cap_bayes_forward_months,19,Months the rule said forward buy with 9% charged Apr 2020-Jun 2023
+test_cap_monthly_vs_monthly_pct,0.0,"always monthly: realized cost vs always monthly, %, 9% rate Apr 2020-Jun 2023, 11.86% otherwise"
+test_cap_forward_vs_monthly_pct,0.95,"always forward: realized cost vs always monthly, %, 9% rate Apr 2020-Jun 2023, 11.86% otherwise"
+test_cap_bayes_vs_monthly_pct,-0.79,"Bayes rule: realized cost vs always monthly, %, 9% rate Apr 2020-Jun 2023, 11.86% otherwise"
+test_cap_oracle_vs_monthly_pct,-1.88,"oracle (perfect foresight): realized cost vs always monthly, %, 9% rate Apr 2020-Jun 2023, 11.86% otherwise"
+lending_rate_where_decision_flips_pct,13.0,Financing rate at which breakeven = posterior with signal on (storage 0.5%/month)
+beta_post_mean_train,0.105,"Posterior mean spike rate after 2007-2019, 95% CrI 0.061 to 0.158"
+beta_post_mean_all,0.133,"Posterior mean after adding 2020-2025, 95% CrI 0.092 to 0.181"

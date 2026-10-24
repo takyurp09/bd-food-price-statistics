@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+.cache/
+*.log
+*.tmp
+~$*
+# Pink Sheet workbook (~1 MB) and the NASA POWER json files are rebuilt by `python -I src/download.py`;
+# the small tidy CSVs made from them are kept.
+data/raw/*.xlsx
+data/raw/nasa_power_*.json
+data/raw/imf_er_bgd.xml

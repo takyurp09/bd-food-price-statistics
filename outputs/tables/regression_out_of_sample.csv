@@ -1,0 +1,5 @@
+item,n_train,n_test,rmse_model,rmse_mean_benchmark,rmse_ratio,oos_r2,corr_pred_actual
+rice_coarse,161,68,2.4601,2.2134,1.1114,-0.2353,0.2214
+atta,161,70,2.945,2.872,1.0254,-0.0515,0.268
+lentil_masur,162,70,4.1275,3.5651,1.1578,-0.3404,-0.2233
+palm_oil,147,70,2.9391,4.2488,0.6918,0.5215,0.7054

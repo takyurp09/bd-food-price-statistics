@@ -1,0 +1,943 @@
+Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Months Code,Months,Year Code,Year,Unit,Value,Flag,Note
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,36.534,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,37.334,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,38.228,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,39.351,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,42.949,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,45.361,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,48.401,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,51.326,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,57.3,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,60.83,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,66.395,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,75.923,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,81.211,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,85.291,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,92.801,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,98.431,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,102.692,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,109.398,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,117.734,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,124.01,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2020,2020,,130.356,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2021,2021,,137.176,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2022,2022,,144.864,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2023,2023,,156.109,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2024,2024,,171.917,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2025,2025,,190.33,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2026,2026,,206.126,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,36.314,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,36.879,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,37.977,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,39.474,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,43.0,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,45.79,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,48.452,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,52.043,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,57.427,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,60.824,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,66.431,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,76.401,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,79.551,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,85.474,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,93.027,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,98.709,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,102.427,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,109.429,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,117.386,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,123.776,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2020,2020,,129.93,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2021,2021,,136.976,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2022,2022,,145.489,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2023,2023,,157.313,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2024,2024,,173.036,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2025,2025,,189.036,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2026,2026,,206.62,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,36.361,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,36.91,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,38.024,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,39.532,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,43.108,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,46.055,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,48.948,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,52.648,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,58.039,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,61.015,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,66.465,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,76.732,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,79.524,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,85.491,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,93.149,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,99.086,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,102.939,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,110.032,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,117.829,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,124.566,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2020,2020,,130.63,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2021,2021,,137.831,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2022,2022,,146.566,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2023,2023,,159.884,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2024,2024,,176.568,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2025,2025,,192.335,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2026,2026,,208.175,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,36.408,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,37.004,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,38.118,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,39.597,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,43.187,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,46.095,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,49.591,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,53.77,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,57.96,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,61.118,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,66.428,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,76.54,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,78.687,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,85.513,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,93.17,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,99.204,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,103.009,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,110.154,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,117.894,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,124.427,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2020,2020,,131.781,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2021,2021,,139.117,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2022,2022,,147.791,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2023,2023,,161.686,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2024,2024,,178.21,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2025,2025,,193.585,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2026,2026,,209.832,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,36.393,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,37.146,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,38.26,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,39.768,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,43.341,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,46.384,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,49.978,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,54.073,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,58.166,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,61.358,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,66.762,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,75.396,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,77.431,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,83.723,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,91.333,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,97.019,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,100.711,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,108.13,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,115.223,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,121.547,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2020,2020,,127.737,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2021,2021,,133.961,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2022,2022,,145.085,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2023,2023,,159.303,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2024,2024,,176.451,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2025,2025,,191.609,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2026,2026,,208.96,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,36.471,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,37.271,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,38.197,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,39.902,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,43.482,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,46.734,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,50.32,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,55.029,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,60.651,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,62.037,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,67.528,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,76.119,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,78.07,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,84.518,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,91.281,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,97.049,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,101.15,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,108.742,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,115.249,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,121.469,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2020,2020,,129.418,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2021,2021,,136.472,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2022,2022,,147.891,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2023,2023,,163.125,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2024,2024,,180.113,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2025,2025,,193.425,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2026,2026,,210.05,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,36.565,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,37.381,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,38.715,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,41.346,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,43.72,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,47.139,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,50.386,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,55.565,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,61.685,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,63.854,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,68.14,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,78.167,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,79.91,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,86.416,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,93.275,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,98.939,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,103.243,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,110.415,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,117.238,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,123.593,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2020,2020,,130.634,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2021,2021,,137.267,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2022,2022,,148.512,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2023,2023,,163.837,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2024,2024,,186.944,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2025,2025,,201.069,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,36.628,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,37.459,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,39.092,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,41.686,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,44.025,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,47.58,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,50.809,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,56.043,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,61.81,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,64.759,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,70.09,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,79.817,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,81.613,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,88.214,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,94.977,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,100.733,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,105.068,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,112.76,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,119.488,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,125.791,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2020,2020,,133.436,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2021,2021,,140.316,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2022,2022,,154.268,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2023,2023,,174.504,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2024,2024,,194.326,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2025,2025,,209.091,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,36.722,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,37.553,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,39.139,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,41.987,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,45.126,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,48.347,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,51.734,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,56.788,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,62.68,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,65.612,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,71.24,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,81.827,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,83.258,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,89.861,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,96.715,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,102.444,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,107.669,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,116.139,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,122.429,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,128.923,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2020,2020,,137.306,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2021,2021,,144.46,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2022,2022,,157.573,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2023,2023,,177.977,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2024,2024,,196.491,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2025,2025,,211.503,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,36.832,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,37.648,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,39.202,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,42.292,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,45.702,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,49.087,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,52.739,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,58.136,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,62.428,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,66.693,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,72.961,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,81.81,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,83.862,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,90.89,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,97.397,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,103.135,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,108.868,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,117.16,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,123.115,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,129.87,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2020,2020,,139.404,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2021,2021,,146.684,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2022,2022,,159.146,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2023,2023,,180.055,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2024,2024,,202.842,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2025,2025,,217.2,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,37.271,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,37.742,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,39.296,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,42.59,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,45.346,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,49.014,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,52.191,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,58.148,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,61.77,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,66.322,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,73.588,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,80.945,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,84.136,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,91.32,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,97.214,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,102.774,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,108.334,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,116.018,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,122.142,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,129.987,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2020,2020,,137.436,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2021,2021,,144.894,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2022,2022,,156.696,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2023,2023,,174.446,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2024,2024,,198.526,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2025,2025,,213.131,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,37.271,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,38.103,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,39.578,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,42.813,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,45.21,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,48.462,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,51.487,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,57.56,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,61.091,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,66.38,I,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,75.467,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,80.193,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,84.427,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,92.028,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,97.423,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,102.757,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,108.282,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,116.0,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,122.142,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,129.305,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2020,2020,,136.211,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2021,2021,,143.648,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2022,2022,,155.006,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2023,2023,,170.726,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2024,2024,,192.771,X,base year is 2015
+16,'050,Bangladesh,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2025,2025,,207.638,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,37.054,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,37.851,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,38.743,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,39.861,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,43.442,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,45.841,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,48.86,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,51.762,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,57.68,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,61.173,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,66.672,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,74.452,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,80.839,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,86.187,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,92.649,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,98.246,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,104.207,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,109.57,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,116.018,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,122.307,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2020,2020,,129.124,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2021,2021,,135.609,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2022,2022,,143.553,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2023,2023,,155.859,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2024,2024,,172.05,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2025,2025,,189.154,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2026,2026,,205.381,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,36.835,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,37.398,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,38.493,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,39.984,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,43.493,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,46.267,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,48.911,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,52.473,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,57.806,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,61.167,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,66.708,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,74.919,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,80.118,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,86.402,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,92.831,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,98.536,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,104.072,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,109.598,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,115.868,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,122.204,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2020,2020,,128.876,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2021,2021,,135.735,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2022,2022,,144.109,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2023,2023,,156.771,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2024,2024,,172.755,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2025,2025,,188.867,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2026,2026,,206.115,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,36.882,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,37.429,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,38.54,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,40.041,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,43.601,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,46.531,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,49.403,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,53.072,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,58.412,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,61.356,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,66.741,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,75.223,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,80.308,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,86.505,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,92.971,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,98.802,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,104.385,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,110.014,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,116.261,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,122.713,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2020,2020,,129.437,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2021,2021,,136.511,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2022,2022,,145.003,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2023,2023,,158.539,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2024,2024,,174.927,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2025,2025,,191.298,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2026,2026,,207.956,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,36.929,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,37.523,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,38.633,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,40.106,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,43.679,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,46.569,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,50.041,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,54.185,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,58.334,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,61.458,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,66.705,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,75.187,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,79.877,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,86.561,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,93.014,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,98.896,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,104.441,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,110.15,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,116.355,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,122.844,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2020,2020,,130.167,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2021,2021,,137.409,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2022,2022,,146.059,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2023,2023,,160.326,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2024,2024,,175.934,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2025,2025,,192.046,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2026,2026,,209.409,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,36.913,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,37.664,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,38.774,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,40.277,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,43.832,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,46.857,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,50.425,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,54.484,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,58.538,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,61.695,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,67.035,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,74.716,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,79.204,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,85.523,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,91.924,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,97.614,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,102.935,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,108.864,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,114.928,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,121.395,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2020,2020,,127.894,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2021,2021,,134.622,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2022,2022,,144.61,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2023,2023,,159.765,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2024,2024,,175.56,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2025,2025,,191.442,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2026,2026,,209.467,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,36.991,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,37.789,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,38.712,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,40.41,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,43.973,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,47.205,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,50.764,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,55.432,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,60.996,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,62.366,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,67.79,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,75.455,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,79.64,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,86.051,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,92.046,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,97.801,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,103.211,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,109.346,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,115.405,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,121.774,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2020,2020,,129.105,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2021,2021,,136.39,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2022,2022,,146.704,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2023,2023,,161.779,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2024,2024,,177.488,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2025,2025,,192.549,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2026,2026,,210.186,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,37.085,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,37.898,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,39.228,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,41.847,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,44.21,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,47.607,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,50.83,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,55.963,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,62.019,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,64.162,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,68.823,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,76.975,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,80.982,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,87.337,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,93.486,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,99.429,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,104.796,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,110.632,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,116.729,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,123.293,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2020,2020,,130.11,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2021,2021,,137.087,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2022,2022,,147.345,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2023,2023,,162.397,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2024,2024,,181.343,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2025,2025,,196.836,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,37.148,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,37.977,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,39.603,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,42.186,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,44.513,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,48.045,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,51.25,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,56.436,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,62.142,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,65.056,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,70.133,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,78.579,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,82.483,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,88.576,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,94.697,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,100.541,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,105.937,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,112.179,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,118.328,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,124.822,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2020,2020,,131.906,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2021,2021,,139.209,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2022,2022,,152.456,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2023,2023,,168.396,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2024,2024,,186.062,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2025,2025,,201.483,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,37.241,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,38.07,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,39.65,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,42.486,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,45.607,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,48.806,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,52.167,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,57.174,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,63.002,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,65.898,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,70.954,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,79.937,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,83.901,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,89.885,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,96.034,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,102.028,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,107.667,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,114.255,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,120.446,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,127.132,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2020,2020,,134.716,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2021,2021,,142.244,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2022,2022,,155.177,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2023,2023,,170.942,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2024,2024,,187.888,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2025,2025,,203.597,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,37.351,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,38.164,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,39.713,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,42.789,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,46.18,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,49.541,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,53.162,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,58.508,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,62.753,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,66.966,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,72.133,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,80.06,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,84.752,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,90.713,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,96.698,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,102.688,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,108.406,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,114.957,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,121.161,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,127.787,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2020,2020,,136.021,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2021,2021,,143.773,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2022,2022,,156.584,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2023,2023,,172.971,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2024,2024,,191.787,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2025,2025,,207.453,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,37.789,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,38.258,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,39.807,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,43.086,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,45.826,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,49.469,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,52.62,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,58.52,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,62.103,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,66.6,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,72.598,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,79.767,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,84.99,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,91.064,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,96.721,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,102.575,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,108.093,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,114.484,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,120.633,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,127.927,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2020,2020,,134.992,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2021,2021,,143.062,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2022,2022,,155.733,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2023,2023,,171.331,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2024,2024,,190.838,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2025,2025,,206.647,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,37.789,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,38.618,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,40.088,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,43.308,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,45.691,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,48.92,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,51.921,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,57.938,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,61.431,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,66.657,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,73.98,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,79.613,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,85.294,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,91.559,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,97.151,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,103.076,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,108.256,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,114.568,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,120.694,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,127.632,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2020,2020,,134.384,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2021,2021,,142.52,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2022,2022,,154.929,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2023,2023,,170.324,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2024,2024,,188.881,X,base year is 2015
+16,'050,Bangladesh,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2025,2025,,204.906,X,base year is 2015
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2001,2001,%,2.19,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2002,2002,%,2.395,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2003,2003,%,2.938,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2004,2004,%,9.143,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2005,2005,%,5.616,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2006,2006,%,6.702,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2007,2007,%,6.043,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2008,2008,%,11.639,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2009,2009,%,6.161,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2010,2010,%,9.148,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2011,2011,%,14.35,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2012,2012,%,6.965,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2013,2013,%,5.024,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2014,2014,%,8.805,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2015,2015,%,6.067,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2016,2016,%,4.329,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2017,2017,%,6.53,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2018,2018,%,7.62,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2019,2019,%,5.331,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2020,2020,%,5.117,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2021,2021,%,5.232,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2022,2022,%,5.604,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2023,2023,%,7.762,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2024,2024,%,10.126,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2025,2025,%,10.71,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7001,January,2026,2026,%,8.299,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2001,2001,%,1.556,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2002,2002,%,2.977,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2003,2003,%,3.942,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2004,2004,%,8.932,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2005,2005,%,6.488,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2006,2006,%,5.813,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2007,2007,%,7.411,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2008,2008,%,10.345,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2009,2009,%,5.915,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2010,2010,%,9.218,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2011,2011,%,15.008,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2012,2012,%,4.123,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2013,2013,%,7.446,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2014,2014,%,8.837,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2015,2015,%,6.108,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2016,2016,%,3.767,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2017,2017,%,6.836,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2018,2018,%,7.271,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2019,2019,%,5.444,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2020,2020,%,4.972,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2021,2021,%,5.423,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2022,2022,%,6.215,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2023,2023,%,8.127,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2024,2024,%,9.995,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2025,2025,%,9.247,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7002,February,2026,2026,%,9.302,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2001,2001,%,1.51,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2002,2002,%,3.018,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2003,2003,%,3.966,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2004,2004,%,9.046,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2005,2005,%,6.836,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2006,2006,%,6.282,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2007,2007,%,7.559,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2008,2008,%,10.24,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2009,2009,%,5.128,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2010,2010,%,8.932,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2011,2011,%,15.447,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2012,2012,%,3.639,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2013,2013,%,7.503,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2014,2014,%,8.958,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2015,2015,%,6.374,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2016,2016,%,3.889,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2017,2017,%,6.89,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2018,2018,%,7.086,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2019,2019,%,5.718,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2020,2020,%,4.868,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2021,2021,%,5.513,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2022,2022,%,6.337,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2023,2023,%,9.087,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2024,2024,%,10.435,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2025,2025,%,8.93,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7003,March,2026,2026,%,8.236,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2001,2001,%,1.637,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2002,2002,%,3.01,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2003,2003,%,3.88,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2004,2004,%,9.066,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2005,2005,%,6.734,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2006,2006,%,7.584,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2007,2007,%,8.427,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2008,2008,%,7.792,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2009,2009,%,5.449,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2010,2010,%,8.688,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2011,2011,%,15.222,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2012,2012,%,2.805,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2013,2013,%,8.675,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2014,2014,%,8.954,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2015,2015,%,6.476,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2016,2016,%,3.836,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2017,2017,%,6.936,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2018,2018,%,7.027,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2019,2019,%,5.541,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2020,2020,%,5.91,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2021,2021,%,5.567,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2022,2022,%,6.235,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2023,2023,%,9.402,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2024,2024,%,10.22,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2025,2025,%,8.627,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7004,April,2026,2026,%,8.393,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2001,2001,%,2.069,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2002,2002,%,2.999,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2003,2003,%,3.941,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2004,2004,%,8.985,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2005,2005,%,7.021,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2006,2006,%,7.748,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2007,2007,%,8.194,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2008,2008,%,7.569,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2009,2009,%,5.488,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2010,2010,%,8.807,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2011,2011,%,12.933,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2012,2012,%,2.699,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2013,2013,%,8.126,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2014,2014,%,9.089,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2015,2015,%,6.226,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2016,2016,%,3.805,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2017,2017,%,7.367,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2018,2018,%,6.56,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2019,2019,%,5.488,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2020,2020,%,5.093,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2021,2021,%,4.873,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2022,2022,%,8.304,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2023,2023,%,9.8,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2024,2024,%,10.764,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2025,2025,%,8.59,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7005,May,2026,2026,%,9.055,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2001,2001,%,2.194,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2002,2002,%,2.485,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2003,2003,%,4.464,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2004,2004,%,8.972,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2005,2005,%,7.479,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2006,2006,%,7.673,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2007,2007,%,9.358,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2008,2008,%,10.216,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2009,2009,%,2.285,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2010,2010,%,8.851,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2011,2011,%,12.722,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2012,2012,%,2.563,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2013,2013,%,8.259,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2014,2014,%,8.002,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2015,2015,%,6.319,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2016,2016,%,4.226,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2017,2017,%,7.506,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2018,2018,%,5.984,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2019,2019,%,5.397,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2020,2020,%,6.544,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2021,2021,%,5.451,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2022,2022,%,8.367,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2023,2023,%,10.301,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2024,2024,%,10.414,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2025,2025,%,7.391,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7006,June,2026,2026,%,8.595,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2001,2001,%,2.232,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2002,2002,%,3.569,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2003,2003,%,6.796,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2004,2004,%,5.742,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2005,2005,%,7.82,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2006,2006,%,6.888,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2007,2007,%,10.279,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2008,2008,%,11.014,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2009,2009,%,3.516,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2010,2010,%,6.712,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2011,2011,%,14.715,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2012,2012,%,2.23,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2013,2013,%,8.142,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2014,2014,%,7.937,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2015,2015,%,6.072,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2016,2016,%,4.35,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2017,2017,%,6.947,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2018,2018,%,6.179,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2019,2019,%,5.421,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2020,2020,%,5.697,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2021,2021,%,5.078,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2022,2022,%,8.192,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2023,2023,%,10.319,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2024,2024,%,14.104,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7007,July,2025,2025,%,7.556,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2001,2001,%,2.269,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2002,2002,%,4.359,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2003,2003,%,6.636,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2004,2004,%,5.611,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2005,2005,%,8.075,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2006,2006,%,6.786,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2007,2007,%,10.301,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2008,2008,%,10.29,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2009,2009,%,4.771,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2010,2010,%,8.232,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2011,2011,%,13.878,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2012,2012,%,2.25,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2013,2013,%,8.088,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2014,2014,%,7.667,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2015,2015,%,6.06,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2016,2016,%,4.303,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2017,2017,%,7.321,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2018,2018,%,5.967,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2019,2019,%,5.275,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2020,2020,%,6.078,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2021,2021,%,5.156,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2022,2022,%,9.943,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2023,2023,%,13.117,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2024,2024,%,11.359,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7008,August,2025,2025,%,7.598,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2001,2001,%,2.263,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2002,2002,%,4.223,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2003,2003,%,7.277,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2004,2004,%,7.476,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2005,2005,%,7.138,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2006,2006,%,7.006,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2007,2007,%,9.769,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2008,2008,%,10.375,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2009,2009,%,4.678,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2010,2010,%,8.578,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2011,2011,%,14.861,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2012,2012,%,1.749,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2013,2013,%,7.931,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2014,2014,%,7.627,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2015,2015,%,5.924,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2016,2016,%,5.1,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2017,2017,%,7.867,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2018,2018,%,5.416,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2019,2019,%,5.304,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2020,2020,%,6.502,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2021,2021,%,5.21,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2022,2022,%,9.077,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2023,2023,%,12.949,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2024,2024,%,10.402,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7009,September,2025,2025,%,7.64,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2001,2001,%,2.215,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2002,2002,%,4.128,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2003,2003,%,7.882,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2004,2004,%,8.063,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2005,2005,%,7.407,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2006,2006,%,7.44,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2007,2007,%,10.233,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2008,2008,%,7.383,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2009,2009,%,6.832,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2010,2010,%,9.398,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2011,2011,%,12.128,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2012,2012,%,2.508,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2013,2013,%,8.38,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2014,2014,%,7.159,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2015,2015,%,5.891,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2016,2016,%,5.559,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2017,2017,%,7.617,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2018,2018,%,5.083,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2019,2019,%,5.487,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2020,2020,%,7.341,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2021,2021,%,5.222,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2022,2022,%,8.496,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2023,2023,%,13.138,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2024,2024,%,12.656,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7010,October,2025,2025,%,7.078,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2001,2001,%,1.264,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2002,2002,%,4.117,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2003,2003,%,8.383,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2004,2004,%,6.471,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2005,2005,%,8.089,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2006,2006,%,6.482,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2007,2007,%,11.414,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2008,2008,%,6.229,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2009,2009,%,7.369,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2010,2010,%,10.956,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2011,2011,%,9.998,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2012,2012,%,3.942,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2013,2013,%,8.539,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2014,2014,%,6.454,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2015,2015,%,5.719,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2016,2016,%,5.41,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2017,2017,%,7.093,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2018,2018,%,5.278,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2019,2019,%,6.423,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2020,2020,%,5.731,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2021,2021,%,5.427,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2022,2022,%,8.145,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2023,2023,%,11.328,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2024,2024,%,13.804,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7011,November,2025,2025,%,7.357,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2001,2001,%,2.232,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2002,2002,%,3.871,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2003,2003,%,8.174,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2004,2004,%,5.599,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2005,2005,%,7.193,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2006,2006,%,6.242,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2007,2007,%,11.795,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2008,2008,%,6.134,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2009,2009,%,8.658,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2010,2010,%,13.689,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2011,2011,%,6.262,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2012,2012,%,5.28,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2013,2013,%,9.003,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2014,2014,%,5.862,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2015,2015,%,5.475,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2016,2016,%,5.377,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2017,2017,%,7.128,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2018,2018,%,5.295,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2019,2019,%,5.864,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2020,2020,%,5.341,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2021,2021,%,5.46,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2022,2022,%,7.907,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2023,2023,%,10.142,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2024,2024,%,12.913,E,
+16,'050,Bangladesh,23014,Food price inflation,6121,Value,7012,December,2025,2025,%,7.712,E,

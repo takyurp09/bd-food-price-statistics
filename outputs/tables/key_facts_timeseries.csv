@@ -1,0 +1,47 @@
+fact,value,how_computed
+months_rice_coarse,235,"Monthly observations used for rice_coarse, 2007-01 to 2026-07"
+gaps_filled_rice_coarse,5,Missing months filled by log-linear interpolation (max 3 in a row)
+months_lentil_masur,235,"Monthly observations used for lentil_masur, 2007-01 to 2026-07"
+gaps_filled_lentil_masur,3,Missing months filled by log-linear interpolation (max 3 in a row)
+months_staple_index,231,"Monthly observations used for staple_index, 2007-05 to 2026-07"
+gaps_filled_staple_index,0,Missing months filled by log-linear interpolation (max 3 in a row)
+stl_seasonal_strength_rice_coarse,0,"STL seasonal strength, 1 - Var(R)/Var(S+R) on log prices (0 = none, 1 = all)"
+stl_trend_strength_rice_coarse,0.936,"STL trend strength, 1 - Var(R)/Var(T+R) on log prices"
+stl_seasonal_strength_lentil_masur,0.021,"STL seasonal strength, 1 - Var(R)/Var(S+R) on log prices (0 = none, 1 = all)"
+stl_trend_strength_lentil_masur,0.931,"STL trend strength, 1 - Var(R)/Var(T+R) on log prices"
+stl_seasonal_strength_staple_index,0,"STL seasonal strength, 1 - Var(R)/Var(S+R) on log prices (0 = none, 1 = all)"
+stl_trend_strength_staple_index,0.91,"STL trend strength, 1 - Var(R)/Var(T+R) on log prices"
+seasonal_low_rice_coarse,Jun 98.2,Calendar month with lowest ratio-to-MA seasonal index
+seasonal_high_rice_coarse,Feb 101.4,Calendar month with highest ratio-to-MA seasonal index
+seasonal_low_lentil_masur,Mar 98.2,Calendar month with lowest ratio-to-MA seasonal index
+seasonal_high_lentil_masur,Aug 101.4,Calendar month with highest ratio-to-MA seasonal index
+seasonal_low_staple_index,Jun 98.9,Calendar month with lowest ratio-to-MA seasonal index
+seasonal_high_staple_index,Feb 100.9,Calendar month with highest ratio-to-MA seasonal index
+trend_growth_pct_yr_rice_coarse,4.08,"Log-linear trend growth, % per year, 95% HAC CI 3.28 to 4.87"
+trend_growth_pct_yr_lentil_masur,1.25,"Log-linear trend growth, % per year, 95% HAC CI 0.14 to 2.36"
+trend_growth_pct_yr_staple_index,3.7,"Log-linear trend growth, % per year, 95% HAC CI 2.91 to 4.49"
+ses_alpha_rice,1.0,Estimated alpha of simple exponential smoothing for rice (minimises SSE)
+stationarity_rice_coarse_log_level,non-stationary,"ADF p = 0.191, KPSS p = 0.010"
+stationarity_rice_coarse_monthly_log_change,stationary,"ADF p = 0.000, KPSS p = 0.100"
+stationarity_lentil_masur_log_level,stationary,"ADF p = 0.049, KPSS p = 0.068"
+stationarity_lentil_masur_monthly_log_change,stationary,"ADF p = 0.000, KPSS p = 0.100"
+stationarity_staple_index_log_level,non-stationary,"ADF p = 0.246, KPSS p = 0.010"
+stationarity_staple_index_monthly_log_change,stationary,"ADF p = 0.000, KPSS p = 0.100"
+stationarity_food_CPI_log_level,non-stationary,"ADF p = 0.985, KPSS p = 0.010"
+stationarity_food_CPI_monthly_log_change,stationary,"ADF p = 0.034, KPSS p = 0.100"
+acf1_dlog_rice_coarse,0.34,Lag-1 autocorrelation of monthly log change
+acf1_dlog_staple_index,0.376,Lag-1 autocorrelation of monthly log change
+best_method_rice_coarse,sarima,Lowest mean MASE at horizons 1-6 over 13 rolling origins (Jul 2022 - Jul 2025)
+best_mape_h1_6_rice_coarse,3.55,"MAPE (%) of chosen method, horizons 1-6"
+best_mase_h1_6_rice_coarse,0.288,"MASE of chosen method, horizons 1-6"
+best_method_staple_index,ets,Lowest mean MASE at horizons 1-6 over 13 rolling origins (Jul 2022 - Jul 2025)
+best_mape_h1_6_staple_index,2.85,"MAPE (%) of chosen method, horizons 1-6"
+best_mase_h1_6_staple_index,0.284,"MASE of chosen method, horizons 1-6"
+forecast_rice_coarse_2027-01,48.5,"sarima forecast, 95% interval 37.8 to 62.2; last actual 49.0 in 2026-07"
+forecast_staple_index_2027-01,160.9,"ets forecast, 95% interval 132.8 to 199.6; last actual 160.2 in 2026-07"
+most_volatile_item_short,chili_green,Highest SD of monthly log change since Oct 2024 (national mean)
+most_volatile_sd_pct,43.6,SD of monthly % change of the most volatile item since Oct 2024
+onion_sd_mm_pct,12.8,"SD of monthly % change, imported onion, since Oct 2024"
+rice_sd_mm_pct_short,1.7,"SD of monthly % change, coarse rice, since Oct 2024"
+most_volatile_long_basket,palm_oil,Highest SD of monthly log change 2007-2026 among long-basket items (4.2%)
+peak_rolling_vol,palm_oil 2009-05 11.6,"Highest rolling 12-month SD of monthly % change, long basket"

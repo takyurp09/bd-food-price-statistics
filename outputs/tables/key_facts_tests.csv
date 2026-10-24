@@ -1,0 +1,128 @@
+fact,value,how_computed,notebook
+ci_price_items,11,Core items with a cross-market CI (latest month with >= 20 markets),02
+ci_price_max_halfwidth_pct,4.8,"Widest 95% t-interval half-width, % of mean",02
+ci_price_max_halfwidth_item,onion,Item with the widest interval,02
+ci_price_median_halfwidth_pct,1.6,"Median half-width across items, % of mean",02
+ci_price_max_t_vs_boot_diff_pct,0.55,"Largest gap between t and bootstrap limits, % of mean",02
+yoy_mean_rice_coarse,5.85,"Mean y/y log change, %, 2007 to latest",02
+yoy_hac_ci_rice_coarse,-1.6 to 13.3,"95% Newey-West CI, 18 lags",02
+yoy_mean_atta,4.5,"Mean y/y log change, %, 2007 to latest",02
+yoy_hac_ci_atta,-4.1 to 13.1,"95% Newey-West CI, 18 lags",02
+yoy_mean_lentil_masur,3.33,"Mean y/y log change, %, 2007 to latest",02
+yoy_hac_ci_lentil_masur,-3.8 to 10.5,"95% Newey-West CI, 18 lags",02
+yoy_mean_palm_oil,4.32,"Mean y/y log change, %, 2007 to latest",02
+yoy_hac_ci_palm_oil,-4.0 to 12.7,"95% Newey-West CI, 18 lags",02
+yoy_width_ratio_hac_vs_t_median,2.99,Median ratio of HAC to naive t-interval width,02
+dhaka_pairs_tested,20,Item x division pairs,02
+dhaka_pairs_sig_naive_t,17,Pairs with paired-t p < 0.05 (no correction),02
+dhaka_pairs_sig_hac_holm,15,Pairs with Newey-West p < 0.05 after Holm,02
+dhaka_gap_abs_max_pct,7.1,"Largest |mean gap|, %",02
+dhaka_gap_median_rho1,0.65,Median lag-1 autocorrelation of the monthly gap,02
+ramadan_excess_rice_coarse,-0.35,"Mean Ramadan-vs-2-months-before log diff net of drift, %, 2007-2026",02
+ramadan_excess_p_rice_coarse,0.686,One-sided paired t p-value,02
+ramadan_excess_atta,-0.38,"Mean Ramadan-vs-2-months-before log diff net of drift, %, 2007-2026",02
+ramadan_excess_p_atta,0.723,One-sided paired t p-value,02
+ramadan_excess_lentil_masur,0.52,"Mean Ramadan-vs-2-months-before log diff net of drift, %, 2007-2026",02
+ramadan_excess_p_lentil_masur,0.247,One-sided paired t p-value,02
+ramadan_excess_palm_oil,-1.52,"Mean Ramadan-vs-2-months-before log diff net of drift, %, 2007-2026",02
+ramadan_excess_p_palm_oil,0.874,One-sided paired t p-value,02
+ramadan_market_sugar,-1.98,"Mean market-level Ramadan-vs-Jan-Feb diff, %, 2025-2026",02
+ramadan_market_onion,-6.35,"Mean market-level Ramadan-vs-Jan-Feb diff, %, 2025-2026",02
+ramadan_market_soybean_oil,-2.03,"Mean market-level Ramadan-vs-Jan-Feb diff, %, 2025-2026",02
+ramadan_market_chicken_broiler,1.13,"Mean market-level Ramadan-vs-Jan-Feb diff, %, 2025-2026",02
+ramadan_market_egg,-7.25,"Mean market-level Ramadan-vs-Jan-Feb diff, %, 2025-2026",02
+ramadan_market_lentil_masur,-0.48,"Mean market-level Ramadan-vs-Jan-Feb diff, %, 2025-2026",02
+ramadan_market_palm_oil,-0.28,"Mean market-level Ramadan-vs-Jan-Feb diff, %, 2025-2026",02
+ramadan_reg_ramadan_rice_coarse,-0.63,"Newey-West OLS coefficient, pp per month (p = 0.303)",02
+ramadan_reg_pre_ramadan_rice_coarse,0.05,"Newey-West OLS coefficient, pp per month (p = 0.948)",02
+ramadan_reg_ramadan_atta,-0.09,"Newey-West OLS coefficient, pp per month (p = 0.839)",02
+ramadan_reg_pre_ramadan_atta,0.33,"Newey-West OLS coefficient, pp per month (p = 0.594)",02
+ramadan_reg_ramadan_lentil_masur,0.03,"Newey-West OLS coefficient, pp per month (p = 0.959)",02
+ramadan_reg_pre_ramadan_lentil_masur,1.91,"Newey-West OLS coefficient, pp per month (p = 0.091)",02
+ramadan_reg_ramadan_palm_oil,-1.94,"Newey-West OLS coefficient, pp per month (p = 0.060)",02
+ramadan_reg_pre_ramadan_palm_oil,0.16,"Newey-West OLS coefficient, pp per month (p = 0.844)",02
+anova_rel_eta2_rice_coarse,0.302,"Eta squared, division effect, yearly data",02
+anova_rel_eta2_atta,0.57,"Eta squared, division effect, yearly data",02
+anova_rel_eta2_lentil_masur,0.315,"Eta squared, division effect, yearly data",02
+anova_rel_eta2_palm_oil,0.681,"Eta squared, division effect, yearly data",02
+anova_infl_eta2_rice_coarse,0.002,"Eta squared, division effect, yearly data",02
+anova_infl_eta2_atta,0.0,"Eta squared, division effect, yearly data",02
+anova_infl_eta2_lentil_masur,0.0,"Eta squared, division effect, yearly data",02
+anova_infl_eta2_palm_oil,0.001,"Eta squared, division effect, yearly data",02
+anova_infl_any_sig,0,Items whose annual inflation differs by division (p < 0.05),02
+tukey_rel_sig_pairs,36,"Division pairs with different relative price level, Tukey HSD, all four items",02
+post2022_diff_rice_coarse,-0.12,"Post minus pre mean monthly change, pp (Newey-West p = 0.817)",02
+post2022_diff_atta,-0.02,"Post minus pre mean monthly change, pp (Newey-West p = 0.980)",02
+post2022_diff_lentil_masur,-0.25,"Post minus pre mean monthly change, pp (Newey-West p = 0.594)",02
+post2022_diff_palm_oil,-0.57,"Post minus pre mean monthly change, pp (Newey-West p = 0.506)",02
+post2022_diff_fisher_index,-0.28,"Post minus pre mean monthly change, pp (Newey-West p = 0.505)",02
+post2022_diff_bdt_per_usd,0.43,"Post minus pre mean monthly change, pp (Newey-West p = 0.018)",02
+fx_pre_2022_06,92.0,"BDT per USD, Jun 2022",02
+fx_latest,123.1,"BDT per USD, 2026-08",02
+sd_ratio_staples_vs_cpi,6.93,SD of staple y/y over SD of food CPI y/y,02
+sd_ratio_block_ci,4.4 to 10.8,95% block bootstrap CI,02
+tests_02_total,152,Tests with a p-value in notebook 02,02
+tests_02_reject_raw,70,p < 0.05 before correction,02
+tests_02_reject_holm,66,p < 0.05 after Holm within section,02
+spike_threshold_rule,"m/m log change > item's 90th percentile, 2007-2026",Spike definition,03
+spike_threshold_rice_coarse,5.05,90th percentile of monthly % change,03
+spike_threshold_atta,4.27,90th percentile of monthly % change,03
+spike_threshold_lentil_masur,3.22,90th percentile of monthly % change,03
+spike_threshold_palm_oil,4.74,90th percentile of monthly % change,03
+spike_item_months,92,"Spike item-months, national, 4 staples",03
+spike_rate_flood_event_pct,12.1,"Spike rate in event months, % (4/33)",03
+spike_rate_flood_other_pct,10.1,"Spike rate in other months, %",03
+spike_or_flood,1.23,"Odds ratio, 95% CI 0.42 to 3.59",03
+spike_p_fisher_flood,0.766,Fisher exact p,03
+spike_p_perm_flood,0.682,Circular-shift permutation p,03
+spike_rate_flood_lag1_event_pct,21.9,"Spike rate in event months, % (7/32)",03
+spike_rate_flood_lag1_other_pct,9.7,"Spike rate in other months, %",03
+spike_or_flood_lag1,2.61,"Odds ratio, 95% CI 1.09 to 6.20",03
+spike_p_fisher_flood_lag1,0.035,Fisher exact p,03
+spike_p_perm_flood_lag1,0.051,Circular-shift permutation p,03
+spike_rate_ramadan_event_pct,3.8,"Spike rate in event months, % (3/79)",03
+spike_rate_ramadan_other_pct,10.7,"Spike rate in other months, %",03
+spike_or_ramadan,0.33,"Odds ratio, 95% CI 0.10 to 1.06",03
+spike_p_fisher_ramadan,0.051,Fisher exact p,03
+spike_p_perm_ramadan,0.093,Circular-shift permutation p,03
+spike_rate_pre_ramadan_event_pct,10.5,"Spike rate in event months, % (8/76)",03
+spike_rate_pre_ramadan_other_pct,10.1,"Spike rate in other months, %",03
+spike_or_pre_ramadan,1.05,"Odds ratio, 95% CI 0.49 to 2.25",03
+spike_p_fisher_pre_ramadan,0.844,Fisher exact p,03
+spike_p_perm_pre_ramadan,0.944,Circular-shift permutation p,03
+spike_rate_heavy_rain_event_pct,9.3,"Spike rate in event months, % (66/708)",03
+spike_rate_heavy_rain_other_pct,10.3,"Spike rate in other months, %",03
+spike_or_heavy_rain,0.89,"Odds ratio, 95% CI 0.68 to 1.17",03
+spike_p_fisher_heavy_rain,0.461,Fisher exact p,03
+spike_p_perm_heavy_rain,0.82,Circular-shift permutation p,03
+spike_rate_heavy_rain_lag1_event_pct,10.2,"Spike rate in event months, % (74/722)",03
+spike_rate_heavy_rain_lag1_other_pct,10.2,"Spike rate in other months, %",03
+spike_or_heavy_rain_lag1,1.01,"Odds ratio, 95% CI 0.78 to 1.31",03
+spike_p_fisher_heavy_rain_lag1,0.947,Fisher exact p,03
+spike_p_perm_heavy_rain_lag1,0.99,Circular-shift permutation p,03
+dir_season_chi2,5.3,"Chi-square, df 6",03
+dir_season_p_perm,0.912,Phase-shift permutation p,03
+dir_season_cramers_v,0.054,Cramer's V,03
+gof_calendar_chi2,16.4,"Chi-square GOF, spike item-months by calendar month, df 11",03
+gof_calendar_p,0.1256,p-value,03
+gof_calendar_any_p,0.3111,"p-value, months with a spike in any staple",03
+gof_calendar_peak_month,Oct,Calendar month with the highest observed/expected ratio,03
+kurtosis_rice_coarse,1.92,Excess kurtosis of monthly % change (normal = 0),03
+t_df_rice_coarse,4.2,Fitted t degrees of freedom,03
+aic_gain_t_rice_coarse,15.6,AIC(normal) - AIC(t); positive favours t,03
+beyond3sd_rice_coarse_pct,1.8,"Share of months beyond 3 SD, % (normal: 0.27%)",03
+kurtosis_atta,6.52,Excess kurtosis of monthly % change (normal = 0),03
+t_df_atta,1.4,Fitted t degrees of freedom,03
+aic_gain_t_atta,127.5,AIC(normal) - AIC(t); positive favours t,03
+beyond3sd_atta_pct,3.1,"Share of months beyond 3 SD, % (normal: 0.27%)",03
+kurtosis_lentil_masur,5.64,Excess kurtosis of monthly % change (normal = 0),03
+t_df_lentil_masur,2.2,Fitted t degrees of freedom,03
+aic_gain_t_lentil_masur,68.9,AIC(normal) - AIC(t); positive favours t,03
+beyond3sd_lentil_masur_pct,1.7,"Share of months beyond 3 SD, % (normal: 0.27%)",03
+kurtosis_palm_oil,7.27,Excess kurtosis of monthly % change (normal = 0),03
+t_df_palm_oil,2.0,Fitted t degrees of freedom,03
+aic_gain_t_palm_oil,86.1,AIC(normal) - AIC(t); positive favours t,03
+beyond3sd_palm_oil_pct,2.2,"Share of months beyond 3 SD, % (normal: 0.27%)",03
+tests_03_total,38,Tests with a p-value in notebook 03,03
+tests_03_reject_raw,14,p < 0.05 before correction,03
+tests_03_reject_holm,12,p < 0.05 after Holm within section,03

@@ -1,0 +1,25 @@
+event,event_month,spike,count
+Flood month (same month),False,False,787
+Flood month (same month),False,True,88
+Flood month (same month),True,False,29
+Flood month (same month),True,True,4
+Flood month (prices one month later),False,False,791
+Flood month (prices one month later),False,True,85
+Flood month (prices one month later),True,False,25
+Flood month (prices one month later),True,True,7
+Ramadan month,False,False,740
+Ramadan month,False,True,89
+Ramadan month,True,False,76
+Ramadan month,True,True,3
+Month before Ramadan,False,False,748
+Month before Ramadan,False,True,84
+Month before Ramadan,True,False,68
+Month before Ramadan,True,True,8
+"Heavy-rain month, same division",False,False,3966
+"Heavy-rain month, same division",False,True,456
+"Heavy-rain month, same division",True,False,642
+"Heavy-rain month, same division",True,True,66
+"Heavy-rain month, prices one month later",False,False,3946
+"Heavy-rain month, prices one month later",False,True,446
+"Heavy-rain month, prices one month later",True,False,648
+"Heavy-rain month, prices one month later",True,True,74
